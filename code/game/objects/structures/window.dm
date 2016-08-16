@@ -477,6 +477,16 @@
 	canSmoothWith = list(/obj/structure/window/fulltile, /obj/structure/window/reinforced/fulltile, /obj/structure/window/reinforced/tinted/fulltile)
 	level = 3
 
+/obj/structure/window/reinforced/vault/fulltile
+	icon = 'icons/obj/smooth_structures/vault_window.dmi'
+	icon_state = "r_window"
+	dir = 5
+	maxhealth = 150
+	fulltile = 1
+	smooth = SMOOTH_TRUE
+	canSmoothWith = list(/obj/structure/window/fulltile, /obj/structure/window/reinforced/fulltile, /obj/structure/window/reinforced/tinted/fulltile, /obj/structure/window/reinforced/vault/fulltile)
+	level = 3
+
 /obj/structure/window/reinforced/tinted/fulltile
 	icon = 'icons/obj/smooth_structures/tinted_window.dmi'
 	icon_state = "tinted_window"

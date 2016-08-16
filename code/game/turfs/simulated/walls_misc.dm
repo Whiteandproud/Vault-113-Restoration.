@@ -51,6 +51,16 @@
 	walltype = "rrust"
 	hardness = 15
 
+
+/turf/simulated/wall/r_wall/vault
+	name = "vault reinforced wall"
+	desc = "A huge vault reinforced metal."
+	icon = 'icons/turf/walls/vault_reinforced_wall.dmi'
+	icon_state = "vaultwall"
+	walltype = "vaultwall"
+	hardness = 60
+
+
 /turf/simulated/wall/shuttle
 	name = "wall"
 	icon = 'icons/turf/shuttle.dmi'

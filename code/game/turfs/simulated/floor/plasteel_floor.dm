@@ -337,6 +337,9 @@
 /turf/simulated/floor/plasteel/floorgrime
 	icon_state = "floorgrime"
 
+/turf/simulated/floor/plasteel/vault1
+	icon_state = "vault1"
+
 /turf/simulated/floor/plasteel/solarpanel
 	icon_state = "solarpanel"
 
