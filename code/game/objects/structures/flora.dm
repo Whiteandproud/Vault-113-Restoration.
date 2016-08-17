@@ -94,6 +94,14 @@
 	icon = 'icons/obj/flora/wasteland.dmi'
 	icon_state = "mushroom_[rand(1, 4)]"
 
+//glowshroom
+/obj/structure/flora/cactus/New()
+	..()
+	density = 1
+	name = "cactus"
+	icon = 'icons/obj/flora/wasteland.dmi'
+	icon_state = "barrel_cactus_fruit"
+
 //bushes
 /obj/structure/flora/bush
 	name = "bush"
