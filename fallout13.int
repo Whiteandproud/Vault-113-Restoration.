@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1471507580
-DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation code code\game code\game\objects code\game\objects\structures icons icons\obj icons\obj\flora 
+LAST_COMPILE_TIME: 1471547158
+DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation code code\__PATH_COMPATIBILITY code\game code\game\gamemodes code\game\gamemodes\abduction code\game\gamemodes\changeling code\game\gamemodes\changeling\powers code\game\gamemodes\wizard code\game\machinery code\game\machinery\doors code\game\objects code\game\objects\items code\game\objects\structures code\game\objects\structures\crates_lockers code\game\objects\structures\crates_lockers\closets code\modules code\modules\food&drinks code\modules\food&drinks\kitchen machinery code\modules\hydroponics code\modules\library code\modules\reagents code\modules\reagents\chemistry code\modules\reagents\chemistry\machinery code\modules\reagents\chemistry\reagents icons icons\obj icons\obj\flora 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 510.1338
-WINDOW: code\hub.dm;_maps\map_files\generic\z5.dmm;code\game\objects\structures\window.dm;_maps\map_files\TgStation\tgstation.2.1.3.dmm;code\game\objects\structures\flora.dm;icons\obj\objects.dmi;icons\obj\flora\wasteland.dmi
-FILE: icons\obj\flora\wasteland.dmi
+WINDOW: code\hub.dm;_maps\map_files\generic\z5.dmm;code\game\objects\structures\window.dm;_maps\map_files\TgStation\tgstation.2.1.3.dmm;code\game\objects\structures\extinguisher.dm;code\game\objects\structures\wasteplants.dm;icons\obj\Plants.dmi;code\modules\hydroponics\grown.dm;code\modules\hydroponics\seeds.dm
+FILE: _maps\map_files\generic\z5.dmm
 */
 // END_INTERNALS
