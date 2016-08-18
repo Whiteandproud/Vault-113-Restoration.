@@ -67,6 +67,7 @@ Head of Security
 /*
 Warden
 */
+/*
 /datum/job/warden
 	title = "Warden"
 	flag = WARDEN
@@ -118,7 +119,7 @@ Warden
 	L.imp_in = H
 	L.implanted = 1
 	H.sec_hud_set_implants()
-
+*/
 /*
 Ranger
 */
@@ -131,7 +132,7 @@ Ranger
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "the head of security"
-	selection_color = "#ffeeee"
+	selection_color = "#ffddf0"
 	minimal_player_age = 7
 
 	outfit = /datum/outfit/job/detective
@@ -150,6 +151,7 @@ Ranger
 	suit_store = /obj/item/weapon/gun/projectile/automatic/assault_rifle
 	backpack_contents = list(/obj/item/weapon/gun/projectile/automatic/pistol/deagle = 1, \
 		/obj/item/weapon/restraints/handcuffs=2, \
+		/obj/item/weapon/reagent_containers/pill/patch/stimpak = 1, \
 		/obj/item/weapon/melee/classic_baton/telescopic=1)
 	mask = /obj/item/clothing/mask/gas/sechailer
 	/*
@@ -193,6 +195,7 @@ Legion
 	backpack = /obj/item/weapon/storage/backpack
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
+	/obj/item/weapon/reagent_containers/pill/patch/healpowder = 1, \
 	/obj/item/weapon/storage/wallet=1, \
 	/obj/item/stack/coin/coins = 1, \
 	/obj/item/weapon/machete = 1)
@@ -236,6 +239,7 @@ Legion
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
 	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/weapon/reagent_containers/pill/patch/healpowder = 1, \
 	/obj/item/stack/coin/coins = 3, \
 	/obj/item/weapon/machete = 1)
 
@@ -279,7 +283,7 @@ Legion
 	/obj/item/weapon/storage/wallet=1, \
 	/obj/item/stack/coin/coins = 3, \
 	/obj/item/weapon/machete = 1, \
-	/obj/item/weapon/storage/firstaid/brute=1)
+	/obj/item/weapon/reagent_containers/pill/patch/healpowder = 4)
 
 //centurion
 /datum/job/legcenturion
@@ -320,6 +324,7 @@ Legion
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
 	/obj/item/weapon/storage/wallet=1, \
 	/obj/item/stack/coin/coins = 3, \
+	/obj/item/weapon/reagent_containers/pill/patch/healpowder = 1, \
 	/obj/item/weapon/powergauntlet = 1)
 
 //legat
@@ -361,6 +366,7 @@ Legion
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1, \
 	/obj/item/weapon/storage/wallet=1, \
 	/obj/item/stack/coin/coins = 3, \
+	/obj/item/weapon/reagent_containers/pill/patch/healpowder = 1, \
 	/obj/item/weapon/powergauntlet = 1)
 /*
 Security Officer
@@ -371,10 +377,10 @@ Security Officer
 	department_head = list("Head of Security")
 	department_flag = ENGSEC
 	faction = "Station"
-	total_positions = 5 //Handled in /datum/controller/occupations/proc/setup_officer_positions()
-	spawn_positions = 5 //Handled in /datum/controller/occupations/proc/setup_officer_positions()
+	total_positions = 8 //Handled in /datum/controller/occupations/proc/setup_officer_positions()
+	spawn_positions = 8 //Handled in /datum/controller/occupations/proc/setup_officer_positions()
 	supervisors = "the head of security, and the head of your assigned department (if applicable)"
-	selection_color = "#ffeeee"
+	selection_color = "#ccccff"
 	minimal_player_age = 7
 
 	outfit = /datum/outfit/job/security

@@ -58,10 +58,10 @@ Scientist
 	department_head = list("Research Director")
 	department_flag = MEDSCI
 	faction = "Station"
-	total_positions = 5
-	spawn_positions = 3
+	total_positions = 6
+	spawn_positions = 6
 	supervisors = "the research director"
-	selection_color = "#ffeeff"
+	selection_color = "#ccccff"
 
 	outfit = /datum/outfit/job/scientist
 
@@ -80,6 +80,7 @@ Scientist
 /*
 Roboticist
 */
+/*
 /datum/job/roboticist
 	title = "Roboticist"
 	flag = ROBOTICIST
@@ -106,3 +107,4 @@ Roboticist
 	suit = /obj/item/clothing/suit/toggle/labcoat
 
 	pda_slot = slot_l_store
+*/

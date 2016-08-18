@@ -1,6 +1,7 @@
 /*
 Quartermaster
 */
+/*
 /datum/job/qm
 	title = "Quartermaster"
 	flag = QUARTERMASTER
@@ -206,3 +207,4 @@ Janitor
 	gloves = /obj/item/clothing/gloves/pda/janitor
 	ears = /obj/item/device/radio/headset/headset_srv
 	uniform = /obj/item/clothing/under/f13/vault/v13
+	*/

@@ -5184,3 +5184,4607 @@ Database connection failed. Reverting to the legacy ban system.
 [02:19:52]SAY: Molerat/ : Squeek
 [02:19:52]SAY: Molerat/ : Squeek, i say
 [02:19:53]ACCESS: Logout: PahomLancer[DC]/(Griffin Whiteman)
+
+
+Starting up. 03:44.10
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Database connection failed. Reverting to the legacy ban system.
+[03:44:11]ADMIN: Loading appearance_rank
+[03:44:11]ADMIN: appearance_keylist was empty
+[03:44:11]ADMIN: Loading Banlist
+[03:44:52]ACCESS: Login: PahomLancer/(PahomLancer) from 127.0.0.1-357177658 || BYOND v510
+[03:44:57]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[03:45:34]ADMIN: PahomLancer has started the game.
+[03:45:37]ACCESS: Logout: *no key*/(PahomLancer)
+[03:45:37]ACCESS: Login: PahomLancer/(Griffin Whiteman) from 127.0.0.1-357177658 || BYOND v510
+[03:45:38]SAY: Molerat/ : Squeek!
+[03:45:38]SAY: Molerat/ : Squeek
+[03:45:38]SAY: Molerat/ : Squeek
+[03:45:38]SAY: Molerat/ : Squeek!
+[03:45:38]SAY: Molerat/ : Squeek
+[03:45:38]SAY: Molerat/ : Squeek
+[03:45:40]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:45:41]SAY: Molerat/ : Squeek
+[03:45:41]SAY: Molerat/ : Squeek!
+[03:45:41]SAY: Molerat/ : Squeek
+[03:45:41]SAY: Molerat/ : Squeek
+[03:45:41]SAY: Mutant/ : NNNNNGH!
+[03:45:41]SAY: Molerat/ : Squeek
+[03:45:41]SAY: Molerat/ : Squeek
+[03:45:41]SAY: Molerat/ : Squeek
+[03:45:41]SAY: brahmin/ : Moo?
+[03:45:41]SAY: Molerat/ : Squeek!
+[03:45:43]SAY: Molerat/ : Squeek!
+[03:45:43]SAY: Molerat/ : Squeek!
+[03:45:43]SAY: Molerat/ : Squeek!
+[03:45:43]SAY: Molerat/ : Squeek!
+[03:45:43]SAY: Molerat/ : Squeek!
+[03:45:43]SAY: Molerat/ : Squeek!
+[03:45:44]SAY: Molerat/ : Squeek!
+[03:45:45]SAY: Molerat/ : Squeek!
+[03:45:45]SAY: Molerat/ : Squeek!
+[03:45:45]SAY: Molerat/ : Squeek
+[03:45:45]SAY: Molerat/ : Squeek!
+[03:45:45]SAY: Molerat/ : Squeek
+[03:45:45]SAY: Molerat/ : Squeek
+[03:45:45]SAY: Molerat/ : Squeek!
+[03:45:46]SAY: Molerat/ : Squeek
+[03:45:46]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:45:47]SAY: Molerat/ : Squeek
+[03:45:48]SAY: Molerat/ : Squeek!
+[03:45:48]SAY: Mutant/ : HMPH!
+[03:45:48]SAY: Mutant/ : NNNNNGH!
+[03:45:48]SAY: Molerat/ : Squeek, i say
+[03:45:48]SAY: Molerat/ : Squeek
+[03:45:48]SAY: Molerat/ : Squeek
+[03:45:50]SAY: Molerat/ : Squeek!
+[03:45:50]SAY: Molerat/ : Squeek!
+[03:45:50]SAY: Molerat/ : Squeek
+[03:45:50]SAY: Molerat/ : Squeek
+[03:45:50]SAY: Molerat/ : Squeek
+[03:45:50]SAY: Molerat/ : Squeek!
+[03:45:50]SAY: Molerat/ : Squeek, i say
+[03:45:50]SAY: Molerat/ : Squeek
+[03:45:50]SAY: Molerat/ : Squeek
+[03:45:50]SAY: Molerat/ : Squeek, i say
+[03:45:50]SAY: Molerat/ : Squeek!
+[03:45:52]SAY: Molerat/ : Squeek!
+[03:45:52]SAY: Molerat/ : Squeek!
+[03:45:52]SAY: Molerat/ : Squeek!
+[03:45:52]SAY: Molerat/ : Squeek, i say
+[03:45:52]SAY: Molerat/ : Squeek!
+[03:45:52]SAY: Molerat/ : Squeek
+[03:45:52]SAY: Molerat/ : Squeek!
+[03:45:54]SAY: Mutant/ : ARGH!
+[03:45:54]SAY: Molerat/ : Squeek!
+[03:45:54]SAY: Molerat/ : Squeek, i say
+[03:45:54]SAY: Molerat/ : Squeek, i say
+[03:45:54]SAY: Molerat/ : Squeek
+[03:45:54]SAY: Molerat/ : Squeek
+[03:45:54]SAY: Molerat/ : Squeek
+[03:45:54]SAY: Molerat/ : Squeek
+[03:45:54]SAY: Molerat/ : Squeek
+[03:45:54]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:45:56]SAY: Molerat/ : Squeek, i say
+[03:45:56]SAY: Molerat/ : Squeek!
+[03:45:56]SAY: Molerat/ : Squeek
+[03:45:56]SAY: Molerat/ : Squeek
+[03:45:56]SAY: Molerat/ : Squeek!
+[03:45:56]SAY: Molerat/ : Squeek!
+[03:45:56]SAY: Molerat/ : Squeek
+[03:45:56]SAY: Molerat/ : Squeek!
+[03:45:56]SAY: Molerat/ : Squeek
+[03:45:56]SAY: Molerat/ : Squeek, i say
+[03:45:56]SAY: Molerat/ : Squeek
+[03:45:58]SAY: Molerat/ : Squeek!
+[03:46:00]SAY: Molerat/ : Squeek
+[03:46:00]SAY: Molerat/ : Squeek
+[03:46:00]SAY: Molerat/ : Squeek
+[03:46:00]SAY: Mutant/ : ARGH!
+[03:46:00]SAY: Molerat/ : Squeek
+[03:46:00]SAY: brahmin/ : MOOOOOO
+[03:46:00]SAY: Molerat/ : Squeek!
+[03:46:00]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek!
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek!
+[03:46:02]SAY: Molerat/ : Squeek!
+[03:46:02]SAY: Molerat/ : Squeek, i say
+[03:46:02]SAY: Mutant/ : ARRRRR!
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek!
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek!
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:02]SAY: Molerat/ : Squeek, i say
+[03:46:02]SAY: Molerat/ : Squeek
+[03:46:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:04]SAY: Molerat/ : Squeek
+[03:46:04]SAY: Molerat/ : Squeek!
+[03:46:04]SAY: Molerat/ : Squeek!
+[03:46:04]SAY: Molerat/ : Squeek!
+[03:46:06]SAY: Molerat/ : Squeek
+[03:46:06]SAY: Molerat/ : Squeek
+[03:46:06]SAY: Molerat/ : Squeek
+[03:46:06]SAY: Molerat/ : Squeek, i say
+[03:46:06]SAY: Molerat/ : Squeek
+[03:46:06]SAY: Mutant/ : ARGH!
+[03:46:06]SAY: Molerat/ : Squeek
+[03:46:06]SAY: Molerat/ : Squeek
+[03:46:06]EMOTE: Default Cyborg-211/ : <B>Default Cyborg-211</B> shudders violently for a moment, then becomes motionless, its eyes slowly darkening.
+[03:46:08]SAY: Molerat/ : Squeek!
+[03:46:08]SAY: Molerat/ : Squeek
+[03:46:08]SAY: Molerat/ : Squeek
+[03:46:08]SAY: Molerat/ : Squeek!
+[03:46:08]SAY: Molerat/ : Squeek
+[03:46:08]SAY: Mutant/ : NNNNNGH!
+[03:46:08]SAY: Molerat/ : Squeek
+[03:46:08]SAY: Molerat/ : Squeek!
+[03:46:08]SAY: Molerat/ : Squeek
+[03:46:09]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:11]SAY: Molerat/ : Squeek, i say
+[03:46:11]SAY: Molerat/ : Squeek
+[03:46:11]SAY: Molerat/ : Squeek
+[03:46:11]SAY: Molerat/ : Squeek!
+[03:46:11]SAY: Mutant/ : HMPH!
+[03:46:11]SAY: Molerat/ : Squeek, i say
+[03:46:11]SAY: Molerat/ : Squeek, i say
+[03:46:11]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek!
+[03:46:13]SAY: Mutant/ : NNNNNGH!
+[03:46:13]SAY: Molerat/ : Squeek
+[03:46:13]SAY: Molerat/ : Squeek!
+[03:46:13]SAY: Molerat/ : Squeek!
+[03:46:15]SAY: Molerat/ : Squeek!
+[03:46:15]SAY: Molerat/ : Squeek!
+[03:46:15]SAY: Molerat/ : Squeek
+[03:46:15]SAY: Molerat/ : Squeek, i say
+[03:46:15]SAY: Mutant/ : ARRRRR!
+[03:46:15]SAY: Molerat/ : Squeek, i say
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek, i say
+[03:46:17]SAY: Molerat/ : Squeek!
+[03:46:17]SAY: Molerat/ : Squeek, i say
+[03:46:17]SAY: Molerat/ : Squeek, i say
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek, i say
+[03:46:17]SAY: Mutant/ : GRRRRRR!
+[03:46:17]SAY: Mutant/ : GRRRRRR!
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek
+[03:46:17]SAY: Molerat/ : Squeek!
+[03:46:17]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:19]SAY: Molerat/ : Squeek, i say
+[03:46:19]SAY: Molerat/ : Squeek
+[03:46:19]SAY: Molerat/ : Squeek
+[03:46:19]SAY: Mutant/ : GRRRRRR!
+[03:46:19]SAY: Molerat/ : Squeek
+[03:46:19]SAY: Molerat/ : Squeek
+[03:46:19]SAY: Molerat/ : Squeek!
+[03:46:21]SAY: Molerat/ : Squeek, i say
+[03:46:21]SAY: Molerat/ : Squeek
+[03:46:21]SAY: Molerat/ : Squeek, i say
+[03:46:21]SAY: Molerat/ : Squeek!
+[03:46:23]SAY: Molerat/ : Squeek, i say
+[03:46:23]SAY: Molerat/ : Squeek!
+[03:46:23]SAY: Molerat/ : Squeek!
+[03:46:23]SAY: Molerat/ : Squeek!
+[03:46:23]SAY: Molerat/ : Squeek!
+[03:46:23]SAY: Molerat/ : Squeek!
+[03:46:25]SAY: Molerat/ : Squeek!
+[03:46:25]SAY: Molerat/ : Squeek!
+[03:46:25]SAY: Molerat/ : Squeek, i say
+[03:46:25]SAY: Molerat/ : Squeek
+[03:46:25]SAY: Molerat/ : Squeek!
+[03:46:25]SAY: Molerat/ : Squeek!
+[03:46:25]SAY: Molerat/ : Squeek!
+[03:46:25]SAY: Mutant/ : NNNNNGH!
+[03:46:25]SAY: Molerat/ : Squeek!
+[03:46:26]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:27]SAY: Molerat/ : Squeek, i say
+[03:46:27]SAY: Molerat/ : Squeek, i say
+[03:46:27]SAY: Mutant/ : NNNNNGH!
+[03:46:27]SAY: Molerat/ : Squeek
+[03:46:27]ADMIN: PahomLancer/(Griffin Whiteman) has toggled PahomLancer/(Griffin Whiteman)'s nodamage to On
+[03:46:29]SAY: Molerat/ : Squeek, i say
+[03:46:29]SAY: Molerat/ : Squeek!
+[03:46:29]SAY: Molerat/ : Squeek!
+[03:46:29]SAY: Molerat/ : Squeek
+[03:46:29]SAY: Mutant/ : NNNNNGH!
+[03:46:29]SAY: Molerat/ : Squeek
+[03:46:31]SAY: Molerat/ : Squeek
+[03:46:31]SAY: Molerat/ : Squeek
+[03:46:31]SAY: Molerat/ : Squeek!
+[03:46:31]SAY: Molerat/ : Squeek
+[03:46:31]SAY: Mutant/ : ARRRRR!
+[03:46:31]SAY: Molerat/ : Squeek!
+[03:46:33]SAY: Molerat/ : Squeek!
+[03:46:33]SAY: Molerat/ : Squeek!
+[03:46:33]SAY: Molerat/ : Squeek
+[03:46:33]SAY: Molerat/ : Squeek
+[03:46:33]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:46:33]SAY: Molerat/ : Squeek, i say
+[03:46:34]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:35]SAY: Molerat/ : Squeek
+[03:46:35]SAY: Molerat/ : Squeek
+[03:46:35]SAY: Molerat/ : Squeek!
+[03:46:35]SAY: Molerat/ : Squeek!
+[03:46:35]SAY: Molerat/ : Squeek!
+[03:46:35]EMOTE: mouse/ : <B>The mouse</B> runs in a circle.
+[03:46:35]SAY: Molerat/ : Squeek!
+[03:46:35]SAY: Mutant/ : GRRRRRR!
+[03:46:35]SAY: Molerat/ : Squeek!
+[03:46:35]SAY: Molerat/ : Squeek!
+[03:46:37]SAY: Molerat/ : Squeek!
+[03:46:37]SAY: Molerat/ : Squeek!
+[03:46:37]SAY: Mutant/ : ARRRRR!
+[03:46:37]SAY: Molerat/ : Squeek
+[03:46:37]SAY: Molerat/ : Squeek!
+[03:46:37]SAY: Molerat/ : Squeek
+[03:46:37]SAY: Molerat/ : Squeek!
+[03:46:37]SAY: Mutant/ : GRRRRRR!
+[03:46:37]SAY: Mutant/ : GRRRRRR!
+[03:46:37]SAY: Mutant/ : ARGH!
+[03:46:37]SAY: Molerat/ : Squeek, i say
+[03:46:39]SAY: Molerat/ : Squeek
+[03:46:39]SAY: Molerat/ : Squeek!
+[03:46:39]SAY: Molerat/ : Squeek
+[03:46:39]SAY: Molerat/ : Squeek!
+[03:46:39]SAY: Molerat/ : Squeek, i say
+[03:46:39]SAY: Mutant/ : HMPH!
+[03:46:41]SAY: Molerat/ : Squeek
+[03:46:41]SAY: Molerat/ : Squeek!
+[03:46:41]SAY: Molerat/ : Squeek, i say
+[03:46:41]SAY: Molerat/ : Squeek!
+[03:46:41]SAY: Molerat/ : Squeek!
+[03:46:41]SAY: Molerat/ : Squeek
+[03:46:41]SAY: Molerat/ : Squeek
+[03:46:42]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:43]SAY: Molerat/ : Squeek!
+[03:46:43]SAY: Molerat/ : Squeek
+[03:46:43]SAY: Molerat/ : Squeek!
+[03:46:43]SAY: Molerat/ : Squeek!
+[03:46:43]SAY: Molerat/ : Squeek
+[03:46:43]SAY: Mutant/ : ARGH!
+[03:46:43]SAY: Molerat/ : Squeek!
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Molerat/ : Squeek!
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Mutant/ : ARRRRR!
+[03:46:45]SAY: Molerat/ : Squeek, i say
+[03:46:45]SAY: Mutant/ : GRRRRRR!
+[03:46:45]SAY: Molerat/ : Squeek
+[03:46:45]SAY: Molerat/ : Squeek!
+[03:46:48]SAY: Molerat/ : Squeek, i say
+[03:46:48]SAY: Molerat/ : Squeek
+[03:46:48]SAY: Molerat/ : Squeek
+[03:46:48]SAY: Mutant/ : NNNNNGH!
+[03:46:48]SAY: Molerat/ : Squeek
+[03:46:48]SAY: Molerat/ : Squeek
+[03:46:48]SAY: Molerat/ : Squeek!
+[03:46:48]SAY: Mutant/ : ARGH!
+[03:46:48]SAY: Molerat/ : Squeek
+[03:46:48]SAY: Molerat/ : Squeek
+[03:46:48]SAY: Molerat/ : Squeek!
+[03:46:50]SAY: Mutant/ : HMPH!
+[03:46:50]SAY: Molerat/ : Squeek
+[03:46:50]SAY: Molerat/ : Squeek!
+[03:46:50]SAY: Molerat/ : Squeek!
+[03:46:50]SAY: Molerat/ : Squeek
+[03:46:50]SAY: Molerat/ : Squeek
+[03:46:50]SAY: Molerat/ : Squeek, i say
+[03:46:50]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:46:52]SAY: Molerat/ : Squeek, i say
+[03:46:52]SAY: Molerat/ : Squeek
+[03:46:52]SAY: Molerat/ : Squeek
+[03:46:52]SAY: Molerat/ : Squeek
+[03:46:52]SAY: Molerat/ : Squeek!
+[03:46:52]SAY: Mutant/ : HMPH!
+[03:46:52]SAY: Mutant/ : ARGH!
+[03:46:52]SAY: Molerat/ : Squeek!
+[03:46:52]SAY: Molerat/ : Squeek
+[03:46:54]SAY: Molerat/ : Squeek!
+[03:46:54]SAY: Molerat/ : Squeek
+[03:46:54]SAY: Molerat/ : Squeek
+[03:46:54]SAY: Molerat/ : Squeek
+[03:46:54]SAY: Molerat/ : Squeek
+[03:46:54]SAY: Mutant/ : HMPH!
+[03:46:54]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 86,161,1 in Atrium
+[03:46:56]SAY: Molerat/ : Squeek!
+[03:46:56]SAY: Molerat/ : Squeek
+[03:46:56]SAY: Molerat/ : Squeek!
+[03:46:56]SAY: Molerat/ : Squeek
+[03:46:56]SAY: Molerat/ : Squeek
+[03:46:57]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 86,153,1 in Vault Entry
+[03:46:58]SAY: Molerat/ : Squeek!
+[03:46:58]SAY: Molerat/ : Squeek!
+[03:46:58]SAY: Molerat/ : Squeek, i say
+[03:46:58]SAY: Molerat/ : Squeek
+[03:46:58]SAY: Molerat/ : Squeek!
+[03:46:58]SAY: Molerat/ : Squeek
+[03:46:58]SAY: Molerat/ : Squeek
+[03:46:58]SAY: Molerat/ : Squeek
+[03:46:58]SAY: Molerat/ : Squeek
+[03:46:58]SAY: Molerat/ : Squeek
+[03:46:59]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:00]SAY: Molerat/ : Squeek
+[03:47:00]SAY: Molerat/ : Squeek!
+[03:47:00]SAY: Molerat/ : Squeek
+[03:47:00]SAY: Molerat/ : Squeek!
+[03:47:00]SAY: Molerat/ : Squeek
+[03:47:00]SAY: Molerat/ : Squeek
+[03:47:00]SAY: Molerat/ : Squeek
+[03:47:02]SAY: Molerat/ : Squeek
+[03:47:02]SAY: Molerat/ : Squeek!
+[03:47:02]SAY: Molerat/ : Squeek!
+[03:47:02]SAY: Mutant/ : GRRRRRR!
+[03:47:02]SAY: Molerat/ : Squeek, i say
+[03:47:04]SAY: Molerat/ : Squeek
+[03:47:04]SAY: Molerat/ : Squeek!
+[03:47:04]SAY: Molerat/ : Squeek
+[03:47:04]SAY: Molerat/ : Squeek, i say
+[03:47:04]SAY: Molerat/ : Squeek
+[03:47:04]SAY: Molerat/ : Squeek!
+[03:47:04]SAY: Molerat/ : Squeek!
+[03:47:04]SAY: Molerat/ : Squeek
+[03:47:04]SAY: Mutant/ : ARGH!
+[03:47:04]SAY: Molerat/ : Squeek!
+[03:47:04]SAY: Molerat/ : Squeek!
+[03:47:04]SAY: Molerat/ : Squeek!
+[03:47:06]SAY: Molerat/ : Squeek
+[03:47:06]SAY: Molerat/ : Squeek!
+[03:47:06]SAY: Molerat/ : Squeek
+[03:47:06]SAY: Molerat/ : Squeek, i say
+[03:47:06]SAY: Molerat/ : Squeek!
+[03:47:06]SAY: Molerat/ : Squeek!
+[03:47:06]SAY: Molerat/ : Squeek!
+[03:47:06]SAY: Molerat/ : Squeek!
+[03:47:07]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:08]SAY: Molerat/ : Squeek
+[03:47:08]SAY: Molerat/ : Squeek!
+[03:47:08]SAY: Molerat/ : Squeek!
+[03:47:08]SAY: Molerat/ : Squeek
+[03:47:08]SAY: Molerat/ : Squeek!
+[03:47:08]SAY: Molerat/ : Squeek
+[03:47:08]SAY: Molerat/ : Squeek!
+[03:47:08]SAY: Molerat/ : Squeek, i say
+[03:47:08]SAY: Molerat/ : Squeek, i say
+[03:47:08]SAY: Molerat/ : Squeek
+[03:47:08]SAY: Mutant/ : HMPH!
+[03:47:08]SAY: Molerat/ : Squeek, i say
+[03:47:08]SAY: Molerat/ : Squeek!
+[03:47:09]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 96,136,1 in High Radiation Field
+[03:47:10]SAY: Molerat/ : Squeek
+[03:47:10]SAY: Molerat/ : Squeek
+[03:47:10]SAY: Molerat/ : Squeek!
+[03:47:10]SAY: Molerat/ : Squeek!
+[03:47:10]SAY: Mutant/ : GRRRRRR!
+[03:47:10]SAY: Mutant/ : HMPH!
+[03:47:10]SAY: Molerat/ : Squeek
+[03:47:12]SAY: Molerat/ : Squeek
+[03:47:12]SAY: Molerat/ : Squeek
+[03:47:12]SAY: Molerat/ : Squeek!
+[03:47:12]SAY: Molerat/ : Squeek
+[03:47:12]SAY: Molerat/ : Squeek
+[03:47:12]SAY: Molerat/ : Squeek!
+[03:47:12]SAY: Molerat/ : Squeek!
+[03:47:12]SAY: Molerat/ : Squeek!
+[03:47:12]SAY: Molerat/ : Squeek
+[03:47:14]SAY: Molerat/ : Squeek!
+[03:47:14]SAY: Molerat/ : Squeek
+[03:47:14]SAY: Molerat/ : Squeek!
+[03:47:14]SAY: Molerat/ : Squeek
+[03:47:14]SAY: Molerat/ : Squeek
+[03:47:14]SAY: Molerat/ : Squeek
+[03:47:14]SAY: Mutant/ : ARRRRR!
+[03:47:14]SAY: Molerat/ : Squeek
+[03:47:14]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 90,126,1 in Space
+[03:47:15]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:16]SAY: Molerat/ : Squeek!
+[03:47:16]SAY: Molerat/ : Squeek!
+[03:47:16]SAY: Molerat/ : Squeek, i say
+[03:47:16]SAY: Molerat/ : Squeek!
+[03:47:16]SAY: Molerat/ : Squeek!
+[03:47:16]SAY: Molerat/ : Squeek
+[03:47:16]SAY: Molerat/ : Squeek, i say
+[03:47:16]SAY: Mutant/ : NNNNNGH!
+[03:47:17]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 90,123,1 in Space
+[03:47:18]SAY: Molerat/ : Squeek
+[03:47:18]SAY: Molerat/ : Squeek!
+[03:47:18]SAY: Molerat/ : Squeek
+[03:47:18]SAY: Molerat/ : Squeek!
+[03:47:18]SAY: Molerat/ : Squeek
+[03:47:18]SAY: Molerat/ : Squeek
+[03:47:18]SAY: Molerat/ : Squeek
+[03:47:18]SAY: Molerat/ : Squeek
+[03:47:20]SAY: Molerat/ : Squeek!
+[03:47:20]SAY: Molerat/ : Squeek, i say
+[03:47:20]SAY: Molerat/ : Squeek
+[03:47:20]SAY: Molerat/ : Squeek
+[03:47:20]SAY: Molerat/ : Squeek!
+[03:47:20]SAY: Molerat/ : Squeek
+[03:47:20]SAY: Molerat/ : Squeek, i say
+[03:47:22]SAY: Molerat/ : Squeek
+[03:47:22]SAY: Molerat/ : Squeek, i say
+[03:47:22]SAY: Molerat/ : Squeek
+[03:47:22]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:47:23]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:24]SAY: Molerat/ : Squeek!
+[03:47:24]SAY: Molerat/ : Squeek
+[03:47:24]SAY: Molerat/ : Squeek!
+[03:47:24]SAY: Molerat/ : Squeek
+[03:47:24]SAY: Molerat/ : Squeek
+[03:47:24]SAY: Molerat/ : Squeek
+[03:47:24]SAY: Molerat/ : Squeek!
+[03:47:24]SAY: Molerat/ : Squeek
+[03:47:24]SAY: Molerat/ : Squeek
+[03:47:24]SAY: Molerat/ : Squeek, i say
+[03:47:27]SAY: Molerat/ : Squeek
+[03:47:27]SAY: Molerat/ : Squeek
+[03:47:27]SAY: Mutant/ : ARRRRR!
+[03:47:28]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 98,91,1 in Custodial Closet
+[03:47:29]SAY: Molerat/ : Squeek
+[03:47:29]SAY: Molerat/ : Squeek
+[03:47:29]SAY: Molerat/ : Squeek
+[03:47:29]SAY: Molerat/ : Squeek
+[03:47:29]SAY: Molerat/ : Squeek!
+[03:47:29]SAY: Molerat/ : Squeek
+[03:47:29]SAY: Molerat/ : Squeek!
+[03:47:31]SAY: Molerat/ : Squeek, i say
+[03:47:31]SAY: Molerat/ : Squeek
+[03:47:31]SAY: Molerat/ : Squeek!
+[03:47:31]SAY: Molerat/ : Squeek!
+[03:47:31]SAY: Molerat/ : Squeek
+[03:47:31]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:33]SAY: Molerat/ : Squeek!
+[03:47:33]SAY: Molerat/ : Squeek, i say
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:33]SAY: Molerat/ : Squeek!
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:33]SAY: Molerat/ : Squeek!
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:33]SAY: Molerat/ : Squeek
+[03:47:35]SAY: Molerat/ : Squeek
+[03:47:35]SAY: Molerat/ : Squeek!
+[03:47:35]SAY: Molerat/ : Squeek!
+[03:47:35]SAY: Molerat/ : Squeek, i say
+[03:47:35]SAY: Molerat/ : Squeek!
+[03:47:35]SAY: Molerat/ : Squeek
+[03:47:35]SAY: Mutant/ : NNNNNGH!
+[03:47:35]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:47:35]SAY: Molerat/ : Squeek!
+[03:47:37]SAY: Molerat/ : Squeek!
+[03:47:37]SAY: Molerat/ : Squeek!
+[03:47:37]SAY: Molerat/ : Squeek, i say
+[03:47:37]SAY: Molerat/ : Squeek!
+[03:47:37]SAY: Molerat/ : Squeek
+[03:47:37]SAY: Molerat/ : Squeek!
+[03:47:37]SAY: Molerat/ : Squeek
+[03:47:37]SAY: Molerat/ : Squeek
+[03:47:39]SAY: Molerat/ : Squeek!
+[03:47:39]SAY: Molerat/ : Squeek
+[03:47:39]SAY: Molerat/ : Squeek
+[03:47:39]SAY: Molerat/ : Squeek
+[03:47:39]SAY: Molerat/ : Squeek
+[03:47:39]SAY: Molerat/ : Squeek!
+[03:47:39]SAY: Molerat/ : Squeek!
+[03:47:40]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:40]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 96,94,1 in Space
+[03:47:41]SAY: Molerat/ : Squeek!
+[03:47:41]SAY: Molerat/ : Squeek
+[03:47:41]SAY: Molerat/ : Squeek
+[03:47:41]SAY: Molerat/ : Squeek
+[03:47:41]SAY: Molerat/ : Squeek!
+[03:47:41]SAY: Mutant/ : ARRRRR!
+[03:47:41]SAY: Molerat/ : Squeek
+[03:47:41]SAY: Molerat/ : Squeek
+[03:47:43]SAY: Molerat/ : Squeek
+[03:47:43]SAY: Molerat/ : Squeek
+[03:47:43]SAY: Molerat/ : Squeek!
+[03:47:43]SAY: Molerat/ : Squeek
+[03:47:43]SAY: Mutant/ : HMPH!
+[03:47:43]SAY: Mutant/ : ARGH!
+[03:47:43]SAY: Molerat/ : Squeek
+[03:47:45]SAY: Molerat/ : Squeek!
+[03:47:45]SAY: Molerat/ : Squeek
+[03:47:45]SAY: Molerat/ : Squeek!
+[03:47:45]SAY: Molerat/ : Squeek, i say
+[03:47:45]SAY: Molerat/ : Squeek!
+[03:47:45]SAY: Molerat/ : Squeek
+[03:47:45]SAY: Molerat/ : Squeek
+[03:47:45]SAY: Mutant/ : HMPH!
+[03:47:45]SAY: Molerat/ : Squeek
+[03:47:46]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:47]SAY: Mutant/ : ARGH!
+[03:47:47]SAY: Molerat/ : Squeek
+[03:47:47]SAY: Molerat/ : Squeek!
+[03:47:47]SAY: Molerat/ : Squeek
+[03:47:47]SAY: Molerat/ : Squeek!
+[03:47:47]SAY: Mutant/ : HMPH!
+[03:47:47]SAY: Mutant/ : GRRRRRR!
+[03:47:47]SAY: Mutant/ : ARRRRR!
+[03:47:47]SAY: Molerat/ : Squeek!
+[03:47:47]SAY: Molerat/ : Squeek
+[03:47:49]SAY: Molerat/ : Squeek!
+[03:47:49]SAY: Molerat/ : Squeek, i say
+[03:47:49]SAY: Molerat/ : Squeek!
+[03:47:49]SAY: Molerat/ : Squeek
+[03:47:49]SAY: Molerat/ : Squeek
+[03:47:49]SAY: Molerat/ : Squeek
+[03:47:49]SAY: Molerat/ : Squeek!
+[03:47:49]SAY: Molerat/ : Squeek!
+[03:47:49]SAY: Molerat/ : Squeek!
+[03:47:49]SAY: Mutant/ : ARGH!
+[03:47:49]SAY: Molerat/ : Squeek
+[03:47:49]SAY: Molerat/ : Squeek!
+[03:47:49]SAY: Medibot/ : Radar, put a mask on!
+[03:47:51]SAY: Molerat/ : Squeek, i say
+[03:47:51]SAY: Molerat/ : Squeek!
+[03:47:51]SAY: Molerat/ : Squeek, i say
+[03:47:51]SAY: Mutant/ : NNNNNGH!
+[03:47:51]SAY: Molerat/ : Squeek
+[03:47:51]SAY: Molerat/ : Squeek
+[03:47:51]SAY: Molerat/ : Squeek!
+[03:47:52]SAY: Molerat/ : Squeek
+[03:47:52]SAY: Molerat/ : Squeek, i say
+[03:47:52]SAY: Molerat/ : Squeek!
+[03:47:52]SAY: Mutant/ : ARRRRR!
+[03:47:52]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:47:52]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 83,125,1 in Genetics Lab
+[03:47:54]SAY: Molerat/ : Squeek!
+[03:47:54]SAY: Molerat/ : Squeek
+[03:47:54]SAY: Molerat/ : Squeek
+[03:47:54]SAY: Molerat/ : Squeek
+[03:47:54]SAY: Molerat/ : Squeek!
+[03:47:54]SAY: Mutant/ : ARRRRR!
+[03:47:54]SAY: Molerat/ : Squeek!
+[03:47:54]SAY: Molerat/ : Squeek
+[03:47:54]SAY: Molerat/ : Squeek
+[03:47:54]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:47:54]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:47:56]SAY: Molerat/ : Squeek
+[03:47:56]SAY: Molerat/ : Squeek
+[03:47:56]SAY: Molerat/ : Squeek!
+[03:47:56]SAY: Molerat/ : Squeek
+[03:47:56]SAY: Molerat/ : Squeek
+[03:47:56]SAY: Molerat/ : Squeek
+[03:47:56]SAY: Molerat/ : Squeek!
+[03:47:56]SAY: mouse/ : Squeek?
+[03:47:56]SAY: Mutant/ : NNNNNGH!
+[03:47:56]SAY: Mutant/ : HMPH!
+[03:47:56]SAY: Molerat/ : Squeek
+[03:47:56]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek
+[03:47:57]SAY: Molerat/ : Squeek, i say
+[03:47:57]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek, i say
+[03:47:57]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek!
+[03:47:57]SAY: Molerat/ : Squeek
+[03:47:59]SAY: Molerat/ : Squeek
+[03:47:59]SAY: Molerat/ : Squeek
+[03:47:59]SAY: Molerat/ : Squeek, i say
+[03:47:59]SAY: Molerat/ : Squeek
+[03:48:00]SAY: Mutant/ : ARRRRR!
+[03:48:00]SAY: Mutant/ : GRRRRRR!
+[03:48:00]SAY: Molerat/ : Squeek
+[03:48:00]SAY: Molerat/ : Squeek
+[03:48:00]SAY: Molerat/ : Squeek, i say
+[03:48:02]SAY: Molerat/ : Squeek
+[03:48:02]SAY: Molerat/ : Squeek!
+[03:48:02]SAY: Molerat/ : Squeek
+[03:48:02]SAY: Molerat/ : Squeek!
+[03:48:02]SAY: Molerat/ : Squeek!
+[03:48:02]SAY: Molerat/ : Squeek!
+[03:48:02]EMOTE: brahmin/ : <B>The brahmin</B> shakes its head.
+[03:48:02]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:04]SAY: Molerat/ : Squeek
+[03:48:04]SAY: Molerat/ : Squeek
+[03:48:04]SAY: Molerat/ : Squeek
+[03:48:04]SAY: Molerat/ : Squeek
+[03:48:04]SAY: Mutant/ : HMPH!
+[03:48:04]SAY: Molerat/ : Squeek, i say
+[03:48:04]SAY: Molerat/ : Squeek!
+[03:48:06]SAY: Molerat/ : Squeek
+[03:48:06]SAY: Molerat/ : Squeek
+[03:48:06]SAY: Molerat/ : Squeek!
+[03:48:06]SAY: Molerat/ : Squeek!
+[03:48:06]SAY: Mutant/ : GRRRRRR!
+[03:48:06]SAY: Molerat/ : Squeek
+[03:48:06]SAY: Molerat/ : Squeek!
+[03:48:06]SAY: Molerat/ : Squeek!
+[03:48:06]SAY: Molerat/ : Squeek, i say
+[03:48:06]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:48:08]SAY: Molerat/ : Squeek!
+[03:48:08]SAY: Molerat/ : Squeek
+[03:48:08]SAY: Molerat/ : Squeek!
+[03:48:08]SAY: Molerat/ : Squeek!
+[03:48:08]SAY: Molerat/ : Squeek
+[03:48:08]SAY: Molerat/ : Squeek
+[03:48:08]SAY: Mutant/ : ARRRRR!
+[03:48:08]SAY: Molerat/ : Squeek
+[03:48:08]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like dead flies.
+[03:48:09]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Mutant/ : NNNNNGH!
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Molerat/ : Squeek!
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Molerat/ : Squeek!
+[03:48:10]SAY: Molerat/ : Squeek!
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:10]SAY: Mutant/ : ARRRRR!
+[03:48:10]SAY: Molerat/ : Squeek, i say
+[03:48:10]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Mutant/ : NNNNNGH!
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Molerat/ : Squeek!
+[03:48:12]SAY: Molerat/ : Squeek!
+[03:48:12]SAY: Molerat/ : Squeek
+[03:48:12]SAY: Medibot/ : Radar, put a mask on!
+[03:48:14]SAY: Molerat/ : Squeek!
+[03:48:14]SAY: Molerat/ : Squeek!
+[03:48:14]SAY: Molerat/ : Squeek!
+[03:48:14]SAY: Molerat/ : Squeek
+[03:48:14]SAY: Molerat/ : Squeek
+[03:48:14]SAY: Molerat/ : Squeek, i say
+[03:48:14]SAY: Mutant/ : ARRRRR!
+[03:48:16]SAY: Molerat/ : Squeek
+[03:48:16]SAY: Molerat/ : Squeek!
+[03:48:16]SAY: Molerat/ : Squeek
+[03:48:16]SAY: Molerat/ : Squeek
+[03:48:16]SAY: Molerat/ : Squeek!
+[03:48:16]SAY: Molerat/ : Squeek
+[03:48:16]SAY: Molerat/ : Squeek
+[03:48:16]SAY: Molerat/ : Squeek!
+[03:48:17]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:19]SAY: Molerat/ : Squeek
+[03:48:19]SAY: Molerat/ : Squeek
+[03:48:19]SAY: Molerat/ : Squeek!
+[03:48:19]SAY: Mutant/ : HMPH!
+[03:48:19]SAY: Molerat/ : Squeek!
+[03:48:21]SAY: Molerat/ : Squeek!
+[03:48:21]SAY: Molerat/ : Squeek
+[03:48:21]SAY: Molerat/ : Squeek, i say
+[03:48:21]SAY: Molerat/ : Squeek!
+[03:48:21]SAY: Molerat/ : Squeek
+[03:48:21]SAY: Molerat/ : Squeek!
+[03:48:21]SAY: Molerat/ : Squeek
+[03:48:23]SAY: Molerat/ : Squeek!
+[03:48:23]SAY: Molerat/ : Squeek
+[03:48:23]SAY: Molerat/ : Squeek!
+[03:48:23]SAY: Molerat/ : Squeek
+[03:48:23]SAY: Molerat/ : Squeek, i say
+[03:48:23]SAY: Molerat/ : Squeek, i say
+[03:48:23]SAY: Molerat/ : Squeek
+[03:48:23]SAY: Mutant/ : ARGH!
+[03:48:24]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek!
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek!
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Mutant/ : NNNNNGH!
+[03:48:25]SAY: Molerat/ : Squeek
+[03:48:25]SAY: Molerat/ : Squeek!
+[03:48:25]SAY: Molerat/ : Squeek, i say
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek!
+[03:48:27]SAY: Molerat/ : Squeek, i say
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek, i say
+[03:48:27]SAY: Molerat/ : Squeek!
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:27]SAY: Molerat/ : Squeek
+[03:48:29]SAY: Molerat/ : Squeek!
+[03:48:29]SAY: Molerat/ : Squeek, i say
+[03:48:29]SAY: Molerat/ : Squeek
+[03:48:29]SAY: Mutant/ : NNNNNGH!
+[03:48:29]SAY: Molerat/ : Squeek
+[03:48:29]SAY: Molerat/ : Squeek!
+[03:48:31]SAY: Molerat/ : Squeek
+[03:48:31]SAY: Molerat/ : Squeek!
+[03:48:31]SAY: Molerat/ : Squeek!
+[03:48:31]SAY: Molerat/ : Squeek!
+[03:48:31]SAY: Molerat/ : Squeek!
+[03:48:31]SAY: Mutant/ : NNNNNGH!
+[03:48:31]SAY: Molerat/ : Squeek!
+[03:48:31]SAY: Molerat/ : Squeek
+[03:48:31]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:33]SAY: Molerat/ : Squeek
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:33]SAY: Mutant/ : ARRRRR!
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:33]SAY: Molerat/ : Squeek!
+[03:48:35]SAY: Molerat/ : Squeek!
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek!
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek!
+[03:48:35]SAY: Mutant/ : GRRRRRR!
+[03:48:35]SAY: Molerat/ : Squeek!
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek
+[03:48:35]SAY: Molerat/ : Squeek!
+[03:48:37]SAY: Molerat/ : Squeek!
+[03:48:37]SAY: Molerat/ : Squeek
+[03:48:37]SAY: Mutant/ : NNNNNGH!
+[03:48:37]SAY: Molerat/ : Squeek
+[03:48:37]SAY: Molerat/ : Squeek
+[03:48:37]SAY: Molerat/ : Squeek, i say
+[03:48:37]SAY: Molerat/ : Squeek
+[03:48:39]SAY: Molerat/ : Squeek
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Mutant/ : ARRRRR!
+[03:48:39]SAY: Molerat/ : Squeek!
+[03:48:39]SAY: Molerat/ : Squeek, i say
+[03:48:39]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 90,127,1 in Space
+[03:48:40]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:41]SAY: Molerat/ : Squeek!
+[03:48:41]SAY: Molerat/ : Squeek
+[03:48:41]SAY: Molerat/ : Squeek!
+[03:48:41]SAY: Mutant/ : GRRRRRR!
+[03:48:41]SAY: Molerat/ : Squeek
+[03:48:41]SAY: Molerat/ : Squeek!
+[03:48:41]SAY: Molerat/ : Squeek!
+[03:48:41]SAY: Molerat/ : Squeek
+[03:48:41]SAY: Molerat/ : Squeek!
+[03:48:41]SAY: Mutant/ : ARGH!
+[03:48:41]SAY: Molerat/ : Squeek
+[03:48:41]SAY: Molerat/ : Squeek
+[03:48:41]SAY: Molerat/ : Squeek, i say
+[03:48:42]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 96,134,1 in High Radiation Field
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Mutant/ : NNNNNGH!
+[03:48:43]SAY: Molerat/ : Squeek!
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Molerat/ : Squeek!
+[03:48:43]SAY: Molerat/ : Squeek
+[03:48:43]SAY: Mutant/ : GRRRRRR!
+[03:48:43]SAY: Molerat/ : Squeek, i say
+[03:48:43]SAY: Molerat/ : Squeek, i say
+[03:48:45]SAY: Molerat/ : Squeek
+[03:48:45]SAY: Molerat/ : Squeek!
+[03:48:45]SAY: Molerat/ : Squeek!
+[03:48:45]SAY: Mutant/ : ARRRRR!
+[03:48:46]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:46]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 102,138,1 in Wasteland
+[03:48:47]SAY: Molerat/ : Squeek
+[03:48:47]SAY: Molerat/ : Squeek, i say
+[03:48:47]SAY: Molerat/ : Squeek!
+[03:48:47]SAY: Molerat/ : Squeek, i say
+[03:48:47]SAY: Molerat/ : Squeek!
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Molerat/ : Squeek!
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Molerat/ : Squeek!
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Mutant/ : HMPH!
+[03:48:49]SAY: Mutant/ : ARRRRR!
+[03:48:49]SAY: Molerat/ : Squeek
+[03:48:49]SAY: Molerat/ : Squeek, i say
+[03:48:49]SAY: Molerat/ : Squeek!
+[03:48:51]SAY: Molerat/ : Squeek, i say
+[03:48:51]SAY: Molerat/ : Squeek!
+[03:48:51]SAY: Molerat/ : Squeek
+[03:48:51]SAY: Molerat/ : Squeek!
+[03:48:51]SAY: Molerat/ : Squeek
+[03:48:51]SAY: Molerat/ : Squeek!
+[03:48:51]SAY: Molerat/ : Squeek!
+[03:48:51]SAY: Molerat/ : Squeek
+[03:48:51]SAY: Molerat/ : Squeek
+[03:48:52]SAY: Molerat/ : Squeek!
+[03:48:52]SAY: Molerat/ : Squeek
+[03:48:53]SAY: Molerat/ : Squeek!
+[03:48:53]SAY: Molerat/ : Squeek
+[03:48:53]SAY: Molerat/ : Squeek
+[03:48:54]SAY: Molerat/ : Squeek
+[03:48:54]SAY: Molerat/ : Squeek!
+[03:48:54]SAY: Molerat/ : Squeek
+[03:48:54]SAY: Molerat/ : Squeek
+[03:48:54]SAY: Molerat/ : Squeek
+[03:48:55]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:48:56]SAY: Molerat/ : Squeek
+[03:48:56]SAY: Molerat/ : Squeek
+[03:48:56]SAY: Molerat/ : Squeek, i say
+[03:48:56]SAY: Molerat/ : Squeek!
+[03:48:56]SAY: Molerat/ : Squeek!
+[03:48:56]SAY: Molerat/ : Squeek!
+[03:48:56]SAY: Molerat/ : Squeek
+[03:48:56]SAY: Molerat/ : Squeek
+[03:48:56]SAY: Molerat/ : Squeek!
+[03:48:56]SAY: Molerat/ : Squeek!
+[03:48:56]SAY: Mutant/ : ARRRRR!
+[03:48:56]SAY: Molerat/ : Squeek
+[03:48:58]SAY: Molerat/ : Squeek!
+[03:48:58]SAY: Molerat/ : Squeek
+[03:48:58]SAY: Molerat/ : Squeek
+[03:48:58]SAY: Molerat/ : Squeek!
+[03:48:58]SAY: Molerat/ : Squeek
+[03:48:58]SAY: Molerat/ : Squeek
+[03:48:58]SAY: Molerat/ : Squeek
+[03:48:58]SAY: Molerat/ : Squeek!
+[03:48:58]SAY: Mutant/ : HMPH!
+[03:48:58]SAY: Molerat/ : Squeek
+[03:49:00]SAY: Molerat/ : Squeek!
+[03:49:00]SAY: Mutant/ : ARGH!
+[03:49:00]SAY: Molerat/ : Squeek
+[03:49:00]SAY: Molerat/ : Squeek!
+[03:49:00]SAY: Molerat/ : Squeek
+[03:49:00]SAY: Molerat/ : Squeek
+[03:49:00]SAY: Molerat/ : Squeek, i say
+[03:49:00]SAY: Mutant/ : ARRRRR!
+[03:49:00]SAY: Molerat/ : Squeek
+[03:49:00]SAY: Molerat/ : Squeek
+[03:49:00]SAY: Molerat/ : Squeek!
+[03:49:00]SAY: Molerat/ : Squeek!
+[03:49:02]SAY: Molerat/ : Squeek, i say
+[03:49:02]SAY: Molerat/ : Squeek
+[03:49:02]SAY: Molerat/ : Squeek!
+[03:49:02]SAY: Molerat/ : Squeek!
+[03:49:02]SAY: Molerat/ : Squeek
+[03:49:02]SAY: Molerat/ : Squeek, i say
+[03:49:02]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:49:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:04]SAY: Molerat/ : Squeek!
+[03:49:04]SAY: Molerat/ : Squeek
+[03:49:04]SAY: Molerat/ : Squeek!
+[03:49:04]SAY: Molerat/ : Squeek
+[03:49:04]SAY: Molerat/ : Squeek
+[03:49:06]SAY: Molerat/ : Squeek!
+[03:49:06]SAY: Molerat/ : Squeek!
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek, i say
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek!
+[03:49:08]SAY: Molerat/ : Squeek!
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek!
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek!
+[03:49:08]SAY: Mutant/ : ARRRRR!
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:08]SAY: Molerat/ : Squeek
+[03:49:09]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:10]SAY: Molerat/ : Squeek!
+[03:49:10]SAY: Molerat/ : Squeek!
+[03:49:10]SAY: Mutant/ : ARGH!
+[03:49:10]SAY: Molerat/ : Squeek
+[03:49:10]SAY: Molerat/ : Squeek!
+[03:49:12]SAY: Molerat/ : Squeek!
+[03:49:13]SAY: Molerat/ : Squeek!
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek, i say
+[03:49:13]SAY: Molerat/ : Squeek!
+[03:49:13]SAY: Molerat/ : Squeek!
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:13]SAY: Molerat/ : Squeek!
+[03:49:13]SAY: Molerat/ : Squeek, i say
+[03:49:13]SAY: Molerat/ : Squeek
+[03:49:14]SAY: Molerat/ : Squeek
+[03:49:14]SAY: Molerat/ : Squeek
+[03:49:14]SAY: Molerat/ : Squeek, i say
+[03:49:14]SAY: Molerat/ : Squeek
+[03:49:14]SAY: Mutant/ : ARRRRR!
+[03:49:14]SAY: Molerat/ : Squeek!
+[03:49:14]SAY: Molerat/ : Squeek
+[03:49:14]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:49:15]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 93,134,1 in High Radiation Field
+[03:49:15]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:16]SAY: Molerat/ : Squeek
+[03:49:16]SAY: Molerat/ : Squeek!
+[03:49:16]SAY: Molerat/ : Squeek
+[03:49:16]SAY: Molerat/ : Squeek
+[03:49:16]SAY: Mutant/ : NNNNNGH!
+[03:49:16]SAY: Mutant/ : ARRRRR!
+[03:49:16]SAY: Molerat/ : Squeek!
+[03:49:16]SAY: Molerat/ : Squeek
+[03:49:18]SAY: Molerat/ : Squeek!
+[03:49:18]SAY: Molerat/ : Squeek
+[03:49:18]SAY: Molerat/ : Squeek
+[03:49:18]SAY: Molerat/ : Squeek
+[03:49:18]SAY: Molerat/ : Squeek!
+[03:49:18]SAY: Molerat/ : Squeek, i say
+[03:49:18]SAY: Molerat/ : Squeek
+[03:49:20]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 89,124,1 in Space
+[03:49:20]SAY: Molerat/ : Squeek
+[03:49:20]SAY: Molerat/ : Squeek
+[03:49:20]SAY: Molerat/ : Squeek!
+[03:49:20]SAY: Molerat/ : Squeek!
+[03:49:20]SAY: Molerat/ : Squeek
+[03:49:20]SAY: Molerat/ : Squeek
+[03:49:20]SAY: Molerat/ : Squeek, i say
+[03:49:20]SAY: Molerat/ : Squeek
+[03:49:20]SAY: Molerat/ : Squeek
+[03:49:21]SAY: Mutant/ : ARRRRR!
+[03:49:21]SAY: Molerat/ : Squeek!
+[03:49:22]SAY: Molerat/ : Squeek!
+[03:49:22]SAY: Molerat/ : Squeek, i say
+[03:49:22]SAY: Molerat/ : Squeek, i say
+[03:49:22]SAY: Molerat/ : Squeek, i say
+[03:49:22]SAY: Molerat/ : Squeek!
+[03:49:23]SAY: Molerat/ : Squeek!
+[03:49:23]SAY: Molerat/ : Squeek, i say
+[03:49:24]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:24]SAY: Molerat/ : Squeek!
+[03:49:25]SAY: Molerat/ : Squeek!
+[03:49:25]SAY: Mutant/ : HMPH!
+[03:49:25]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Molerat/ : Squeek
+[03:49:27]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Molerat/ : Squeek, i say
+[03:49:27]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Mutant/ : ARRRRR!
+[03:49:27]SAY: Molerat/ : Squeek, i say
+[03:49:27]SAY: Molerat/ : Squeek!
+[03:49:27]SAY: Molerat/ : Squeek, i say
+[03:49:27]SAY: Molerat/ : Squeek, i say
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Molerat/ : Squeek
+[03:49:29]SAY: Mutant/ : HMPH!
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Molerat/ : Squeek
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Molerat/ : Squeek
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Molerat/ : Squeek, i say
+[03:49:29]SAY: Molerat/ : Squeek, i say
+[03:49:29]SAY: Molerat/ : Squeek
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Mutant/ : HMPH!
+[03:49:29]SAY: Molerat/ : Squeek
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Molerat/ : Squeek!
+[03:49:29]SAY: Molerat/ : Squeek, i say
+[03:49:29]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Molerat/ : Squeek!
+[03:49:31]SAY: Molerat/ : Squeek!
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Molerat/ : Squeek!
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Molerat/ : Squeek!
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Mutant/ : ARGH!
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:31]SAY: Mutant/ : ARRRRR!
+[03:49:31]SAY: Molerat/ : Squeek
+[03:49:32]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:33]SAY: Molerat/ : Squeek!
+[03:49:33]SAY: Molerat/ : Squeek
+[03:49:33]SAY: Molerat/ : Squeek
+[03:49:33]SAY: Molerat/ : Squeek
+[03:49:33]SAY: Molerat/ : Squeek, i say
+[03:49:33]SAY: Molerat/ : Squeek!
+[03:49:33]SAY: Molerat/ : Squeek
+[03:49:33]SAY: Mutant/ : ARRRRR!
+[03:49:33]SAY: Mutant/ : ARGH!
+[03:49:33]SAY: Molerat/ : Squeek
+[03:49:33]SAY: Molerat/ : Squeek
+[03:49:33]SAY: Molerat/ : Squeek!
+[03:49:35]SAY: Molerat/ : Squeek!
+[03:49:35]SAY: Molerat/ : Squeek
+[03:49:35]SAY: Molerat/ : Squeek
+[03:49:35]SAY: Mutant/ : HMPH!
+[03:49:35]SAY: Mutant/ : NNNNNGH!
+[03:49:35]SAY: Molerat/ : Squeek
+[03:49:35]SAY: Molerat/ : Squeek!
+[03:49:37]SAY: Molerat/ : Squeek, i say
+[03:49:37]SAY: Molerat/ : Squeek
+[03:49:37]SAY: Mutant/ : ARRRRR!
+[03:49:37]SAY: Molerat/ : Squeek!
+[03:49:38]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:39]SAY: Molerat/ : Squeek, i say
+[03:49:39]SAY: Molerat/ : Squeek
+[03:49:39]SAY: Molerat/ : Squeek
+[03:49:39]SAY: Molerat/ : Squeek!
+[03:49:39]SAY: Mutant/ : ARRRRR!
+[03:49:39]SAY: Molerat/ : Squeek!
+[03:49:39]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Mutant/ : ARGH!
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek!
+[03:49:41]SAY: Molerat/ : Squeek, i say
+[03:49:41]SAY: brahmin/ : MOOOOOO
+[03:49:41]SAY: Molerat/ : Squeek
+[03:49:41]SAY: Molerat/ : Squeek!
+[03:49:43]SAY: Molerat/ : Squeek
+[03:49:43]SAY: Molerat/ : Squeek
+[03:49:43]SAY: Molerat/ : Squeek!
+[03:49:43]SAY: Mutant/ : ARRRRR!
+[03:49:43]SAY: Molerat/ : Squeek!
+[03:49:43]SAY: Molerat/ : Squeek!
+[03:49:43]SAY: Molerat/ : Squeek
+[03:49:43]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like dead flies.
+[03:49:45]SAY: Molerat/ : Squeek
+[03:49:45]SAY: Molerat/ : Squeek
+[03:49:45]SAY: Molerat/ : Squeek
+[03:49:45]SAY: Molerat/ : Squeek!
+[03:49:45]SAY: Molerat/ : Squeek!
+[03:49:45]SAY: Molerat/ : Squeek, i say
+[03:49:45]SAY: Mutant/ : ARGH!
+[03:49:45]SAY: Molerat/ : Squeek
+[03:49:45]SAY: Molerat/ : Squeek
+[03:49:45]SAY: Molerat/ : Squeek
+[03:49:46]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:47]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 123,90,1 in Custodial Closet
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek, i say
+[03:49:47]SAY: Molerat/ : Squeek!
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek!
+[03:49:47]SAY: Mutant/ : ARGH!
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek!
+[03:49:47]SAY: Molerat/ : Squeek
+[03:49:47]SAY: Molerat/ : Squeek!
+[03:49:47]SAY: Molerat/ : Squeek!
+[03:49:49]SAY: Molerat/ : Squeek
+[03:49:49]SAY: Molerat/ : Squeek
+[03:49:49]SAY: Molerat/ : Squeek
+[03:49:50]SAY: Molerat/ : Squeek
+[03:49:50]SAY: Molerat/ : Squeek
+[03:49:50]SAY: Molerat/ : Squeek
+[03:49:50]SAY: Molerat/ : Squeek!
+[03:49:50]SAY: Molerat/ : Squeek!
+[03:49:50]SAY: Molerat/ : Squeek!
+[03:49:50]SAY: Molerat/ : Squeek
+[03:49:50]SAY: Molerat/ : Squeek!
+[03:49:52]SAY: Molerat/ : Squeek
+[03:49:52]SAY: Mutant/ : ARRRRR!
+[03:49:52]SAY: Molerat/ : Squeek, i say
+[03:49:52]SAY: Molerat/ : Squeek
+[03:49:52]SAY: Molerat/ : Squeek
+[03:49:52]SAY: Mutant/ : ARRRRR!
+[03:49:52]SAY: Molerat/ : Squeek!
+[03:49:52]SAY: Molerat/ : Squeek, i say
+[03:49:52]SAY: Mutant/ : NNNNNGH!
+[03:49:52]SAY: Molerat/ : Squeek
+[03:49:52]SAY: Molerat/ : Squeek, i say
+[03:49:54]SAY: Molerat/ : Squeek
+[03:49:54]SAY: Molerat/ : Squeek
+[03:49:54]SAY: Mutant/ : ARGH!
+[03:49:54]SAY: Molerat/ : Squeek!
+[03:49:54]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:49:56]SAY: Molerat/ : Squeek
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Mutant/ : HMPH!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:56]SAY: Molerat/ : Squeek!
+[03:49:57]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 129,92,1 in Custodial Closet
+[03:49:58]SAY: Molerat/ : Squeek!
+[03:49:58]SAY: Molerat/ : Squeek, i say
+[03:49:58]SAY: Molerat/ : Squeek!
+[03:49:58]SAY: Molerat/ : Squeek, i say
+[03:49:58]SAY: Mutant/ : ARRRRR!
+[03:49:58]SAY: Molerat/ : Squeek
+[03:49:58]SAY: Molerat/ : Squeek!
+[03:49:58]SAY: Molerat/ : Squeek, i say
+[03:50:00]SAY: Molerat/ : Squeek!
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:00]SAY: Molerat/ : Squeek, i say
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:00]SAY: Molerat/ : Squeek!
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:00]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Molerat/ : Squeek!
+[03:50:02]SAY: Molerat/ : Squeek!
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Mutant/ : ARRRRR!
+[03:50:02]SAY: Molerat/ : Squeek!
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:02]SAY: Molerat/ : Squeek
+[03:50:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:04]SAY: Molerat/ : Squeek
+[03:50:04]SAY: Molerat/ : Squeek
+[03:50:04]SAY: Molerat/ : Squeek!
+[03:50:04]SAY: Molerat/ : Squeek
+[03:50:04]SAY: Molerat/ : Squeek
+[03:50:04]SAY: Molerat/ : Squeek
+[03:50:04]SAY: Molerat/ : Squeek!
+[03:50:04]SAY: Molerat/ : Squeek!
+[03:50:06]SAY: Molerat/ : Squeek
+[03:50:06]SAY: Molerat/ : Squeek
+[03:50:06]SAY: Molerat/ : Squeek
+[03:50:06]SAY: Molerat/ : Squeek!
+[03:50:06]SAY: Mutant/ : NNNNNGH!
+[03:50:08]SAY: Molerat/ : Squeek!
+[03:50:08]SAY: Mutant/ : HMPH!
+[03:50:08]SAY: Molerat/ : Squeek!
+[03:50:08]SAY: Molerat/ : Squeek, i say
+[03:50:08]SAY: Molerat/ : Squeek
+[03:50:08]SAY: Molerat/ : Squeek!
+[03:50:08]SAY: Mutant/ : NNNNNGH!
+[03:50:08]SAY: Molerat/ : Squeek, i say
+[03:50:08]SAY: Molerat/ : Squeek
+[03:50:08]SAY: Molerat/ : Squeek
+[03:50:08]SAY: Molerat/ : Squeek!
+[03:50:09]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:10]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 123,91,1 in Custodial Closet
+[03:50:10]SAY: Molerat/ : Squeek!
+[03:50:10]SAY: Molerat/ : Squeek, i say
+[03:50:10]SAY: Mutant/ : ARGH!
+[03:50:10]SAY: Molerat/ : Squeek
+[03:50:10]SAY: Molerat/ : Squeek, i say
+[03:50:10]SAY: Mutant/ : HMPH!
+[03:50:10]SAY: Mutant/ : NNNNNGH!
+[03:50:10]SAY: Molerat/ : Squeek
+[03:50:10]SAY: Molerat/ : Squeek
+[03:50:10]SAY: Molerat/ : Squeek
+[03:50:10]SAY: Molerat/ : Squeek
+[03:50:10]SAY: Molerat/ : Squeek
+[03:50:12]SAY: Molerat/ : Squeek
+[03:50:12]SAY: Molerat/ : Squeek
+[03:50:12]SAY: Mutant/ : GRRRRRR!
+[03:50:12]SAY: Molerat/ : Squeek
+[03:50:12]SAY: Molerat/ : Squeek!
+[03:50:12]SAY: Molerat/ : Squeek!
+[03:50:12]SAY: Molerat/ : Squeek, i say
+[03:50:12]SAY: Molerat/ : Squeek
+[03:50:12]SAY: Molerat/ : Squeek, i say
+[03:50:12]SAY: Mutant/ : ARGH!
+[03:50:14]SAY: Molerat/ : Squeek!
+[03:50:14]SAY: Mutant/ : GRRRRRR!
+[03:50:14]SAY: Molerat/ : Squeek
+[03:50:14]SAY: Molerat/ : Squeek
+[03:50:15]SAY: Molerat/ : Squeek, i say
+[03:50:15]SAY: Molerat/ : Squeek!
+[03:50:15]SAY: Molerat/ : Squeek, i say
+[03:50:16]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 124,93,1 in Space
+[03:50:17]SAY: Molerat/ : Squeek!
+[03:50:17]SAY: Molerat/ : Squeek
+[03:50:17]SAY: Molerat/ : Squeek!
+[03:50:17]SAY: Molerat/ : Squeek!
+[03:50:17]SAY: Molerat/ : Squeek!
+[03:50:17]SAY: Mutant/ : ARGH!
+[03:50:17]SAY: Mutant/ : GRRRRRR!
+[03:50:17]SAY: Molerat/ : Squeek
+[03:50:17]SAY: Molerat/ : Squeek!
+[03:50:17]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:19]SAY: Molerat/ : Squeek!
+[03:50:19]SAY: Molerat/ : Squeek
+[03:50:19]SAY: Molerat/ : Squeek, i say
+[03:50:19]SAY: Molerat/ : Squeek!
+[03:50:19]SAY: Mutant/ : ARRRRR!
+[03:50:19]SAY: Molerat/ : Squeek
+[03:50:19]SAY: Molerat/ : Squeek!
+[03:50:21]SAY: Molerat/ : Squeek!
+[03:50:21]SAY: Molerat/ : Squeek
+[03:50:21]SAY: Molerat/ : Squeek!
+[03:50:21]SAY: Molerat/ : Squeek
+[03:50:21]SAY: Molerat/ : Squeek, i say
+[03:50:21]SAY: Molerat/ : Squeek
+[03:50:21]SAY: Mutant/ : NNNNNGH!
+[03:50:21]SAY: Mutant/ : ARRRRR!
+[03:50:21]SAY: Molerat/ : Squeek, i say
+[03:50:21]SAY: Molerat/ : Squeek!
+[03:50:23]SAY: Molerat/ : Squeek
+[03:50:23]SAY: Molerat/ : Squeek
+[03:50:23]SAY: Molerat/ : Squeek
+[03:50:23]SAY: Molerat/ : Squeek
+[03:50:23]SAY: Molerat/ : Squeek
+[03:50:23]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[03:50:23]SAY: Mutant/ : ARRRRR!
+[03:50:23]SAY: Mutant/ : HMPH!
+[03:50:23]SAY: Molerat/ : Squeek!
+[03:50:23]SAY: Molerat/ : Squeek
+[03:50:23]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:50:23]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Mutant/ : ARRRRR!
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Molerat/ : Squeek
+[03:50:25]EMOTE: mouse/ : <B>The mouse</B> squeeks.
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Mutant/ : GRRRRRR!
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:25]SAY: Molerat/ : Squeek!
+[03:50:27]SAY: Molerat/ : Squeek
+[03:50:27]SAY: Molerat/ : Squeek
+[03:50:27]SAY: Molerat/ : Squeek
+[03:50:27]SAY: Mutant/ : ARRRRR!
+[03:50:27]SAY: Molerat/ : Squeek!
+[03:50:27]SAY: Molerat/ : Squeek, i say
+[03:50:27]SAY: Molerat/ : Squeek!
+[03:50:27]SAY: Molerat/ : Squeek
+[03:50:27]SAY: Molerat/ : Squeek!
+[03:50:29]SAY: Molerat/ : Squeek, i say
+[03:50:29]SAY: Molerat/ : Squeek!
+[03:50:29]SAY: Molerat/ : Squeek
+[03:50:29]SAY: Molerat/ : Squeek
+[03:50:29]SAY: Molerat/ : Squeek
+[03:50:29]SAY: Molerat/ : Squeek!
+[03:50:29]SAY: Medibot/ : Delicious!
+[03:50:30]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:31]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[03:50:32]SAY: Molerat/ : Squeek!
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Molerat/ : Squeek!
+[03:50:32]SAY: Molerat/ : Squeek, i say
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Mutant/ : ARRRRR!
+[03:50:32]SAY: Molerat/ : Squeek!
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Mutant/ : ARGH!
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Molerat/ : Squeek
+[03:50:32]SAY: Molerat/ : Squeek!
+[03:50:34]SAY: Molerat/ : Squeek!
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:34]SAY: Molerat/ : Squeek!
+[03:50:34]SAY: Molerat/ : Squeek, i say
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:34]SAY: Molerat/ : Squeek!
+[03:50:34]SAY: Mutant/ : ARRRRR!
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:34]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:50:34]SAY: Molerat/ : Squeek!
+[03:50:34]SAY: Molerat/ : Squeek
+[03:50:35]SAY: Molerat/ : Squeek
+[03:50:35]SAY: Molerat/ : Squeek!
+[03:50:35]SAY: Molerat/ : Squeek
+[03:50:35]SAY: Molerat/ : Squeek, i say
+[03:50:35]SAY: Mutant/ : NNNNNGH!
+[03:50:35]SAY: Molerat/ : Squeek!
+[03:50:38]SAY: Molerat/ : Squeek!
+[03:50:38]SAY: Molerat/ : Squeek!
+[03:50:38]SAY: Molerat/ : Squeek!
+[03:50:38]SAY: Molerat/ : Squeek, i say
+[03:50:38]SAY: Molerat/ : Squeek!
+[03:50:38]SAY: Molerat/ : Squeek
+[03:50:38]SAY: Molerat/ : Squeek!
+[03:50:38]SAY: Molerat/ : Squeek
+[03:50:38]SAY: Molerat/ : Squeek!
+[03:50:38]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:40]SAY: Mutant/ : GRRRRRR!
+[03:50:40]SAY: Molerat/ : Squeek!
+[03:50:40]SAY: Molerat/ : Squeek
+[03:50:40]SAY: Molerat/ : Squeek
+[03:50:40]SAY: Molerat/ : Squeek
+[03:50:42]SAY: Molerat/ : Squeek!
+[03:50:42]SAY: Molerat/ : Squeek
+[03:50:42]SAY: Molerat/ : Squeek
+[03:50:42]SAY: Mutant/ : ARRRRR!
+[03:50:42]SAY: Mutant/ : NNNNNGH!
+[03:50:42]SAY: Molerat/ : Squeek!
+[03:50:44]SAY: Mutant/ : NNNNNGH!
+[03:50:44]SAY: Molerat/ : Squeek
+[03:50:44]SAY: Molerat/ : Squeek
+[03:50:44]SAY: Mutant/ : NNNNNGH!
+[03:50:44]SAY: Molerat/ : Squeek
+[03:50:44]SAY: Molerat/ : Squeek, i say
+[03:50:44]SAY: Molerat/ : Squeek, i say
+[03:50:44]SAY: Molerat/ : Squeek, i say
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:46]SAY: Molerat/ : Squeek!
+[03:50:46]SAY: Molerat/ : Squeek!
+[03:50:46]SAY: Molerat/ : Squeek!
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:46]SAY: Molerat/ : Squeek!
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:46]SAY: Molerat/ : Squeek, i say
+[03:50:46]SAY: Molerat/ : Squeek
+[03:50:47]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:48]SAY: Molerat/ : Squeek!
+[03:50:48]SAY: Molerat/ : Squeek!
+[03:50:48]SAY: Molerat/ : Squeek!
+[03:50:48]SAY: Molerat/ : Squeek, i say
+[03:50:48]SAY: Molerat/ : Squeek
+[03:50:48]SAY: Molerat/ : Squeek
+[03:50:48]SAY: Molerat/ : Squeek!
+[03:50:48]SAY: Mutant/ : GRRRRRR!
+[03:50:48]SAY: Mutant/ : ARGH!
+[03:50:48]SAY: Molerat/ : Squeek!
+[03:50:50]SAY: Molerat/ : Squeek
+[03:50:50]SAY: Molerat/ : Squeek
+[03:50:50]SAY: Molerat/ : Squeek
+[03:50:50]SAY: Molerat/ : Squeek!
+[03:50:50]SAY: Molerat/ : Squeek
+[03:50:50]SAY: Mutant/ : NNNNNGH!
+[03:50:50]SAY: Molerat/ : Squeek!
+[03:50:50]SAY: Molerat/ : Squeek!
+[03:50:50]SAY: Molerat/ : Squeek
+[03:50:52]SAY: Molerat/ : Squeek!
+[03:50:52]SAY: Mutant/ : ARGH!
+[03:50:52]SAY: Molerat/ : Squeek
+[03:50:54]SAY: Molerat/ : Squeek
+[03:50:54]SAY: Molerat/ : Squeek
+[03:50:54]SAY: Molerat/ : Squeek
+[03:50:54]SAY: Molerat/ : Squeek!
+[03:50:54]SAY: Mutant/ : ARRRRR!
+[03:50:54]SAY: Molerat/ : Squeek
+[03:50:54]SAY: Molerat/ : Squeek!
+[03:50:55]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:50:56]SAY: Molerat/ : Squeek!
+[03:50:56]SAY: Molerat/ : Squeek
+[03:50:56]SAY: Molerat/ : Squeek
+[03:50:56]SAY: Molerat/ : Squeek
+[03:50:56]SAY: Molerat/ : Squeek
+[03:50:56]SAY: Molerat/ : Squeek, i say
+[03:50:56]SAY: Molerat/ : Squeek!
+[03:50:56]SAY: Mutant/ : ARRRRR!
+[03:50:56]SAY: Molerat/ : Squeek
+[03:50:56]SAY: Molerat/ : Squeek!
+[03:50:58]SAY: Mutant/ : GRRRRRR!
+[03:50:58]SAY: Molerat/ : Squeek, i say
+[03:50:58]SAY: Molerat/ : Squeek
+[03:50:58]SAY: Molerat/ : Squeek!
+[03:50:58]SAY: Molerat/ : Squeek!
+[03:50:58]SAY: Molerat/ : Squeek!
+[03:50:59]SAY: Mutant/ : ARRRRR!
+[03:50:59]SAY: Molerat/ : Squeek
+[03:50:59]SAY: Mutant/ : HMPH!
+[03:50:59]SAY: brahmin/ : Moo?
+[03:51:01]SAY: Molerat/ : Squeek
+[03:51:03]SAY: Molerat/ : Squeek
+[03:51:03]SAY: Molerat/ : Squeek
+[03:51:03]SAY: Molerat/ : Squeek!
+[03:51:03]SAY: Molerat/ : Squeek!
+[03:51:03]SAY: Molerat/ : Squeek
+[03:51:03]SAY: Molerat/ : Squeek!
+[03:51:03]SAY: Molerat/ : Squeek!
+[03:51:03]SAY: Molerat/ : Squeek!
+[03:51:03]SAY: Molerat/ : Squeek!
+[03:51:03]SAY: yaogai/ : Growl!
+[03:51:03]SAY: Molerat/ : Squeek, i say
+[03:51:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:05]SAY: Molerat/ : Squeek!
+[03:51:05]SAY: Mutant/ : ARRRRR!
+[03:51:05]SAY: Molerat/ : Squeek
+[03:51:05]SAY: Molerat/ : Squeek
+[03:51:05]SAY: Molerat/ : Squeek
+[03:51:05]SAY: Molerat/ : Squeek!
+[03:51:05]SAY: Molerat/ : Squeek!
+[03:51:05]SAY: Molerat/ : Squeek!
+[03:51:05]SAY: Molerat/ : Squeek!
+[03:51:05]SAY: Molerat/ : Squeek
+[03:51:05]SAY: Molerat/ : Squeek
+[03:51:05]SAY: Molerat/ : Squeek, i say
+[03:51:05]SAY: yaogai/ : GRR!
+[03:51:05]SAY: Molerat/ : Squeek!
+[03:51:07]SAY: Molerat/ : Squeek
+[03:51:07]SAY: Molerat/ : Squeek, i say
+[03:51:07]SAY: Molerat/ : Squeek
+[03:51:07]SAY: Mutant/ : GRRRRRR!
+[03:51:07]SAY: Molerat/ : Squeek!
+[03:51:09]SAY: Molerat/ : Squeek
+[03:51:09]SAY: Molerat/ : Squeek
+[03:51:09]SAY: Molerat/ : Squeek
+[03:51:09]SAY: Molerat/ : Squeek, i say
+[03:51:09]SAY: Molerat/ : Squeek, i say
+[03:51:09]SAY: Mutant/ : ARRRRR!
+[03:51:09]SAY: Molerat/ : Squeek
+[03:51:11]SAY: Mutant/ : GRRRRRR!
+[03:51:11]SAY: Molerat/ : Squeek
+[03:51:11]SAY: Molerat/ : Squeek
+[03:51:11]SAY: Molerat/ : Squeek!
+[03:51:11]SAY: Mutant/ : ARRRRR!
+[03:51:11]SAY: Molerat/ : Squeek!
+[03:51:11]SAY: Molerat/ : Squeek, i say
+[03:51:11]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:13]SAY: Molerat/ : Squeek
+[03:51:13]SAY: Molerat/ : Squeek
+[03:51:13]SAY: Molerat/ : Squeek
+[03:51:13]SAY: Molerat/ : Squeek
+[03:51:13]SAY: Molerat/ : Squeek
+[03:51:13]SAY: Molerat/ : Squeek
+[03:51:13]SAY: Molerat/ : Squeek!
+[03:51:13]SAY: Molerat/ : Squeek!
+[03:51:13]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:51:15]SAY: Molerat/ : Squeek
+[03:51:15]SAY: Mutant/ : ARRRRR!
+[03:51:15]SAY: Molerat/ : Squeek
+[03:51:15]SAY: Molerat/ : Squeek!
+[03:51:15]SAY: Molerat/ : Squeek!
+[03:51:15]SAY: Molerat/ : Squeek
+[03:51:15]SAY: Mutant/ : ARRRRR!
+[03:51:15]SAY: Mutant/ : ARRRRR!
+[03:51:15]SAY: Molerat/ : Squeek!
+[03:51:17]SAY: Molerat/ : Squeek, i say
+[03:51:17]SAY: Molerat/ : Squeek, i say
+[03:51:17]SAY: Molerat/ : Squeek!
+[03:51:17]SAY: Molerat/ : Squeek
+[03:51:18]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek, i say
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek
+[03:51:19]SAY: Molerat/ : Squeek, i say
+[03:51:19]SAY: Molerat/ : Squeek!
+[03:51:19]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:51:21]SAY: Mutant/ : GRRRRRR!
+[03:51:21]SAY: Molerat/ : Squeek
+[03:51:21]SAY: Molerat/ : Squeek!
+[03:51:21]SAY: Molerat/ : Squeek, i say
+[03:51:21]SAY: Molerat/ : Squeek
+[03:51:23]SAY: Molerat/ : Squeek
+[03:51:23]SAY: Molerat/ : Squeek!
+[03:51:23]SAY: Molerat/ : Squeek!
+[03:51:23]SAY: Mutant/ : GRRRRRR!
+[03:51:23]SAY: Mutant/ : HMPH!
+[03:51:23]SAY: Molerat/ : Squeek, i say
+[03:51:25]SAY: Molerat/ : Squeek!
+[03:51:25]SAY: Molerat/ : Squeek!
+[03:51:25]SAY: Mutant/ : GRRRRRR!
+[03:51:25]SAY: Mutant/ : NNNNNGH!
+[03:51:25]SAY: Molerat/ : Squeek
+[03:51:25]SAY: Molerat/ : Squeek
+[03:51:25]SAY: Molerat/ : Squeek, i say
+[03:51:25]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:51:25]SAY: Molerat/ : Squeek!
+[03:51:26]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:27]SAY: Molerat/ : Squeek
+[03:51:27]SAY: Molerat/ : Squeek
+[03:51:27]SAY: Molerat/ : Squeek!
+[03:51:27]SAY: Molerat/ : Squeek!
+[03:51:27]SAY: Molerat/ : Squeek!
+[03:51:27]SAY: Molerat/ : Squeek
+[03:51:27]SAY: Molerat/ : Squeek
+[03:51:27]SAY: Mutant/ : NNNNNGH!
+[03:51:27]SAY: Molerat/ : Squeek!
+[03:51:27]SAY: Molerat/ : Squeek!
+[03:51:27]SAY: Mutant/ : NNNNNGH!
+[03:51:27]SAY: Molerat/ : Squeek
+[03:51:27]SAY: Molerat/ : Squeek!
+[03:51:27]SAY: Molerat/ : Squeek, i say
+[03:51:29]SAY: Molerat/ : Squeek
+[03:51:29]SAY: Molerat/ : Squeek, i say
+[03:51:29]SAY: Molerat/ : Squeek
+[03:51:29]SAY: Molerat/ : Squeek!
+[03:51:29]SAY: Molerat/ : Squeek
+[03:51:29]SAY: Molerat/ : Squeek!
+[03:51:29]SAY: Molerat/ : Squeek
+[03:51:29]SAY: Molerat/ : Squeek!
+[03:51:29]SAY: Molerat/ : Squeek!
+[03:51:29]SAY: Mutant/ : ARGH!
+[03:51:32]SAY: Molerat/ : Squeek
+[03:51:32]SAY: Molerat/ : Squeek, i say
+[03:51:32]SAY: Molerat/ : Squeek, i say
+[03:51:32]SAY: Mutant/ : ARGH!
+[03:51:32]SAY: Molerat/ : Squeek!
+[03:51:32]SAY: Molerat/ : Squeek
+[03:51:32]SAY: Molerat/ : Squeek
+[03:51:32]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:34]SAY: Molerat/ : Squeek
+[03:51:34]SAY: Molerat/ : Squeek!
+[03:51:34]SAY: Molerat/ : Squeek!
+[03:51:34]SAY: Molerat/ : Squeek
+[03:51:34]SAY: Molerat/ : Squeek
+[03:51:34]SAY: Molerat/ : Squeek
+[03:51:34]SAY: Molerat/ : Squeek!
+[03:51:34]SAY: Molerat/ : Squeek!
+[03:51:36]SAY: Molerat/ : Squeek!
+[03:51:36]SAY: Molerat/ : Squeek!
+[03:51:36]SAY: Molerat/ : Squeek
+[03:51:36]SAY: Molerat/ : Squeek
+[03:51:36]SAY: Molerat/ : Squeek, i say
+[03:51:36]SAY: Molerat/ : Squeek
+[03:51:36]SAY: Molerat/ : Squeek
+[03:51:38]SAY: Mutant/ : ARRRRR!
+[03:51:38]SAY: Molerat/ : Squeek!
+[03:51:38]SAY: Molerat/ : Squeek!
+[03:51:38]SAY: Mutant/ : GRRRRRR!
+[03:51:38]SAY: Molerat/ : Squeek
+[03:51:38]SAY: Mutant/ : ARGH!
+[03:51:38]SAY: Molerat/ : Squeek
+[03:51:38]SAY: Molerat/ : Squeek
+[03:51:38]SAY: Molerat/ : Squeek
+[03:51:39]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 158,103,1 in Assembly Line
+[03:51:40]SAY: Molerat/ : Squeek!
+[03:51:40]SAY: Molerat/ : Squeek!
+[03:51:40]SAY: Molerat/ : Squeek!
+[03:51:40]SAY: Molerat/ : Squeek
+[03:51:40]SAY: Molerat/ : Squeek!
+[03:51:40]SAY: Molerat/ : Squeek
+[03:51:40]SAY: Molerat/ : Squeek
+[03:51:40]EMOTE: mouse/ : <B>The mouse</B> shakes.
+[03:51:40]SAY: Mutant/ : ARGH!
+[03:51:40]SAY: Molerat/ : Squeek
+[03:51:40]SAY: Molerat/ : Squeek
+[03:51:40]SAY: Molerat/ : Squeek
+[03:51:40]SAY: Molerat/ : Squeek!
+[03:51:40]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:42]SAY: Molerat/ : Squeek
+[03:51:42]SAY: Molerat/ : Squeek
+[03:51:42]SAY: Molerat/ : Squeek
+[03:51:42]SAY: Molerat/ : Squeek!
+[03:51:42]SAY: Molerat/ : Squeek
+[03:51:42]SAY: Molerat/ : Squeek!
+[03:51:42]SAY: Molerat/ : Squeek!
+[03:51:42]SAY: Molerat/ : Squeek
+[03:51:42]SAY: Molerat/ : Squeek
+[03:51:44]SAY: Molerat/ : Squeek!
+[03:51:44]SAY: Molerat/ : Squeek, i say
+[03:51:44]SAY: Molerat/ : Squeek!
+[03:51:44]SAY: Molerat/ : Squeek
+[03:51:44]SAY: Molerat/ : Squeek
+[03:51:44]SAY: Molerat/ : Squeek
+[03:51:44]SAY: Molerat/ : Squeek!
+[03:51:44]SAY: Mutant/ : NNNNNGH!
+[03:51:44]SAY: Mutant/ : NNNNNGH!
+[03:51:44]SAY: Molerat/ : Squeek
+[03:51:44]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:51:44]SAY: Molerat/ : Squeek, i say
+[03:51:46]SAY: Molerat/ : Squeek!
+[03:51:46]SAY: Molerat/ : Squeek!
+[03:51:46]SAY: Molerat/ : Squeek
+[03:51:46]SAY: Molerat/ : Squeek!
+[03:51:46]SAY: Molerat/ : Squeek!
+[03:51:46]SAY: Molerat/ : Squeek!
+[03:51:46]SAY: Mutant/ : ARRRRR!
+[03:51:46]SAY: Molerat/ : Squeek!
+[03:51:46]SAY: Molerat/ : Squeek
+[03:51:46]SAY: Molerat/ : Squeek
+[03:51:46]SAY: Molerat/ : Squeek
+[03:51:48]SAY: Molerat/ : Squeek!
+[03:51:48]SAY: Molerat/ : Squeek
+[03:51:48]SAY: Molerat/ : Squeek, i say
+[03:51:48]SAY: Molerat/ : Squeek!
+[03:51:48]SAY: Molerat/ : Squeek!
+[03:51:48]SAY: Molerat/ : Squeek!
+[03:51:48]SAY: Molerat/ : Squeek!
+[03:51:48]SAY: Molerat/ : Squeek
+[03:51:48]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek, i say
+[03:51:50]SAY: Molerat/ : Squeek
+[03:51:50]SAY: Molerat/ : Squeek!
+[03:51:50]SAY: Molerat/ : Squeek
+[03:51:50]SAY: Molerat/ : Squeek
+[03:51:52]SAY: Molerat/ : Squeek!
+[03:51:52]SAY: Molerat/ : Squeek!
+[03:51:52]SAY: Molerat/ : Squeek
+[03:51:52]SAY: Molerat/ : Squeek!
+[03:51:52]SAY: Molerat/ : Squeek
+[03:51:52]SAY: Molerat/ : Squeek!
+[03:51:52]SAY: Mutant/ : GRRRRRR!
+[03:51:52]SAY: Mutant/ : HMPH!
+[03:51:54]SAY: Molerat/ : Squeek
+[03:51:54]SAY: Molerat/ : Squeek
+[03:51:54]SAY: Molerat/ : Squeek
+[03:51:54]SAY: Molerat/ : Squeek
+[03:51:54]SAY: Molerat/ : Squeek!
+[03:51:54]SAY: Molerat/ : Squeek!
+[03:51:54]SAY: Molerat/ : Squeek
+[03:51:54]SAY: Molerat/ : Squeek
+[03:51:55]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:51:56]SAY: Molerat/ : Squeek
+[03:51:56]SAY: Molerat/ : Squeek
+[03:51:56]SAY: Molerat/ : Squeek!
+[03:51:56]SAY: Mutant/ : ARRRRR!
+[03:51:56]SAY: Molerat/ : Squeek!
+[03:51:58]SAY: Molerat/ : Squeek!
+[03:51:58]SAY: Molerat/ : Squeek
+[03:51:58]SAY: Molerat/ : Squeek!
+[03:51:58]SAY: Molerat/ : Squeek
+[03:51:58]SAY: Mutant/ : NNNNNGH!
+[03:51:58]SAY: Molerat/ : Squeek, i say
+[03:51:58]SAY: Molerat/ : Squeek!
+[03:51:58]SAY: Molerat/ : Squeek
+[03:51:58]SAY: Molerat/ : Squeek
+[03:52:00]SAY: Molerat/ : Squeek
+[03:52:00]SAY: Molerat/ : Squeek!
+[03:52:00]SAY: Molerat/ : Squeek, i say
+[03:52:00]SAY: Molerat/ : Squeek
+[03:52:00]SAY: Molerat/ : Squeek
+[03:52:00]SAY: Molerat/ : Squeek
+[03:52:02]SAY: Mutant/ : HMPH!
+[03:52:02]SAY: Molerat/ : Squeek!
+[03:52:02]SAY: Molerat/ : Squeek!
+[03:52:02]SAY: Molerat/ : Squeek
+[03:52:02]SAY: Molerat/ : Squeek
+[03:52:02]SAY: Molerat/ : Squeek!
+[03:52:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:04]SAY: Molerat/ : Squeek!
+[03:52:04]SAY: Molerat/ : Squeek
+[03:52:04]SAY: Mutant/ : HMPH!
+[03:52:04]SAY: Molerat/ : Squeek!
+[03:52:04]SAY: Molerat/ : Squeek
+[03:52:04]SAY: Molerat/ : Squeek
+[03:52:04]SAY: Molerat/ : Squeek
+[03:52:04]SAY: Molerat/ : Squeek
+[03:52:06]SAY: Molerat/ : Squeek!
+[03:52:06]SAY: Molerat/ : Squeek
+[03:52:06]SAY: Molerat/ : Squeek
+[03:52:06]SAY: Mutant/ : HMPH!
+[03:52:06]SAY: Molerat/ : Squeek
+[03:52:09]SAY: Molerat/ : Squeek!
+[03:52:09]SAY: Molerat/ : Squeek!
+[03:52:09]SAY: Molerat/ : Squeek
+[03:52:09]SAY: Molerat/ : Squeek, i say
+[03:52:09]SAY: Molerat/ : Squeek
+[03:52:09]SAY: Molerat/ : Squeek
+[03:52:09]SAY: mouse/ : Squeek!
+[03:52:09]SAY: Molerat/ : Squeek!
+[03:52:09]SAY: Molerat/ : Squeek
+[03:52:11]SAY: Molerat/ : Squeek
+[03:52:11]SAY: Mutant/ : ARRRRR!
+[03:52:11]SAY: Molerat/ : Squeek
+[03:52:11]SAY: Molerat/ : Squeek!
+[03:52:11]SAY: Molerat/ : Squeek
+[03:52:11]SAY: Molerat/ : Squeek
+[03:52:11]SAY: Molerat/ : Squeek, i say
+[03:52:11]SAY: Molerat/ : Squeek!
+[03:52:11]SAY: Molerat/ : Squeek, i say
+[03:52:11]SAY: Molerat/ : Squeek
+[03:52:11]SAY: Molerat/ : Squeek
+[03:52:11]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:13]SAY: Molerat/ : Squeek!
+[03:52:13]SAY: Molerat/ : Squeek
+[03:52:13]SAY: Mutant/ : GRRRRRR!
+[03:52:13]SAY: Molerat/ : Squeek
+[03:52:13]SAY: Molerat/ : Squeek!
+[03:52:13]SAY: Molerat/ : Squeek
+[03:52:13]SAY: Molerat/ : Squeek!
+[03:52:13]SAY: Molerat/ : Squeek!
+[03:52:13]SAY: Molerat/ : Squeek, i say
+[03:52:13]SAY: Molerat/ : Squeek!
+[03:52:13]SAY: Mutant/ : GRRRRRR!
+[03:52:15]SAY: Mutant/ : ARGH!
+[03:52:15]SAY: Molerat/ : Squeek!
+[03:52:15]SAY: Molerat/ : Squeek!
+[03:52:15]SAY: Molerat/ : Squeek
+[03:52:15]SAY: Molerat/ : Squeek!
+[03:52:15]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Molerat/ : Squeek!
+[03:52:17]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Molerat/ : Squeek
+[03:52:17]SAY: Mutant/ : HMPH!
+[03:52:19]SAY: Molerat/ : Squeek!
+[03:52:19]SAY: Molerat/ : Squeek!
+[03:52:19]SAY: Molerat/ : Squeek!
+[03:52:19]SAY: Molerat/ : Squeek
+[03:52:19]SAY: Molerat/ : Squeek!
+[03:52:19]SAY: Mutant/ : HMPH!
+[03:52:19]SAY: Mutant/ : GRRRRRR!
+[03:52:19]SAY: Molerat/ : Squeek
+[03:52:19]SAY: Medibot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[03:52:20]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:21]SAY: Molerat/ : Squeek
+[03:52:21]SAY: Molerat/ : Squeek!
+[03:52:21]SAY: Mutant/ : ARRRRR!
+[03:52:23]SAY: Molerat/ : Squeek
+[03:52:23]SAY: Molerat/ : Squeek
+[03:52:23]SAY: Molerat/ : Squeek!
+[03:52:23]SAY: Molerat/ : Squeek
+[03:52:23]SAY: Molerat/ : Squeek
+[03:52:23]SAY: Molerat/ : Squeek!
+[03:52:23]SAY: Molerat/ : Squeek!
+[03:52:23]SAY: Mutant/ : NNNNNGH!
+[03:52:23]SAY: Molerat/ : Squeek
+[03:52:23]SAY: Molerat/ : Squeek!
+[03:52:25]SAY: Molerat/ : Squeek!
+[03:52:25]SAY: Molerat/ : Squeek!
+[03:52:25]SAY: Molerat/ : Squeek
+[03:52:25]SAY: Molerat/ : Squeek
+[03:52:25]SAY: Molerat/ : Squeek
+[03:52:25]SAY: Mutant/ : ARRRRR!
+[03:52:25]SAY: Molerat/ : Squeek!
+[03:52:25]SAY: Molerat/ : Squeek
+[03:52:27]SAY: Molerat/ : Squeek
+[03:52:27]SAY: Molerat/ : Squeek!
+[03:52:27]SAY: Mutant/ : ARGH!
+[03:52:27]SAY: Molerat/ : Squeek
+[03:52:27]SAY: Molerat/ : Squeek!
+[03:52:27]SAY: Mutant/ : HMPH!
+[03:52:27]SAY: Molerat/ : Squeek
+[03:52:27]SAY: Molerat/ : Squeek
+[03:52:27]SAY: Molerat/ : Squeek!
+[03:52:28]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:29]SAY: Molerat/ : Squeek!
+[03:52:29]SAY: Molerat/ : Squeek
+[03:52:29]SAY: Molerat/ : Squeek
+[03:52:29]SAY: Molerat/ : Squeek
+[03:52:29]SAY: Molerat/ : Squeek!
+[03:52:29]SAY: Molerat/ : Squeek
+[03:52:29]SAY: Molerat/ : Squeek
+[03:52:29]SAY: Molerat/ : Squeek!
+[03:52:29]SAY: Molerat/ : Squeek
+[03:52:29]SAY: Molerat/ : Squeek!
+[03:52:29]SAY: brahmin/ : Moo
+[03:52:31]SAY: Molerat/ : Squeek!
+[03:52:31]SAY: Molerat/ : Squeek
+[03:52:31]SAY: Molerat/ : Squeek, i say
+[03:52:31]SAY: Molerat/ : Squeek!
+[03:52:31]SAY: Molerat/ : Squeek
+[03:52:31]SAY: Molerat/ : Squeek
+[03:52:31]SAY: Mutant/ : GRRRRRR!
+[03:52:31]SAY: Molerat/ : Squeek!
+[03:52:31]SAY: Molerat/ : Squeek
+[03:52:31]SAY: Molerat/ : Squeek!
+[03:52:33]SAY: Molerat/ : Squeek!
+[03:52:33]SAY: Molerat/ : Squeek
+[03:52:33]SAY: Molerat/ : Squeek
+[03:52:33]SAY: Molerat/ : Squeek!
+[03:52:33]SAY: Molerat/ : Squeek
+[03:52:33]SAY: Molerat/ : Squeek!
+[03:52:33]SAY: Molerat/ : Squeek!
+[03:52:33]SAY: Molerat/ : Squeek
+[03:52:33]SAY: Molerat/ : Squeek!
+[03:52:34]SAY: Molerat/ : Squeek, i say
+[03:52:34]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:52:34]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:36]SAY: Molerat/ : Squeek
+[03:52:36]SAY: Molerat/ : Squeek
+[03:52:36]SAY: Molerat/ : Squeek
+[03:52:36]SAY: Molerat/ : Squeek
+[03:52:36]SAY: Molerat/ : Squeek
+[03:52:36]SAY: Molerat/ : Squeek!
+[03:52:36]SAY: Molerat/ : Squeek
+[03:52:36]SAY: Molerat/ : Squeek, i say
+[03:52:38]SAY: Molerat/ : Squeek
+[03:52:38]SAY: Molerat/ : Squeek!
+[03:52:38]SAY: Molerat/ : Squeek
+[03:52:38]SAY: Molerat/ : Squeek!
+[03:52:38]SAY: Molerat/ : Squeek
+[03:52:38]SAY: Molerat/ : Squeek
+[03:52:38]SAY: Molerat/ : Squeek!
+[03:52:38]SAY: Mutant/ : GRRRRRR!
+[03:52:38]SAY: Molerat/ : Squeek!
+[03:52:38]SAY: Molerat/ : Squeek!
+[03:52:40]SAY: Molerat/ : Squeek
+[03:52:40]SAY: Molerat/ : Squeek
+[03:52:40]SAY: Molerat/ : Squeek!
+[03:52:40]SAY: Molerat/ : Squeek!
+[03:52:40]SAY: Molerat/ : Squeek!
+[03:52:40]SAY: Mutant/ : GRRRRRR!
+[03:52:40]SAY: Molerat/ : Squeek!
+[03:52:40]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:41]SAY: Molerat/ : Squeek
+[03:52:41]SAY: Molerat/ : Squeek, i say
+[03:52:42]SAY: Molerat/ : Squeek!
+[03:52:42]SAY: Molerat/ : Squeek!
+[03:52:42]SAY: Mutant/ : ARRRRR!
+[03:52:42]SAY: Molerat/ : Squeek, i say
+[03:52:43]SAY: Molerat/ : Squeek
+[03:52:44]SAY: Molerat/ : Squeek
+[03:52:44]SAY: Molerat/ : Squeek!
+[03:52:44]SAY: Molerat/ : Squeek, i say
+[03:52:44]SAY: Molerat/ : Squeek
+[03:52:44]SAY: Molerat/ : Squeek!
+[03:52:44]SAY: Molerat/ : Squeek, i say
+[03:52:44]SAY: Mutant/ : NNNNNGH!
+[03:52:44]SAY: Molerat/ : Squeek!
+[03:52:44]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:52:46]SAY: Molerat/ : Squeek
+[03:52:46]SAY: Molerat/ : Squeek
+[03:52:46]SAY: Molerat/ : Squeek
+[03:52:48]SAY: Molerat/ : Squeek!
+[03:52:48]SAY: Molerat/ : Squeek!
+[03:52:48]SAY: Molerat/ : Squeek
+[03:52:48]SAY: Molerat/ : Squeek, i say
+[03:52:49]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:50]SAY: Molerat/ : Squeek
+[03:52:50]SAY: Molerat/ : Squeek, i say
+[03:52:50]SAY: Molerat/ : Squeek
+[03:52:50]SAY: Molerat/ : Squeek
+[03:52:50]SAY: Mutant/ : NNNNNGH!
+[03:52:50]SAY: Molerat/ : Squeek
+[03:52:50]SAY: Molerat/ : Squeek, i say
+[03:52:52]SAY: Molerat/ : Squeek, i say
+[03:52:52]SAY: Molerat/ : Squeek
+[03:52:52]SAY: Molerat/ : Squeek
+[03:52:52]SAY: Molerat/ : Squeek
+[03:52:52]SAY: Molerat/ : Squeek!
+[03:52:52]SAY: Molerat/ : Squeek
+[03:52:52]SAY: Molerat/ : Squeek!
+[03:52:52]SAY: Molerat/ : Squeek!
+[03:52:54]SAY: Molerat/ : Squeek
+[03:52:54]SAY: Molerat/ : Squeek!
+[03:52:54]SAY: Molerat/ : Squeek
+[03:52:54]SAY: Molerat/ : Squeek!
+[03:52:54]SAY: Molerat/ : Squeek
+[03:52:54]SAY: Molerat/ : Squeek!
+[03:52:54]SAY: Molerat/ : Squeek!
+[03:52:54]SAY: Molerat/ : Squeek!
+[03:52:54]SAY: Molerat/ : Squeek
+[03:52:56]SAY: Molerat/ : Squeek
+[03:52:56]SAY: Molerat/ : Squeek!
+[03:52:56]SAY: Molerat/ : Squeek
+[03:52:56]SAY: Molerat/ : Squeek
+[03:52:56]SAY: Molerat/ : Squeek
+[03:52:56]SAY: Molerat/ : Squeek, i say
+[03:52:56]SAY: Molerat/ : Squeek
+[03:52:56]SAY: Mutant/ : GRRRRRR!
+[03:52:56]SAY: Molerat/ : Squeek
+[03:52:57]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:52:58]SAY: Molerat/ : Squeek
+[03:52:58]SAY: Molerat/ : Squeek
+[03:52:58]SAY: Molerat/ : Squeek
+[03:52:58]SAY: Molerat/ : Squeek
+[03:52:58]SAY: Molerat/ : Squeek
+[03:52:58]SAY: Molerat/ : Squeek
+[03:52:58]SAY: Mutant/ : ARGH!
+[03:52:58]SAY: Mutant/ : ARGH!
+[03:52:58]SAY: Molerat/ : Squeek!
+[03:52:58]SAY: Molerat/ : Squeek
+[03:53:00]SAY: Molerat/ : Squeek!
+[03:53:00]SAY: Molerat/ : Squeek
+[03:53:00]SAY: Molerat/ : Squeek!
+[03:53:00]SAY: Molerat/ : Squeek, i say
+[03:53:00]SAY: Mutant/ : ARRRRR!
+[03:53:00]SAY: Molerat/ : Squeek
+[03:53:02]SAY: Molerat/ : Squeek
+[03:53:02]SAY: Molerat/ : Squeek
+[03:53:02]SAY: Molerat/ : Squeek
+[03:53:02]SAY: Molerat/ : Squeek
+[03:53:02]SAY: Molerat/ : Squeek, i say
+[03:53:02]SAY: Molerat/ : Squeek, i say
+[03:53:04]SAY: Molerat/ : Squeek!
+[03:53:04]SAY: Molerat/ : Squeek
+[03:53:04]SAY: Mutant/ : GRRRRRR!
+[03:53:04]SAY: Molerat/ : Squeek
+[03:53:04]SAY: Molerat/ : Squeek
+[03:53:04]SAY: Molerat/ : Squeek
+[03:53:04]SAY: Molerat/ : Squeek
+[03:53:04]SAY: Molerat/ : Squeek!
+[03:53:04]SAY: Mutant/ : HMPH!
+[03:53:04]SAY: Molerat/ : Squeek
+[03:53:04]SAY: Molerat/ : Squeek, i say
+[03:53:04]SAY: Mutant/ : NNNNNGH!
+[03:53:04]SAY: Molerat/ : Squeek!
+[03:53:04]SAY: Molerat/ : Squeek!
+[03:53:05]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:06]SAY: Molerat/ : Squeek
+[03:53:06]SAY: Mutant/ : NNNNNGH!
+[03:53:06]SAY: Molerat/ : Squeek
+[03:53:06]SAY: Molerat/ : Squeek!
+[03:53:06]SAY: Molerat/ : Squeek
+[03:53:06]SAY: Molerat/ : Squeek
+[03:53:06]SAY: Molerat/ : Squeek
+[03:53:08]SAY: Molerat/ : Squeek!
+[03:53:08]SAY: Molerat/ : Squeek
+[03:53:08]SAY: Molerat/ : Squeek!
+[03:53:08]SAY: Molerat/ : Squeek
+[03:53:08]SAY: Molerat/ : Squeek, i say
+[03:53:08]SAY: Molerat/ : Squeek!
+[03:53:08]SAY: Molerat/ : Squeek
+[03:53:08]SAY: Molerat/ : Squeek!
+[03:53:08]SAY: Mutant/ : ARRRRR!
+[03:53:08]SAY: Mutant/ : ARGH!
+[03:53:08]SAY: Molerat/ : Squeek
+[03:53:10]SAY: Molerat/ : Squeek!
+[03:53:10]SAY: Molerat/ : Squeek!
+[03:53:10]SAY: Molerat/ : Squeek
+[03:53:10]SAY: Mutant/ : ARRRRR!
+[03:53:10]SAY: Molerat/ : Squeek!
+[03:53:10]SAY: Molerat/ : Squeek, i say
+[03:53:10]SAY: Molerat/ : Squeek, i say
+[03:53:10]SAY: Molerat/ : Squeek
+[03:53:10]SAY: Molerat/ : Squeek
+[03:53:10]SAY: Molerat/ : Squeek!
+[03:53:11]SAY: Molerat/ : Squeek!
+[03:53:11]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:12]SAY: Molerat/ : Squeek!
+[03:53:12]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Molerat/ : Squeek!
+[03:53:13]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Mutant/ : ARGH!
+[03:53:13]SAY: Molerat/ : Squeek
+[03:53:13]SAY: Mutant/ : HMPH!
+[03:53:13]SAY: Molerat/ : Squeek!
+[03:53:15]SAY: Molerat/ : Squeek
+[03:53:15]SAY: Molerat/ : Squeek
+[03:53:15]SAY: Mutant/ : HMPH!
+[03:53:15]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek!
+[03:53:17]SAY: Molerat/ : Squeek!
+[03:53:17]SAY: Molerat/ : Squeek!
+[03:53:17]SAY: Molerat/ : Squeek
+[03:53:17]SAY: Molerat/ : Squeek!
+[03:53:17]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:19]SAY: Molerat/ : Squeek
+[03:53:19]SAY: Molerat/ : Squeek
+[03:53:19]SAY: Molerat/ : Squeek!
+[03:53:19]SAY: Molerat/ : Squeek!
+[03:53:19]SAY: Molerat/ : Squeek, i say
+[03:53:19]SAY: Molerat/ : Squeek
+[03:53:19]SAY: Molerat/ : Squeek
+[03:53:19]SAY: Molerat/ : Squeek
+[03:53:19]SAY: Molerat/ : Squeek!
+[03:53:19]SAY: Mutant/ : HMPH!
+[03:53:19]SAY: Molerat/ : Squeek, i say
+[03:53:21]SAY: Molerat/ : Squeek
+[03:53:21]SAY: Molerat/ : Squeek
+[03:53:21]SAY: Molerat/ : Squeek
+[03:53:21]SAY: Molerat/ : Squeek
+[03:53:21]SAY: Molerat/ : Squeek!
+[03:53:21]SAY: Molerat/ : Squeek
+[03:53:21]SAY: Molerat/ : Squeek!
+[03:53:21]SAY: Molerat/ : Squeek
+[03:53:23]SAY: Molerat/ : Squeek
+[03:53:23]SAY: Molerat/ : Squeek, i say
+[03:53:23]SAY: Molerat/ : Squeek
+[03:53:23]SAY: Molerat/ : Squeek
+[03:53:23]SAY: Molerat/ : Squeek!
+[03:53:23]SAY: Molerat/ : Squeek
+[03:53:23]SAY: Mutant/ : GRRRRRR!
+[03:53:23]SAY: Mutant/ : ARRRRR!
+[03:53:23]SAY: Molerat/ : Squeek
+[03:53:23]SAY: Molerat/ : Squeek
+[03:53:24]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:25]SAY: Molerat/ : Squeek!
+[03:53:25]SAY: Mutant/ : HMPH!
+[03:53:25]SAY: Molerat/ : Squeek, i say
+[03:53:25]SAY: Molerat/ : Squeek
+[03:53:25]SAY: Molerat/ : Squeek
+[03:53:25]SAY: Molerat/ : Squeek
+[03:53:25]SAY: Molerat/ : Squeek
+[03:53:25]SAY: Molerat/ : Squeek
+[03:53:25]SAY: Molerat/ : Squeek, i say
+[03:53:25]SAY: Molerat/ : Squeek!
+[03:53:25]SAY: Mutant/ : ARRRRR!
+[03:53:25]SAY: Molerat/ : Squeek
+[03:53:25]SAY: Molerat/ : Squeek, i say
+[03:53:27]SAY: Molerat/ : Squeek
+[03:53:27]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:53:29]SAY: Molerat/ : Squeek!
+[03:53:29]SAY: Molerat/ : Squeek
+[03:53:29]SAY: Molerat/ : Squeek!
+[03:53:29]SAY: Molerat/ : Squeek
+[03:53:29]SAY: Mutant/ : HMPH!
+[03:53:29]SAY: Molerat/ : Squeek!
+[03:53:29]SAY: Molerat/ : Squeek
+[03:53:29]SAY: Mutant/ : HMPH!
+[03:53:29]SAY: Mutant/ : ARRRRR!
+[03:53:29]SAY: Mutant/ : ARGH!
+[03:53:29]SAY: Molerat/ : Squeek
+[03:53:29]SAY: Molerat/ : Squeek
+[03:53:31]SAY: Molerat/ : Squeek
+[03:53:31]SAY: Molerat/ : Squeek!
+[03:53:31]SAY: Mutant/ : GRRRRRR!
+[03:53:31]SAY: Molerat/ : Squeek
+[03:53:31]SAY: Molerat/ : Squeek
+[03:53:31]SAY: Molerat/ : Squeek!
+[03:53:32]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:33]SAY: Molerat/ : Squeek
+[03:53:33]SAY: Molerat/ : Squeek!
+[03:53:33]SAY: Molerat/ : Squeek!
+[03:53:33]SAY: Molerat/ : Squeek!
+[03:53:33]SAY: Molerat/ : Squeek
+[03:53:33]SAY: Molerat/ : Squeek
+[03:53:33]SAY: Molerat/ : Squeek
+[03:53:33]SAY: Molerat/ : Squeek!
+[03:53:35]SAY: Molerat/ : Squeek!
+[03:53:35]SAY: Molerat/ : Squeek!
+[03:53:35]SAY: Molerat/ : Squeek!
+[03:53:35]SAY: Molerat/ : Squeek!
+[03:53:35]SAY: Molerat/ : Squeek
+[03:53:35]SAY: Molerat/ : Squeek
+[03:53:35]SAY: Molerat/ : Squeek
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:37]SAY: Molerat/ : Squeek
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:37]SAY: Molerat/ : Squeek
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:37]SAY: Molerat/ : Squeek
+[03:53:37]SAY: Molerat/ : Squeek
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:37]SAY: Molerat/ : Squeek!
+[03:53:38]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:39]SAY: Molerat/ : Squeek!
+[03:53:39]SAY: Molerat/ : Squeek!
+[03:53:39]SAY: Mutant/ : HMPH!
+[03:53:39]SAY: Mutant/ : GRRRRRR!
+[03:53:39]SAY: Molerat/ : Squeek!
+[03:53:39]SAY: Molerat/ : Squeek
+[03:53:39]SAY: Molerat/ : Squeek!
+[03:53:39]SAY: Molerat/ : Squeek
+[03:53:41]SAY: Molerat/ : Squeek
+[03:53:41]SAY: Molerat/ : Squeek
+[03:53:41]SAY: Molerat/ : Squeek!
+[03:53:41]SAY: Mutant/ : NNNNNGH!
+[03:53:41]SAY: Molerat/ : Squeek!
+[03:53:41]SAY: Molerat/ : Squeek
+[03:53:41]SAY: Molerat/ : Squeek
+[03:53:41]SAY: Molerat/ : Squeek!
+[03:53:41]SAY: Molerat/ : Squeek!
+[03:53:44]SAY: Mutant/ : GRRRRRR!
+[03:53:44]SAY: Molerat/ : Squeek
+[03:53:44]SAY: Molerat/ : Squeek
+[03:53:44]SAY: Molerat/ : Squeek
+[03:53:44]SAY: Molerat/ : Squeek
+[03:53:44]SAY: Molerat/ : Squeek!
+[03:53:44]SAY: Molerat/ : Squeek
+[03:53:44]SAY: Mutant/ : ARRRRR!
+[03:53:44]SAY: Mutant/ : ARRRRR!
+[03:53:44]SAY: Molerat/ : Squeek!
+[03:53:44]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:53:46]SAY: Molerat/ : Squeek
+[03:53:46]SAY: Molerat/ : Squeek!
+[03:53:46]SAY: Molerat/ : Squeek
+[03:53:46]SAY: Molerat/ : Squeek!
+[03:53:46]SAY: Molerat/ : Squeek!
+[03:53:46]SAY: Mutant/ : NNNNNGH!
+[03:53:46]SAY: Molerat/ : Squeek, i say
+[03:53:46]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:48]SAY: Molerat/ : Squeek
+[03:53:48]SAY: Molerat/ : Squeek
+[03:53:48]SAY: Molerat/ : Squeek
+[03:53:48]SAY: Molerat/ : Squeek
+[03:53:48]SAY: Molerat/ : Squeek
+[03:53:48]SAY: Molerat/ : Squeek
+[03:53:48]SAY: Molerat/ : Squeek!
+[03:53:50]SAY: Molerat/ : Squeek!
+[03:53:50]SAY: Mutant/ : ARGH!
+[03:53:50]SAY: Molerat/ : Squeek!
+[03:53:50]SAY: Molerat/ : Squeek!
+[03:53:50]SAY: Molerat/ : Squeek
+[03:53:50]SAY: Molerat/ : Squeek
+[03:53:50]SAY: Molerat/ : Squeek
+[03:53:50]SAY: Molerat/ : Squeek
+[03:53:50]SAY: Molerat/ : Squeek!
+[03:53:50]SAY: Molerat/ : Squeek
+[03:53:50]SAY: Mutant/ : GRRRRRR!
+[03:53:50]SAY: Molerat/ : Squeek!
+[03:53:50]SAY: Molerat/ : Squeek!
+[03:53:51]SAY: Molerat/ : Squeek
+[03:53:51]SAY: Molerat/ : Squeek
+[03:53:51]SAY: Molerat/ : Squeek
+[03:53:51]SAY: Molerat/ : Squeek!
+[03:53:51]SAY: Molerat/ : Squeek, i say
+[03:53:51]SAY: Molerat/ : Squeek
+[03:53:51]SAY: Molerat/ : Squeek
+[03:53:51]SAY: Molerat/ : Squeek
+[03:53:51]SAY: Mutant/ : GRRRRRR!
+[03:53:51]SAY: Molerat/ : Squeek!
+[03:53:54]SAY: Molerat/ : Squeek!
+[03:53:54]SAY: Molerat/ : Squeek!
+[03:53:54]SAY: Molerat/ : Squeek!
+[03:53:54]SAY: Molerat/ : Squeek!
+[03:53:54]SAY: Molerat/ : Squeek
+[03:53:54]SAY: Mutant/ : NNNNNGH!
+[03:53:54]SAY: Molerat/ : Squeek
+[03:53:54]SAY: Molerat/ : Squeek
+[03:53:54]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Molerat/ : Squeek, i say
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Molerat/ : Squeek, i say
+[03:53:56]SAY: Molerat/ : Squeek
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Mutant/ : GRRRRRR!
+[03:53:56]SAY: Molerat/ : Squeek
+[03:53:56]SAY: Molerat/ : Squeek!
+[03:53:56]SAY: Molerat/ : Squeek
+[03:53:58]SAY: Molerat/ : Squeek, i say
+[03:53:58]SAY: Molerat/ : Squeek, i say
+[03:53:58]SAY: Molerat/ : Squeek!
+[03:53:58]SAY: Molerat/ : Squeek
+[03:53:58]SAY: Molerat/ : Squeek, i say
+[03:53:58]SAY: Molerat/ : Squeek
+[03:53:58]SAY: Molerat/ : Squeek
+[03:53:58]SAY: Molerat/ : Squeek!
+[03:54:00]SAY: Mutant/ : GRRRRRR!
+[03:54:00]SAY: Molerat/ : Squeek!
+[03:54:00]SAY: Molerat/ : Squeek
+[03:54:00]SAY: Molerat/ : Squeek!
+[03:54:00]SAY: Molerat/ : Squeek!
+[03:54:00]SAY: Molerat/ : Squeek
+[03:54:00]SAY: Molerat/ : Squeek
+[03:54:00]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:54:00]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:02]SAY: Molerat/ : Squeek
+[03:54:02]SAY: Molerat/ : Squeek!
+[03:54:02]SAY: Molerat/ : Squeek, i say
+[03:54:02]SAY: Molerat/ : Squeek!
+[03:54:02]SAY: Molerat/ : Squeek
+[03:54:02]SAY: Molerat/ : Squeek
+[03:54:02]SAY: Molerat/ : Squeek
+[03:54:02]SAY: Molerat/ : Squeek
+[03:54:04]SAY: Molerat/ : Squeek, i say
+[03:54:04]SAY: Molerat/ : Squeek
+[03:54:04]SAY: Molerat/ : Squeek!
+[03:54:04]SAY: Molerat/ : Squeek
+[03:54:04]SAY: Molerat/ : Squeek, i say
+[03:54:04]SAY: Molerat/ : Squeek
+[03:54:04]SAY: Molerat/ : Squeek
+[03:54:04]SAY: Molerat/ : Squeek, i say
+[03:54:04]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:54:06]SAY: Molerat/ : Squeek
+[03:54:06]SAY: Molerat/ : Squeek
+[03:54:06]SAY: Molerat/ : Squeek, i say
+[03:54:06]SAY: Mutant/ : ARGH!
+[03:54:06]SAY: Molerat/ : Squeek!
+[03:54:06]SAY: Molerat/ : Squeek
+[03:54:06]SAY: Molerat/ : Squeek, i say
+[03:54:07]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:08]SAY: Molerat/ : Squeek
+[03:54:08]SAY: Mutant/ : ARGH!
+[03:54:08]SAY: Molerat/ : Squeek!
+[03:54:08]SAY: Molerat/ : Squeek
+[03:54:08]SAY: Molerat/ : Squeek
+[03:54:08]SAY: Mutant/ : NNNNNGH!
+[03:54:08]SAY: Molerat/ : Squeek!
+[03:54:10]SAY: Molerat/ : Squeek!
+[03:54:10]SAY: Molerat/ : Squeek!
+[03:54:10]SAY: Molerat/ : Squeek
+[03:54:10]SAY: Molerat/ : Squeek
+[03:54:10]SAY: Mutant/ : HMPH!
+[03:54:10]SAY: Mutant/ : NNNNNGH!
+[03:54:10]SAY: Molerat/ : Squeek
+[03:54:10]SAY: Molerat/ : Squeek
+[03:54:12]SAY: Molerat/ : Squeek!
+[03:54:12]SAY: Molerat/ : Squeek
+[03:54:12]SAY: Molerat/ : Squeek!
+[03:54:12]SAY: Molerat/ : Squeek!
+[03:54:12]SAY: Molerat/ : Squeek!
+[03:54:12]SAY: Molerat/ : Squeek!
+[03:54:12]SAY: Molerat/ : Squeek
+[03:54:12]SAY: Molerat/ : Squeek
+[03:54:14]SAY: Molerat/ : Squeek
+[03:54:14]SAY: Molerat/ : Squeek!
+[03:54:14]SAY: Molerat/ : Squeek
+[03:54:14]SAY: Molerat/ : Squeek!
+[03:54:14]SAY: Molerat/ : Squeek!
+[03:54:14]SAY: Molerat/ : Squeek
+[03:54:14]SAY: Molerat/ : Squeek!
+[03:54:14]SAY: Molerat/ : Squeek
+[03:54:15]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:16]SAY: Molerat/ : Squeek
+[03:54:16]SAY: Mutant/ : NNNNNGH!
+[03:54:16]SAY: Molerat/ : Squeek
+[03:54:16]SAY: Molerat/ : Squeek, i say
+[03:54:16]SAY: Molerat/ : Squeek!
+[03:54:16]SAY: Mutant/ : HMPH!
+[03:54:18]SAY: Molerat/ : Squeek!
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek!
+[03:54:18]SAY: Mutant/ : ARRRRR!
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:18]SAY: Molerat/ : Squeek, i say
+[03:54:18]SAY: Molerat/ : Squeek
+[03:54:20]SAY: Molerat/ : Squeek
+[03:54:21]SAY: Molerat/ : Squeek, i say
+[03:54:21]SAY: Molerat/ : Squeek
+[03:54:21]SAY: Molerat/ : Squeek!
+[03:54:21]SAY: Molerat/ : Squeek
+[03:54:21]SAY: Mutant/ : ARGH!
+[03:54:21]SAY: Molerat/ : Squeek
+[03:54:21]SAY: Medibot/ : Radar, put a mask on!
+[03:54:21]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:23]SAY: Molerat/ : Squeek!
+[03:54:23]SAY: Molerat/ : Squeek!
+[03:54:23]SAY: Molerat/ : Squeek!
+[03:54:23]SAY: Molerat/ : Squeek
+[03:54:23]SAY: Mutant/ : GRRRRRR!
+[03:54:23]SAY: Molerat/ : Squeek
+[03:54:25]SAY: Molerat/ : Squeek!
+[03:54:25]SAY: Molerat/ : Squeek!
+[03:54:25]SAY: Molerat/ : Squeek
+[03:54:25]SAY: Molerat/ : Squeek
+[03:54:25]SAY: Molerat/ : Squeek!
+[03:54:25]SAY: Molerat/ : Squeek!
+[03:54:25]SAY: Molerat/ : Squeek
+[03:54:27]SAY: Molerat/ : Squeek
+[03:54:27]SAY: Molerat/ : Squeek
+[03:54:27]SAY: Molerat/ : Squeek
+[03:54:27]SAY: Molerat/ : Squeek!
+[03:54:27]SAY: Molerat/ : Squeek
+[03:54:27]SAY: Mutant/ : NNNNNGH!
+[03:54:27]SAY: Molerat/ : Squeek!
+[03:54:27]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:54:27]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:29]SAY: Molerat/ : Squeek
+[03:54:29]SAY: Mutant/ : HMPH!
+[03:54:29]SAY: Molerat/ : Squeek
+[03:54:29]SAY: Molerat/ : Squeek, i say
+[03:54:29]SAY: Molerat/ : Squeek!
+[03:54:29]SAY: Molerat/ : Squeek!
+[03:54:29]SAY: Molerat/ : Squeek
+[03:54:31]SAY: Molerat/ : Squeek, i say
+[03:54:31]SAY: Molerat/ : Squeek
+[03:54:31]SAY: Molerat/ : Squeek!
+[03:54:31]SAY: Molerat/ : Squeek
+[03:54:31]SAY: Mutant/ : HMPH!
+[03:54:31]SAY: Molerat/ : Squeek!
+[03:54:31]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[03:54:33]SAY: Molerat/ : Squeek
+[03:54:33]SAY: Molerat/ : Squeek!
+[03:54:33]SAY: Molerat/ : Squeek!
+[03:54:33]SAY: Molerat/ : Squeek!
+[03:54:33]SAY: Molerat/ : Squeek!
+[03:54:33]SAY: Mutant/ : ARRRRR!
+[03:54:33]SAY: Mutant/ : HMPH!
+[03:54:33]SAY: Molerat/ : Squeek, i say
+[03:54:33]SAY: Molerat/ : Squeek, i say
+[03:54:33]SAY: Molerat/ : Squeek
+[03:54:33]SAY: Molerat/ : Squeek!
+[03:54:34]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:35]SAY: Molerat/ : Squeek
+[03:54:35]SAY: Mutant/ : NNNNNGH!
+[03:54:35]SAY: Molerat/ : Squeek
+[03:54:35]SAY: Molerat/ : Squeek, i say
+[03:54:35]SAY: Molerat/ : Squeek
+[03:54:35]SAY: Mutant/ : ARRRRR!
+[03:54:35]SAY: Molerat/ : Squeek
+[03:54:35]SAY: Molerat/ : Squeek!
+[03:54:35]SAY: Medibot/ : There&#39;s always a catch, and it&#39;s the best there is.
+[03:54:37]SAY: Molerat/ : Squeek!
+[03:54:39]SAY: Molerat/ : Squeek!
+[03:54:39]SAY: Molerat/ : Squeek!
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek!
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Molerat/ : Squeek
+[03:54:39]SAY: Mutant/ : NNNNNGH!
+[03:54:39]SAY: Mutant/ : ARGH!
+[03:54:39]SAY: Molerat/ : Squeek!
+[03:54:41]SAY: Molerat/ : Squeek
+[03:54:41]SAY: Molerat/ : Squeek!
+[03:54:41]SAY: Molerat/ : Squeek
+[03:54:41]SAY: Molerat/ : Squeek!
+[03:54:41]SAY: Molerat/ : Squeek
+[03:54:42]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:43]SAY: Molerat/ : Squeek!
+[03:54:43]SAY: Molerat/ : Squeek!
+[03:54:43]SAY: Molerat/ : Squeek!
+[03:54:43]SAY: Molerat/ : Squeek
+[03:54:43]SAY: Molerat/ : Squeek!
+[03:54:43]SAY: Mutant/ : GRRRRRR!
+[03:54:43]SAY: Mutant/ : GRRRRRR!
+[03:54:43]SAY: Molerat/ : Squeek!
+[03:54:45]SAY: Molerat/ : Squeek!
+[03:54:45]SAY: Molerat/ : Squeek
+[03:54:45]SAY: Molerat/ : Squeek
+[03:54:45]SAY: Molerat/ : Squeek!
+[03:54:45]SAY: Molerat/ : Squeek
+[03:54:45]SAY: Molerat/ : Squeek
+[03:54:45]SAY: Molerat/ : Squeek
+[03:54:45]SAY: Molerat/ : Squeek
+[03:54:45]SAY: Molerat/ : Squeek, i say
+[03:54:45]SAY: Molerat/ : Squeek!
+[03:54:47]SAY: Molerat/ : Squeek, i say
+[03:54:47]SAY: Molerat/ : Squeek!
+[03:54:47]SAY: Molerat/ : Squeek!
+[03:54:47]SAY: Mutant/ : ARRRRR!
+[03:54:47]SAY: Molerat/ : Squeek!
+[03:54:47]SAY: Molerat/ : Squeek
+[03:54:47]SAY: Molerat/ : Squeek
+[03:54:47]SAY: Molerat/ : Squeek!
+[03:54:47]SAY: Mutant/ : HMPH!
+[03:54:47]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:54:49]SAY: Molerat/ : Squeek
+[03:54:49]SAY: Molerat/ : Squeek
+[03:54:49]SAY: Molerat/ : Squeek!
+[03:54:49]SAY: Mutant/ : HMPH!
+[03:54:49]SAY: Molerat/ : Squeek!
+[03:54:49]SAY: Molerat/ : Squeek, i say
+[03:54:49]SAY: Molerat/ : Squeek
+[03:54:49]SAY: Molerat/ : Squeek
+[03:54:49]SAY: Mutant/ : GRRRRRR!
+[03:54:49]SAY: Molerat/ : Squeek, i say
+[03:54:50]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek!
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek
+[03:54:51]SAY: Molerat/ : Squeek!
+[03:54:53]SAY: Molerat/ : Squeek!
+[03:54:53]SAY: Molerat/ : Squeek, i say
+[03:54:53]SAY: Molerat/ : Squeek!
+[03:54:53]SAY: Mutant/ : GRRRRRR!
+[03:54:53]SAY: Molerat/ : Squeek, i say
+[03:54:55]SAY: Molerat/ : Squeek!
+[03:54:55]SAY: Molerat/ : Squeek, i say
+[03:54:55]SAY: Molerat/ : Squeek!
+[03:54:55]SAY: Molerat/ : Squeek
+[03:54:55]SAY: Mutant/ : ARGH!
+[03:54:57]SAY: Molerat/ : Squeek!
+[03:54:57]SAY: Molerat/ : Squeek
+[03:54:57]SAY: Molerat/ : Squeek
+[03:54:57]SAY: Molerat/ : Squeek, i say
+[03:54:57]SAY: Molerat/ : Squeek!
+[03:54:57]SAY: Mutant/ : NNNNNGH!
+[03:54:58]SAY: Mutant/ : HMPH!
+[03:54:58]SAY: Molerat/ : Squeek, i say
+[03:54:58]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:54:58]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:54:59]SAY: Molerat/ : Squeek
+[03:54:59]SAY: Molerat/ : Squeek
+[03:54:59]SAY: Molerat/ : Squeek
+[03:55:00]SAY: Molerat/ : Squeek
+[03:55:00]SAY: Molerat/ : Squeek!
+[03:55:00]SAY: Mutant/ : HMPH!
+[03:55:00]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:55:00]SAY: Molerat/ : Squeek!
+[03:55:00]SAY: Molerat/ : Squeek
+[03:55:02]SAY: Molerat/ : Squeek
+[03:55:02]SAY: Molerat/ : Squeek!
+[03:55:02]SAY: Molerat/ : Squeek
+[03:55:02]SAY: Mutant/ : HMPH!
+[03:55:02]SAY: Molerat/ : Squeek
+[03:55:02]SAY: Molerat/ : Squeek!
+[03:55:04]SAY: Molerat/ : Squeek, i say
+[03:55:04]SAY: Molerat/ : Squeek!
+[03:55:04]SAY: Molerat/ : Squeek!
+[03:55:04]SAY: Molerat/ : Squeek, i say
+[03:55:04]SAY: Mutant/ : ARRRRR!
+[03:55:04]SAY: Molerat/ : Squeek
+[03:55:04]SAY: Molerat/ : Squeek
+[03:55:04]SAY: Molerat/ : Squeek, i say
+[03:55:06]SAY: Molerat/ : Squeek
+[03:55:06]SAY: Molerat/ : Squeek
+[03:55:06]SAY: Molerat/ : Squeek, i say
+[03:55:06]SAY: Molerat/ : Squeek
+[03:55:06]SAY: Molerat/ : Squeek!
+[03:55:06]SAY: Molerat/ : Squeek
+[03:55:06]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:55:06]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:08]SAY: Molerat/ : Squeek
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:08]SAY: Mutant/ : HMPH!
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:08]SAY: Molerat/ : Squeek
+[03:55:08]SAY: Molerat/ : Squeek, i say
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:08]SAY: Molerat/ : Squeek!
+[03:55:10]SAY: Molerat/ : Squeek!
+[03:55:10]SAY: Molerat/ : Squeek
+[03:55:10]SAY: Molerat/ : Squeek, i say
+[03:55:10]SAY: Molerat/ : Squeek
+[03:55:10]SAY: Mutant/ : GRRRRRR!
+[03:55:10]SAY: Molerat/ : Squeek!
+[03:55:10]SAY: Molerat/ : Squeek!
+[03:55:10]SAY: Molerat/ : Squeek!
+[03:55:12]SAY: Molerat/ : Squeek!
+[03:55:12]SAY: Molerat/ : Squeek
+[03:55:12]SAY: Molerat/ : Squeek!
+[03:55:12]SAY: Molerat/ : Squeek
+[03:55:12]SAY: Molerat/ : Squeek
+[03:55:12]SAY: Molerat/ : Squeek!
+[03:55:12]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:55:12]SAY: Molerat/ : Squeek!
+[03:55:12]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:14]SAY: Molerat/ : Squeek
+[03:55:14]SAY: Mutant/ : HMPH!
+[03:55:14]SAY: Molerat/ : Squeek
+[03:55:14]SAY: Molerat/ : Squeek, i say
+[03:55:14]SAY: Molerat/ : Squeek
+[03:55:14]SAY: Molerat/ : Squeek
+[03:55:14]SAY: Molerat/ : Squeek
+[03:55:14]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:55:16]SAY: Molerat/ : Squeek
+[03:55:16]SAY: Molerat/ : Squeek, i say
+[03:55:16]SAY: Mutant/ : ARRRRR!
+[03:55:16]SAY: Molerat/ : Squeek!
+[03:55:16]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:55:18]SAY: Molerat/ : Squeek!
+[03:55:18]SAY: Molerat/ : Squeek
+[03:55:18]SAY: Molerat/ : Squeek!
+[03:55:18]SAY: Molerat/ : Squeek!
+[03:55:18]SAY: Molerat/ : Squeek
+[03:55:18]SAY: Molerat/ : Squeek, i say
+[03:55:18]SAY: Molerat/ : Squeek
+[03:55:20]SAY: Molerat/ : Squeek
+[03:55:20]SAY: Molerat/ : Squeek!
+[03:55:20]SAY: Molerat/ : Squeek!
+[03:55:20]SAY: Molerat/ : Squeek, i say
+[03:55:20]SAY: Mutant/ : ARGH!
+[03:55:20]SAY: Molerat/ : Squeek
+[03:55:20]SAY: Molerat/ : Squeek
+[03:55:21]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:22]SAY: Molerat/ : Squeek!
+[03:55:22]SAY: Molerat/ : Squeek
+[03:55:22]SAY: Molerat/ : Squeek
+[03:55:22]SAY: Molerat/ : Squeek, i say
+[03:55:22]SAY: Molerat/ : Squeek
+[03:55:22]SAY: Molerat/ : Squeek
+[03:55:22]SAY: Mutant/ : NNNNNGH!
+[03:55:22]SAY: Molerat/ : Squeek!
+[03:55:22]SAY: Mutant/ : HMPH!
+[03:55:22]SAY: Molerat/ : Squeek!
+[03:55:22]SAY: Molerat/ : Squeek
+[03:55:24]SAY: Molerat/ : Squeek!
+[03:55:24]SAY: Molerat/ : Squeek
+[03:55:24]SAY: Molerat/ : Squeek
+[03:55:24]SAY: Molerat/ : Squeek!
+[03:55:24]SAY: Molerat/ : Squeek!
+[03:55:24]SAY: Molerat/ : Squeek, i say
+[03:55:24]SAY: Molerat/ : Squeek!
+[03:55:24]SAY: Molerat/ : Squeek
+[03:55:24]SAY: Molerat/ : Squeek!
+[03:55:24]SAY: Molerat/ : Squeek!
+[03:55:26]SAY: Molerat/ : Squeek, i say
+[03:55:26]SAY: Molerat/ : Squeek!
+[03:55:26]SAY: Molerat/ : Squeek!
+[03:55:26]SAY: Molerat/ : Squeek!
+[03:55:26]SAY: Molerat/ : Squeek
+[03:55:26]SAY: Molerat/ : Squeek!
+[03:55:26]SAY: Molerat/ : Squeek, i say
+[03:55:26]SAY: Molerat/ : Squeek
+[03:55:26]SAY: Molerat/ : Squeek, i say
+[03:55:26]SAY: Mutant/ : ARRRRR!
+[03:55:26]SAY: Molerat/ : Squeek
+[03:55:26]SAY: Molerat/ : Squeek
+[03:55:28]SAY: Molerat/ : Squeek!
+[03:55:28]SAY: Molerat/ : Squeek, i say
+[03:55:28]SAY: Molerat/ : Squeek!
+[03:55:28]SAY: Molerat/ : Squeek, i say
+[03:55:28]SAY: Molerat/ : Squeek
+[03:55:28]SAY: Molerat/ : Squeek, i say
+[03:55:28]SAY: Mutant/ : ARGH!
+[03:55:28]SAY: Molerat/ : Squeek, i say
+[03:55:28]SAY: Molerat/ : Squeek, i say
+[03:55:28]SAY: Molerat/ : Squeek!
+[03:55:29]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:30]SAY: Molerat/ : Squeek
+[03:55:30]SAY: Molerat/ : Squeek!
+[03:55:30]SAY: Molerat/ : Squeek!
+[03:55:30]SAY: Molerat/ : Squeek
+[03:55:30]SAY: Molerat/ : Squeek
+[03:55:30]SAY: Molerat/ : Squeek
+[03:55:30]SAY: Molerat/ : Squeek
+[03:55:30]SAY: Molerat/ : Squeek, i say
+[03:55:30]SAY: Molerat/ : Squeek
+[03:55:32]SAY: Molerat/ : Squeek!
+[03:55:32]SAY: Molerat/ : Squeek
+[03:55:32]SAY: Molerat/ : Squeek
+[03:55:32]SAY: Molerat/ : Squeek
+[03:55:32]SAY: Molerat/ : Squeek
+[03:55:34]SAY: Molerat/ : Squeek
+[03:55:34]SAY: Molerat/ : Squeek!
+[03:55:34]SAY: Molerat/ : Squeek!
+[03:55:34]SAY: Molerat/ : Squeek, i say
+[03:55:34]SAY: Molerat/ : Squeek
+[03:55:34]SAY: Molerat/ : Squeek
+[03:55:34]SAY: Mutant/ : ARRRRR!
+[03:55:34]SAY: Molerat/ : Squeek!
+[03:55:34]SAY: Molerat/ : Squeek
+[03:55:34]SAY: Molerat/ : Squeek
+[03:55:34]SAY: Molerat/ : Squeek!
+[03:55:34]EMOTE: Griffin Whiteman/PahomLancer : <B>Griffin Whiteman</B> giggles.
+[03:55:36]SAY: Molerat/ : Squeek
+[03:55:36]SAY: Molerat/ : Squeek!
+[03:55:36]SAY: Molerat/ : Squeek!
+[03:55:36]SAY: Molerat/ : Squeek
+[03:55:36]SAY: Mutant/ : NNNNNGH!
+[03:55:36]SAY: Mutant/ : ARRRRR!
+[03:55:37]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:38]SAY: Molerat/ : Squeek!
+[03:55:38]SAY: Molerat/ : Squeek
+[03:55:38]SAY: Molerat/ : Squeek!
+[03:55:38]EMOTE: Griffin Whiteman/PahomLancer : <B>Griffin Whiteman</B> giggles.
+[03:55:40]SAY: Molerat/ : Squeek
+[03:55:40]SAY: Molerat/ : Squeek
+[03:55:40]SAY: Molerat/ : Squeek!
+[03:55:40]SAY: Molerat/ : Squeek
+[03:55:40]SAY: Molerat/ : Squeek!
+[03:55:40]SAY: Mutant/ : ARRRRR!
+[03:55:40]SAY: Molerat/ : Squeek
+[03:55:40]SAY: Molerat/ : Squeek, i say
+[03:55:40]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:55:40]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Molerat/ : Squeek!
+[03:55:42]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Molerat/ : Squeek, i say
+[03:55:42]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Molerat/ : Squeek
+[03:55:42]SAY: Mutant/ : ARRRRR!
+[03:55:43]SAY: Molerat/ : Squeek!
+[03:55:43]SAY: Molerat/ : Squeek, i say
+[03:55:43]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:44]SAY: Molerat/ : Squeek
+[03:55:45]SAY: Molerat/ : Squeek
+[03:55:45]SAY: Molerat/ : Squeek
+[03:55:45]SAY: Molerat/ : Squeek, i say
+[03:55:45]SAY: Molerat/ : Squeek!
+[03:55:45]SAY: Molerat/ : Squeek, i say
+[03:55:46]SAY: Molerat/ : Squeek!
+[03:55:46]SAY: Molerat/ : Squeek
+[03:55:46]SAY: Molerat/ : Squeek
+[03:55:47]SAY: Molerat/ : Squeek!
+[03:55:47]SAY: Molerat/ : Squeek
+[03:55:47]SAY: Molerat/ : Squeek
+[03:55:47]SAY: Molerat/ : Squeek
+[03:55:48]SAY: Molerat/ : Squeek
+[03:55:48]SAY: Molerat/ : Squeek!
+[03:55:49]SAY: Molerat/ : Squeek
+[03:55:49]SAY: Molerat/ : Squeek!
+[03:55:49]SAY: Molerat/ : Squeek
+[03:55:49]SAY: Molerat/ : Squeek, i say
+[03:55:49]SAY: Molerat/ : Squeek!
+[03:55:51]SAY: Molerat/ : Squeek
+[03:55:51]SAY: Molerat/ : Squeek!
+[03:55:51]SAY: Molerat/ : Squeek, i say
+[03:55:51]SAY: Molerat/ : Squeek!
+[03:55:51]SAY: Mutant/ : ARGH!
+[03:55:52]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:55:53]SAY: Molerat/ : Squeek!
+[03:55:53]SAY: Molerat/ : Squeek!
+[03:55:53]SAY: Mutant/ : GRRRRRR!
+[03:55:53]SAY: Molerat/ : Squeek
+[03:55:53]SAY: Molerat/ : Squeek
+[03:55:55]SAY: Molerat/ : Squeek
+[03:55:55]SAY: Molerat/ : Squeek
+[03:55:55]SAY: Molerat/ : Squeek
+[03:55:55]SAY: Molerat/ : Squeek, i say
+[03:55:55]SAY: Molerat/ : Squeek!
+[03:55:55]SAY: Molerat/ : Squeek!
+[03:55:55]SAY: Molerat/ : Squeek
+[03:55:55]SAY: Mutant/ : NNNNNGH!
+[03:55:55]SAY: Molerat/ : Squeek
+[03:55:57]SAY: Molerat/ : Squeek
+[03:55:57]SAY: Molerat/ : Squeek, i say
+[03:55:57]SAY: Molerat/ : Squeek!
+[03:55:57]SAY: Molerat/ : Squeek
+[03:55:57]SAY: Molerat/ : Squeek
+[03:55:57]SAY: Molerat/ : Squeek
+[03:55:57]SAY: Molerat/ : Squeek!
+[03:55:59]SAY: Molerat/ : Squeek!
+[03:55:59]SAY: Molerat/ : Squeek
+[03:55:59]SAY: Molerat/ : Squeek!
+[03:55:59]SAY: Molerat/ : Squeek!
+[03:55:59]SAY: Molerat/ : Squeek
+[03:55:59]SAY: Molerat/ : Squeek
+[03:55:59]SAY: Molerat/ : Squeek!
+[03:55:59]SAY: Molerat/ : Squeek
+[03:55:59]SAY: Molerat/ : Squeek!
+[03:55:59]SAY: Molerat/ : Squeek
+[03:56:00]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:01]SAY: Molerat/ : Squeek
+[03:56:01]SAY: Mutant/ : NNNNNGH!
+[03:56:01]SAY: Molerat/ : Squeek!
+[03:56:03]SAY: Molerat/ : Squeek!
+[03:56:03]SAY: Molerat/ : Squeek!
+[03:56:03]SAY: Molerat/ : Squeek
+[03:56:03]SAY: Molerat/ : Squeek
+[03:56:03]SAY: Molerat/ : Squeek
+[03:56:03]SAY: Molerat/ : Squeek, i say
+[03:56:03]SAY: Molerat/ : Squeek, i say
+[03:56:03]SAY: Molerat/ : Squeek
+[03:56:05]SAY: Molerat/ : Squeek!
+[03:56:05]SAY: Mutant/ : HMPH!
+[03:56:05]SAY: Mutant/ : GRRRRRR!
+[03:56:05]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:56:07]SAY: Molerat/ : Squeek
+[03:56:07]SAY: Molerat/ : Squeek
+[03:56:07]SAY: Molerat/ : Squeek!
+[03:56:07]SAY: Molerat/ : Squeek
+[03:56:07]SAY: Molerat/ : Squeek
+[03:56:08]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:09]SAY: Mutant/ : GRRRRRR!
+[03:56:09]SAY: Molerat/ : Squeek, i say
+[03:56:09]SAY: Molerat/ : Squeek!
+[03:56:09]SAY: Molerat/ : Squeek!
+[03:56:09]SAY: Molerat/ : Squeek!
+[03:56:09]EMOTE: Griffin Whiteman/PahomLancer : <B>Griffin Whiteman</B> giggles.
+[03:56:11]SAY: Molerat/ : Squeek, i say
+[03:56:11]SAY: Mutant/ : ARRRRR!
+[03:56:11]SAY: Molerat/ : Squeek
+[03:56:11]SAY: Molerat/ : Squeek!
+[03:56:11]SAY: Molerat/ : Squeek
+[03:56:11]SAY: Molerat/ : Squeek
+[03:56:11]SAY: Molerat/ : Squeek, i say
+[03:56:11]EMOTE: Griffin Whiteman/PahomLancer : <B>Griffin Whiteman</B> moans!
+[03:56:13]SAY: Molerat/ : Squeek
+[03:56:13]SAY: Molerat/ : Squeek
+[03:56:13]SAY: Molerat/ : Squeek
+[03:56:13]SAY: Molerat/ : Squeek!
+[03:56:13]SAY: Molerat/ : Squeek
+[03:56:13]SAY: Molerat/ : Squeek
+[03:56:13]SAY: Molerat/ : Squeek
+[03:56:13]SAY: Molerat/ : Squeek, i say
+[03:56:15]SAY: Molerat/ : Squeek!
+[03:56:16]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]SAY: Molerat/ : Squeek!
+[03:56:17]SAY: Molerat/ : Squeek!
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]SAY: Molerat/ : Squeek!
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]SAY: Mutant/ : ARGH!
+[03:56:17]SAY: Molerat/ : Squeek!
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]SAY: Molerat/ : Squeek
+[03:56:17]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Molerat/ : Squeek
+[03:56:19]SAY: Molerat/ : Squeek!
+[03:56:19]SAY: Mutant/ : GRRRRRR!
+[03:56:19]SAY: Molerat/ : Squeek
+[03:56:21]SAY: Molerat/ : Squeek!
+[03:56:21]SAY: Molerat/ : Squeek
+[03:56:21]SAY: Molerat/ : Squeek
+[03:56:21]SAY: Molerat/ : Squeek
+[03:56:21]SAY: Molerat/ : Squeek, i say
+[03:56:21]SAY: Mutant/ : ARGH!
+[03:56:21]SAY: Mutant/ : GRRRRRR!
+[03:56:21]SAY: Molerat/ : Squeek
+[03:56:21]SAY: Molerat/ : Squeek!
+[03:56:23]SAY: Molerat/ : Squeek, i say
+[03:56:23]SAY: Molerat/ : Squeek!
+[03:56:23]SAY: Molerat/ : Squeek!
+[03:56:23]SAY: Molerat/ : Squeek
+[03:56:23]SAY: Molerat/ : Squeek!
+[03:56:23]SAY: Molerat/ : Squeek!
+[03:56:23]SAY: Molerat/ : Squeek
+[03:56:23]SAY: Molerat/ : Squeek, i say
+[03:56:23]SAY: Molerat/ : Squeek
+[03:56:23]SAY: Molerat/ : Squeek
+[03:56:24]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek
+[03:56:25]SAY: Mutant/ : ARRRRR!
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek
+[03:56:25]SAY: brahmin/ : Moo
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:25]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek
+[03:56:27]SAY: Molerat/ : Squeek, i say
+[03:56:27]SAY: Molerat/ : Squeek
+[03:56:27]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek!
+[03:56:27]SAY: Molerat/ : Squeek
+[03:56:28]SAY: Mutant/ : NNNNNGH!
+[03:56:28]SAY: Mutant/ : ARGH!
+[03:56:28]SAY: Mutant/ : ARGH!
+[03:56:28]SAY: Molerat/ : Squeek
+[03:56:28]EMOTE: brahmin/ : <B>The brahmin</B> brays.
+[03:56:28]SAY: Molerat/ : Squeek, i say
+[03:56:29]SAY: Molerat/ : Squeek!
+[03:56:30]SAY: Molerat/ : Squeek!
+[03:56:30]SAY: Molerat/ : Squeek!
+[03:56:30]SAY: Molerat/ : Squeek
+[03:56:30]SAY: Molerat/ : Squeek!
+[03:56:30]SAY: Molerat/ : Squeek!
+[03:56:30]SAY: Mutant/ : NNNNNGH!
+[03:56:30]SAY: Molerat/ : Squeek, i say
+[03:56:30]SAY: Molerat/ : Squeek!
+[03:56:30]SAY: Molerat/ : Squeek
+[03:56:30]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:32]SAY: Molerat/ : Squeek!
+[03:56:32]SAY: Molerat/ : Squeek
+[03:56:32]SAY: Molerat/ : Squeek
+[03:56:32]SAY: Molerat/ : Squeek
+[03:56:32]SAY: Molerat/ : Squeek!
+[03:56:32]SAY: Molerat/ : Squeek
+[03:56:32]SAY: Mutant/ : GRRRRRR!
+[03:56:32]SAY: Molerat/ : Squeek!
+[03:56:32]SAY: Molerat/ : Squeek!
+[03:56:34]SAY: Molerat/ : Squeek
+[03:56:34]SAY: Molerat/ : Squeek!
+[03:56:34]SAY: Mutant/ : NNNNNGH!
+[03:56:34]SAY: Mutant/ : ARRRRR!
+[03:56:34]SAY: Molerat/ : Squeek!
+[03:56:34]SAY: Molerat/ : Squeek
+[03:56:34]SAY: Molerat/ : Squeek!
+[03:56:34]SAY: Molerat/ : Squeek
+[03:56:36]SAY: Molerat/ : Squeek
+[03:56:36]SAY: Molerat/ : Squeek!
+[03:56:36]SAY: Molerat/ : Squeek!
+[03:56:36]SAY: Molerat/ : Squeek
+[03:56:36]SAY: Molerat/ : Squeek!
+[03:56:36]SAY: Molerat/ : Squeek
+[03:56:36]SAY: Molerat/ : Squeek
+[03:56:36]SAY: Molerat/ : Squeek, i say
+[03:56:36]SAY: Mutant/ : ARRRRR!
+[03:56:36]SAY: Molerat/ : Squeek!
+[03:56:36]SAY: Molerat/ : Squeek
+[03:56:36]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek
+[03:56:38]SAY: Molerat/ : Squeek!
+[03:56:39]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:40]SAY: Molerat/ : Squeek
+[03:56:40]SAY: Molerat/ : Squeek!
+[03:56:40]SAY: Molerat/ : Squeek!
+[03:56:40]SAY: Molerat/ : Squeek, i say
+[03:56:40]SAY: Mutant/ : HMPH!
+[03:56:40]SAY: Molerat/ : Squeek
+[03:56:40]SAY: Mutant/ : HMPH!
+[03:56:40]SAY: Molerat/ : Squeek!
+[03:56:42]SAY: Molerat/ : Squeek
+[03:56:42]SAY: Mutant/ : ARGH!
+[03:56:42]SAY: Molerat/ : Squeek
+[03:56:42]SAY: Mutant/ : GRRRRRR!
+[03:56:44]SAY: Molerat/ : Squeek
+[03:56:44]SAY: Molerat/ : Squeek
+[03:56:44]SAY: Molerat/ : Squeek
+[03:56:44]SAY: Molerat/ : Squeek!
+[03:56:44]SAY: Molerat/ : Squeek!
+[03:56:44]SAY: Molerat/ : Squeek
+[03:56:44]SAY: Molerat/ : Squeek!
+[03:56:44]SAY: Molerat/ : Squeek!
+[03:56:44]SAY: Molerat/ : Squeek
+[03:56:46]SAY: Molerat/ : Squeek, i say
+[03:56:46]SAY: Molerat/ : Squeek!
+[03:56:46]SAY: Molerat/ : Squeek
+[03:56:46]SAY: Molerat/ : Squeek, i say
+[03:56:47]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:48]SAY: Molerat/ : Squeek
+[03:56:48]SAY: Molerat/ : Squeek!
+[03:56:48]SAY: Molerat/ : Squeek!
+[03:56:48]SAY: Molerat/ : Squeek, i say
+[03:56:48]SAY: Molerat/ : Squeek!
+[03:56:48]SAY: Mutant/ : NNNNNGH!
+[03:56:48]SAY: Molerat/ : Squeek!
+[03:56:50]SAY: Molerat/ : Squeek!
+[03:56:50]SAY: Molerat/ : Squeek!
+[03:56:50]SAY: Molerat/ : Squeek
+[03:56:50]SAY: Molerat/ : Squeek
+[03:56:50]SAY: Molerat/ : Squeek!
+[03:56:50]SAY: Molerat/ : Squeek
+[03:56:50]SAY: Molerat/ : Squeek
+[03:56:50]SAY: Molerat/ : Squeek, i say
+[03:56:52]SAY: Molerat/ : Squeek!
+[03:56:52]SAY: Mutant/ : ARGH!
+[03:56:52]SAY: Molerat/ : Squeek
+[03:56:52]SAY: Molerat/ : Squeek, i say
+[03:56:52]SAY: Mutant/ : ARRRRR!
+[03:56:52]SAY: Molerat/ : Squeek, i say
+[03:56:52]SAY: Molerat/ : Squeek!
+[03:56:54]SAY: Molerat/ : Squeek
+[03:56:54]SAY: Mutant/ : ARRRRR!
+[03:56:54]SAY: Molerat/ : Squeek
+[03:56:54]SAY: Molerat/ : Squeek, i say
+[03:56:54]SAY: Mutant/ : GRRRRRR!
+[03:56:54]SAY: Mutant/ : ARGH!
+[03:56:54]SAY: Molerat/ : Squeek!
+[03:56:55]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:56:56]SAY: Molerat/ : Squeek, i say
+[03:56:56]SAY: Molerat/ : Squeek!
+[03:56:56]SAY: Molerat/ : Squeek!
+[03:56:56]SAY: Molerat/ : Squeek
+[03:56:56]SAY: Molerat/ : Squeek
+[03:56:56]SAY: Molerat/ : Squeek!
+[03:56:56]SAY: Mutant/ : ARGH!
+[03:56:56]SAY: Mutant/ : HMPH!
+[03:56:56]SAY: Molerat/ : Squeek!
+[03:56:56]SAY: Molerat/ : Squeek!
+[03:56:56]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:56:58]SAY: Molerat/ : Squeek!
+[03:56:58]SAY: Molerat/ : Squeek
+[03:56:58]SAY: Molerat/ : Squeek!
+[03:56:58]SAY: Molerat/ : Squeek!
+[03:56:58]SAY: Molerat/ : Squeek!
+[03:57:00]SAY: Molerat/ : Squeek, i say
+[03:57:00]SAY: Molerat/ : Squeek
+[03:57:00]SAY: Molerat/ : Squeek!
+[03:57:00]SAY: Molerat/ : Squeek, i say
+[03:57:00]SAY: Molerat/ : Squeek
+[03:57:00]SAY: Mutant/ : GRRRRRR!
+[03:57:00]SAY: Mutant/ : NNNNNGH!
+[03:57:00]SAY: Molerat/ : Squeek
+[03:57:00]SAY: Molerat/ : Squeek
+[03:57:01]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:02]SAY: Molerat/ : Squeek
+[03:57:02]SAY: Molerat/ : Squeek!
+[03:57:02]SAY: Molerat/ : Squeek!
+[03:57:02]SAY: Molerat/ : Squeek
+[03:57:02]SAY: Molerat/ : Squeek
+[03:57:03]SAY: Mutant/ : ARGH!
+[03:57:03]SAY: Molerat/ : Squeek
+[03:57:03]SAY: Molerat/ : Squeek
+[03:57:03]SAY: Molerat/ : Squeek!
+[03:57:03]SAY: Molerat/ : Squeek
+[03:57:03]SAY: Molerat/ : Squeek
+[03:57:05]SAY: Molerat/ : Squeek
+[03:57:05]SAY: Molerat/ : Squeek, i say
+[03:57:05]SAY: Molerat/ : Squeek
+[03:57:05]SAY: Molerat/ : Squeek!
+[03:57:05]SAY: Molerat/ : Squeek!
+[03:57:05]SAY: Mutant/ : HMPH!
+[03:57:05]SAY: Molerat/ : Squeek!
+[03:57:05]SAY: Molerat/ : Squeek
+[03:57:07]SAY: Molerat/ : Squeek, i say
+[03:57:07]SAY: Molerat/ : Squeek!
+[03:57:07]SAY: Molerat/ : Squeek
+[03:57:07]SAY: Molerat/ : Squeek
+[03:57:07]SAY: Molerat/ : Squeek!
+[03:57:07]SAY: Mutant/ : GRRRRRR!
+[03:57:07]SAY: Mutant/ : ARGH!
+[03:57:07]SAY: Mutant/ : NNNNNGH!
+[03:57:07]SAY: Molerat/ : Squeek
+[03:57:07]SAY: Molerat/ : Squeek
+[03:57:07]SAY: Molerat/ : Squeek
+[03:57:07]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:09]SAY: Molerat/ : Squeek!
+[03:57:09]SAY: Molerat/ : Squeek!
+[03:57:09]SAY: Molerat/ : Squeek!
+[03:57:09]SAY: Molerat/ : Squeek, i say
+[03:57:09]SAY: Molerat/ : Squeek!
+[03:57:09]SAY: Molerat/ : Squeek
+[03:57:09]SAY: Mutant/ : NNNNNGH!
+[03:57:09]SAY: Molerat/ : Squeek
+[03:57:09]SAY: Mutant/ : ARGH!
+[03:57:11]SAY: Molerat/ : Squeek!
+[03:57:11]SAY: Molerat/ : Squeek
+[03:57:11]SAY: Molerat/ : Squeek
+[03:57:11]SAY: Molerat/ : Squeek
+[03:57:11]SAY: Mutant/ : GRRRRRR!
+[03:57:11]SAY: Mutant/ : NNNNNGH!
+[03:57:11]SAY: Molerat/ : Squeek, i say
+[03:57:11]SAY: Molerat/ : Squeek
+[03:57:11]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:57:11]SAY: Molerat/ : Squeek
+[03:57:11]SAY: Molerat/ : Squeek, i say
+[03:57:13]SAY: Molerat/ : Squeek
+[03:57:13]SAY: Molerat/ : Squeek!
+[03:57:13]SAY: Molerat/ : Squeek, i say
+[03:57:13]SAY: Molerat/ : Squeek
+[03:57:13]SAY: Molerat/ : Squeek!
+[03:57:13]SAY: Molerat/ : Squeek
+[03:57:15]SAY: Molerat/ : Squeek!
+[03:57:15]SAY: Molerat/ : Squeek
+[03:57:15]SAY: Molerat/ : Squeek
+[03:57:15]SAY: Mutant/ : ARRRRR!
+[03:57:15]SAY: Molerat/ : Squeek!
+[03:57:15]SAY: Molerat/ : Squeek
+[03:57:15]SAY: Molerat/ : Squeek
+[03:57:15]SAY: Molerat/ : Squeek
+[03:57:15]SAY: Mutant/ : ARRRRR!
+[03:57:16]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:16]GAME: Random Event triggering: Minor Space Dust (/datum/round_event/meteor_wave/dust)
+[03:57:17]SAY: Molerat/ : Squeek!
+[03:57:17]SAY: Mutant/ : ARGH!
+[03:57:17]SAY: Molerat/ : Squeek, i say
+[03:57:17]SAY: Molerat/ : Squeek!
+[03:57:17]SAY: Molerat/ : Squeek
+[03:57:17]SAY: Molerat/ : Squeek!
+[03:57:17]SAY: Molerat/ : Squeek, i say
+[03:57:17]SAY: Molerat/ : Squeek
+[03:57:17]SAY: Molerat/ : Squeek!
+[03:57:17]SAY: Molerat/ : Squeek
+[03:57:17]SAY: Molerat/ : Squeek
+[03:57:17]SAY: Molerat/ : Squeek!
+[03:57:17]SAY: Molerat/ : Squeek
+[03:57:19]SAY: Molerat/ : Squeek
+[03:57:19]SAY: Molerat/ : Squeek
+[03:57:19]SAY: Molerat/ : Squeek
+[03:57:19]SAY: Molerat/ : Squeek
+[03:57:19]SAY: Molerat/ : Squeek!
+[03:57:19]SAY: Molerat/ : Squeek
+[03:57:19]SAY: Mutant/ : NNNNNGH!
+[03:57:19]SAY: Molerat/ : Squeek!
+[03:57:19]SAY: Molerat/ : Squeek!
+[03:57:19]SAY: Molerat/ : Squeek, i say
+[03:57:21]SAY: Molerat/ : Squeek!
+[03:57:21]SAY: Molerat/ : Squeek!
+[03:57:21]SAY: Molerat/ : Squeek
+[03:57:21]SAY: Molerat/ : Squeek
+[03:57:21]SAY: Molerat/ : Squeek, i say
+[03:57:21]SAY: Molerat/ : Squeek!
+[03:57:21]SAY: Molerat/ : Squeek
+[03:57:21]SAY: Molerat/ : Squeek
+[03:57:21]SAY: Molerat/ : Squeek
+[03:57:21]SAY: Molerat/ : Squeek
+[03:57:22]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:23]SAY: Molerat/ : Squeek!
+[03:57:23]SAY: Molerat/ : Squeek
+[03:57:23]SAY: Molerat/ : Squeek
+[03:57:23]SAY: Mutant/ : GRRRRRR!
+[03:57:23]SAY: Molerat/ : Squeek
+[03:57:23]SAY: Molerat/ : Squeek
+[03:57:23]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:57:25]SAY: Molerat/ : Squeek!
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Molerat/ : Squeek!
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Mutant/ : GRRRRRR!
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Molerat/ : Squeek!
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:25]SAY: Molerat/ : Squeek!
+[03:57:25]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Mutant/ : NNNNNGH!
+[03:57:27]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Molerat/ : Squeek!
+[03:57:27]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Molerat/ : Squeek!
+[03:57:27]SAY: Molerat/ : Squeek, i say
+[03:57:27]SAY: Mutant/ : ARGH!
+[03:57:27]SAY: Molerat/ : Squeek
+[03:57:27]SAY: Molerat/ : Squeek!
+[03:57:29]SAY: Molerat/ : Squeek!
+[03:57:29]SAY: Molerat/ : Squeek
+[03:57:29]SAY: Molerat/ : Squeek, i say
+[03:57:29]SAY: Molerat/ : Squeek, i say
+[03:57:29]SAY: Molerat/ : Squeek!
+[03:57:29]SAY: Molerat/ : Squeek, i say
+[03:57:29]SAY: Molerat/ : Squeek
+[03:57:29]SAY: Molerat/ : Squeek
+[03:57:29]SAY: Mutant/ : ARRRRR!
+[03:57:29]SAY: Molerat/ : Squeek!
+[03:57:29]SAY: Molerat/ : Squeek!
+[03:57:29]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:57:29]SAY: Molerat/ : Squeek
+[03:57:30]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:31]SAY: Molerat/ : Squeek!
+[03:57:31]SAY: Molerat/ : Squeek, i say
+[03:57:31]SAY: Molerat/ : Squeek!
+[03:57:31]SAY: Molerat/ : Squeek
+[03:57:31]SAY: Molerat/ : Squeek!
+[03:57:31]SAY: Molerat/ : Squeek!
+[03:57:31]SAY: Molerat/ : Squeek!
+[03:57:31]SAY: Molerat/ : Squeek!
+[03:57:31]SAY: Molerat/ : Squeek, i say
+[03:57:34]SAY: Molerat/ : Squeek, i say
+[03:57:34]SAY: Molerat/ : Squeek
+[03:57:34]SAY: Molerat/ : Squeek, i say
+[03:57:34]SAY: Mutant/ : HMPH!
+[03:57:34]SAY: Molerat/ : Squeek!
+[03:57:34]SAY: Mutant/ : GRRRRRR!
+[03:57:34]SAY: Molerat/ : Squeek
+[03:57:36]SAY: Molerat/ : Squeek!
+[03:57:36]SAY: Molerat/ : Squeek!
+[03:57:36]SAY: Molerat/ : Squeek
+[03:57:36]SAY: Molerat/ : Squeek
+[03:57:36]SAY: Molerat/ : Squeek
+[03:57:36]SAY: Molerat/ : Squeek!
+[03:57:36]SAY: Molerat/ : Squeek
+[03:57:36]SAY: Mutant/ : ARRRRR!
+[03:57:36]SAY: Molerat/ : Squeek
+[03:57:36]SAY: Mutant/ : HMPH!
+[03:57:36]SAY: Molerat/ : Squeek!
+[03:57:36]SAY: Molerat/ : Squeek, i say
+[03:57:36]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:57:36]SAY: Molerat/ : Squeek!
+[03:57:36]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:38]SAY: Molerat/ : Squeek
+[03:57:38]SAY: Molerat/ : Squeek
+[03:57:38]SAY: Molerat/ : Squeek!
+[03:57:38]SAY: Mutant/ : NNNNNGH!
+[03:57:38]SAY: Molerat/ : Squeek
+[03:57:38]SAY: Molerat/ : Squeek!
+[03:57:40]SAY: Molerat/ : Squeek!
+[03:57:40]SAY: Molerat/ : Squeek
+[03:57:40]SAY: Molerat/ : Squeek!
+[03:57:40]SAY: Molerat/ : Squeek, i say
+[03:57:40]SAY: Molerat/ : Squeek!
+[03:57:40]SAY: Molerat/ : Squeek
+[03:57:40]SAY: Mutant/ : HMPH!
+[03:57:40]SAY: Mutant/ : HMPH!
+[03:57:40]SAY: Molerat/ : Squeek
+[03:57:42]SAY: Molerat/ : Squeek!
+[03:57:42]SAY: Mutant/ : ARRRRR!
+[03:57:42]SAY: Molerat/ : Squeek
+[03:57:42]SAY: Molerat/ : Squeek!
+[03:57:42]SAY: Molerat/ : Squeek
+[03:57:42]SAY: Molerat/ : Squeek!
+[03:57:42]SAY: Molerat/ : Squeek
+[03:57:42]SAY: Molerat/ : Squeek
+[03:57:42]SAY: Molerat/ : Squeek!
+[03:57:42]SAY: Molerat/ : Squeek!
+[03:57:42]SAY: Molerat/ : Squeek
+[03:57:42]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:44]SAY: Molerat/ : Squeek!
+[03:57:44]SAY: Molerat/ : Squeek
+[03:57:44]SAY: Molerat/ : Squeek
+[03:57:44]SAY: Molerat/ : Squeek!
+[03:57:44]SAY: Molerat/ : Squeek!
+[03:57:44]SAY: Molerat/ : Squeek!
+[03:57:44]SAY: Molerat/ : Squeek!
+[03:57:44]SAY: Molerat/ : Squeek
+[03:57:44]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:57:46]SAY: Molerat/ : Squeek!
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek
+[03:57:46]SAY: Molerat/ : Squeek!
+[03:57:46]SAY: Molerat/ : Squeek, i say
+[03:57:48]SAY: Molerat/ : Squeek
+[03:57:48]SAY: Molerat/ : Squeek!
+[03:57:48]SAY: Mutant/ : NNNNNGH!
+[03:57:48]SAY: Molerat/ : Squeek!
+[03:57:48]SAY: Molerat/ : Squeek!
+[03:57:48]SAY: Molerat/ : Squeek!
+[03:57:48]SAY: Molerat/ : Squeek!
+[03:57:48]SAY: Molerat/ : Squeek, i say
+[03:57:48]SAY: Molerat/ : Squeek, i say
+[03:57:50]SAY: Molerat/ : Squeek
+[03:57:50]SAY: Molerat/ : Squeek
+[03:57:50]SAY: Molerat/ : Squeek!
+[03:57:50]SAY: Molerat/ : Squeek
+[03:57:50]SAY: Molerat/ : Squeek!
+[03:57:50]SAY: Molerat/ : Squeek
+[03:57:50]SAY: Molerat/ : Squeek
+[03:57:50]SAY: Molerat/ : Squeek!
+[03:57:51]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:57:52]SAY: Molerat/ : Squeek, i say
+[03:57:52]SAY: Molerat/ : Squeek!
+[03:57:52]SAY: Molerat/ : Squeek
+[03:57:52]SAY: Molerat/ : Squeek!
+[03:57:52]SAY: Molerat/ : Squeek
+[03:57:52]SAY: Molerat/ : Squeek!
+[03:57:52]SAY: Molerat/ : Squeek!
+[03:57:52]SAY: Mutant/ : HMPH!
+[03:57:52]SAY: Molerat/ : Squeek!
+[03:57:54]SAY: Molerat/ : Squeek
+[03:57:54]SAY: Molerat/ : Squeek
+[03:57:54]SAY: Molerat/ : Squeek
+[03:57:54]SAY: Molerat/ : Squeek!
+[03:57:54]SAY: Molerat/ : Squeek
+[03:57:54]SAY: Molerat/ : Squeek!
+[03:57:54]SAY: Molerat/ : Squeek
+[03:57:54]SAY: Molerat/ : Squeek
+[03:57:54]SAY: Molerat/ : Squeek!
+[03:57:56]SAY: Molerat/ : Squeek!
+[03:57:56]SAY: Molerat/ : Squeek
+[03:57:56]SAY: Molerat/ : Squeek!
+[03:57:56]SAY: Molerat/ : Squeek!
+[03:57:56]SAY: Molerat/ : Squeek
+[03:57:56]SAY: Molerat/ : Squeek
+[03:57:56]SAY: Molerat/ : Squeek!
+[03:57:56]SAY: Mutant/ : ARRRRR!
+[03:57:56]SAY: Molerat/ : Squeek
+[03:57:56]SAY: Molerat/ : Squeek
+[03:57:56]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[03:57:56]SAY: Molerat/ : Squeek!
+[03:57:58]SAY: Molerat/ : Squeek
+[03:57:58]SAY: Molerat/ : Squeek
+[03:57:58]SAY: Mutant/ : ARGH!
+[03:57:58]SAY: Molerat/ : Squeek, i say
+[03:57:58]SAY: Molerat/ : Squeek!
+[03:57:58]SAY: Molerat/ : Squeek
+[03:57:58]SAY: Molerat/ : Squeek
+[03:57:58]SAY: Molerat/ : Squeek
+[03:57:58]SAY: Molerat/ : Squeek, i say
+[03:57:58]SAY: Molerat/ : Squeek!
+[03:57:59]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:00]SAY: Molerat/ : Squeek!
+[03:58:00]SAY: Molerat/ : Squeek
+[03:58:00]SAY: Molerat/ : Squeek
+[03:58:00]SAY: Molerat/ : Squeek!
+[03:58:00]SAY: Molerat/ : Squeek!
+[03:58:00]SAY: Molerat/ : Squeek!
+[03:58:00]SAY: Molerat/ : Squeek!
+[03:58:00]SAY: Molerat/ : Squeek
+[03:58:00]SAY: Molerat/ : Squeek
+[03:58:01]SAY: Mutant/ : GRRRRRR!
+[03:58:01]SAY: Mutant/ : GRRRRRR!
+[03:58:01]SAY: Molerat/ : Squeek!
+[03:58:01]SAY: Mutant/ : ARGH!
+[03:58:01]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[03:58:03]SAY: Molerat/ : Squeek
+[03:58:03]SAY: Molerat/ : Squeek
+[03:58:03]SAY: Molerat/ : Squeek
+[03:58:03]SAY: Mutant/ : NNNNNGH!
+[03:58:03]SAY: Molerat/ : Squeek!
+[03:58:03]SAY: Molerat/ : Squeek!
+[03:58:03]SAY: Molerat/ : Squeek
+[03:58:03]SAY: Molerat/ : Squeek
+[03:58:03]SAY: Molerat/ : Squeek!
+[03:58:03]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:58:05]SAY: Molerat/ : Squeek!
+[03:58:05]SAY: Mutant/ : ARGH!
+[03:58:05]SAY: Molerat/ : Squeek
+[03:58:05]SAY: Molerat/ : Squeek!
+[03:58:05]SAY: Molerat/ : Squeek
+[03:58:05]SAY: Molerat/ : Squeek
+[03:58:05]SAY: Molerat/ : Squeek!
+[03:58:05]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:07]SAY: Molerat/ : Squeek
+[03:58:07]SAY: Molerat/ : Squeek
+[03:58:07]SAY: Molerat/ : Squeek, i say
+[03:58:07]SAY: Molerat/ : Squeek
+[03:58:07]SAY: Molerat/ : Squeek
+[03:58:07]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek, i say
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Mutant/ : HMPH!
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:09]SAY: Molerat/ : Squeek
+[03:58:11]SAY: Molerat/ : Squeek, i say
+[03:58:11]SAY: Molerat/ : Squeek
+[03:58:11]SAY: Molerat/ : Squeek!
+[03:58:11]SAY: Molerat/ : Squeek, i say
+[03:58:11]SAY: Mutant/ : ARGH!
+[03:58:11]SAY: Molerat/ : Squeek
+[03:58:12]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:13]SAY: Molerat/ : Squeek
+[03:58:13]SAY: Molerat/ : Squeek!
+[03:58:13]SAY: Molerat/ : Squeek
+[03:58:13]SAY: Molerat/ : Squeek
+[03:58:13]SAY: Molerat/ : Squeek!
+[03:58:13]SAY: Molerat/ : Squeek!
+[03:58:13]SAY: Mutant/ : ARGH!
+[03:58:13]SAY: Molerat/ : Squeek
+[03:58:13]SAY: Molerat/ : Squeek!
+[03:58:13]SAY: Molerat/ : Squeek!
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:15]SAY: Molerat/ : Squeek, i say
+[03:58:15]SAY: Molerat/ : Squeek!
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:15]SAY: Molerat/ : Squeek!
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:15]SAY: Molerat/ : Squeek!
+[03:58:15]SAY: Molerat/ : Squeek!
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:15]SAY: Molerat/ : Squeek!
+[03:58:15]SAY: Molerat/ : Squeek
+[03:58:17]SAY: Molerat/ : Squeek!
+[03:58:17]SAY: Molerat/ : Squeek
+[03:58:17]SAY: Molerat/ : Squeek, i say
+[03:58:17]SAY: Molerat/ : Squeek, i say
+[03:58:17]SAY: Molerat/ : Squeek
+[03:58:17]SAY: Molerat/ : Squeek, i say
+[03:58:17]SAY: Mutant/ : HMPH!
+[03:58:17]SAY: Molerat/ : Squeek
+[03:58:17]SAY: Molerat/ : Squeek
+[03:58:17]SAY: Molerat/ : Squeek
+[03:58:19]SAY: Molerat/ : Squeek
+[03:58:19]SAY: Molerat/ : Squeek
+[03:58:19]SAY: Molerat/ : Squeek
+[03:58:19]SAY: Mutant/ : ARGH!
+[03:58:19]SAY: Molerat/ : Squeek!
+[03:58:19]SAY: Molerat/ : Squeek
+[03:58:19]SAY: Molerat/ : Squeek!
+[03:58:19]SAY: Molerat/ : Squeek!
+[03:58:20]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:21]SAY: Molerat/ : Squeek
+[03:58:21]SAY: Mutant/ : HMPH!
+[03:58:21]SAY: Molerat/ : Squeek!
+[03:58:21]SAY: Molerat/ : Squeek!
+[03:58:21]SAY: Molerat/ : Squeek!
+[03:58:21]SAY: Molerat/ : Squeek
+[03:58:21]SAY: Mutant/ : ARRRRR!
+[03:58:21]SAY: Molerat/ : Squeek
+[03:58:21]SAY: Molerat/ : Squeek, i say
+[03:58:21]SAY: Molerat/ : Squeek!
+[03:58:23]SAY: Molerat/ : Squeek!
+[03:58:23]SAY: Molerat/ : Squeek, i say
+[03:58:23]SAY: Molerat/ : Squeek
+[03:58:23]SAY: Molerat/ : Squeek
+[03:58:23]SAY: Molerat/ : Squeek
+[03:58:23]SAY: Molerat/ : Squeek
+[03:58:23]SAY: Molerat/ : Squeek
+[03:58:23]SAY: Molerat/ : Squeek!
+[03:58:25]SAY: Molerat/ : Squeek!
+[03:58:25]SAY: Molerat/ : Squeek
+[03:58:25]SAY: Molerat/ : Squeek!
+[03:58:25]SAY: Molerat/ : Squeek
+[03:58:25]SAY: Molerat/ : Squeek!
+[03:58:25]SAY: Molerat/ : Squeek, i say
+[03:58:25]SAY: Molerat/ : Squeek!
+[03:58:25]SAY: Molerat/ : Squeek
+[03:58:25]SAY: Molerat/ : Squeek!
+[03:58:25]SAY: Molerat/ : Squeek, i say
+[03:58:25]SAY: Molerat/ : Squeek
+[03:58:25]SAY: Molerat/ : Squeek, i say
+[03:58:25]SAY: Molerat/ : Squeek
+[03:58:25]SAY: Molerat/ : Squeek
+[03:58:27]SAY: Molerat/ : Squeek, i say
+[03:58:27]SAY: Molerat/ : Squeek!
+[03:58:27]SAY: Molerat/ : Squeek!
+[03:58:27]SAY: Molerat/ : Squeek
+[03:58:27]SAY: Mutant/ : ARGH!
+[03:58:27]SAY: Molerat/ : Squeek
+[03:58:28]SAY: Molerat/ : Squeek
+[03:58:28]SAY: Molerat/ : Squeek!
+[03:58:28]SAY: Molerat/ : Squeek
+[03:58:28]SAY: Molerat/ : Squeek!
+[03:58:28]SAY: Molerat/ : Squeek!
+[03:58:28]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:30]SAY: Molerat/ : Squeek!
+[03:58:30]SAY: Molerat/ : Squeek
+[03:58:30]SAY: Molerat/ : Squeek!
+[03:58:30]SAY: Molerat/ : Squeek, i say
+[03:58:30]SAY: Molerat/ : Squeek
+[03:58:30]SAY: Mutant/ : HMPH!
+[03:58:30]SAY: Molerat/ : Squeek!
+[03:58:30]SAY: Molerat/ : Squeek
+[03:58:32]SAY: Molerat/ : Squeek
+[03:58:32]SAY: Molerat/ : Squeek!
+[03:58:32]SAY: Mutant/ : NNNNNGH!
+[03:58:32]SAY: Molerat/ : Squeek
+[03:58:32]SAY: Mutant/ : GRRRRRR!
+[03:58:34]SAY: Molerat/ : Squeek
+[03:58:34]SAY: Molerat/ : Squeek!
+[03:58:34]SAY: Mutant/ : ARGH!
+[03:58:34]SAY: Mutant/ : GRRRRRR!
+[03:58:34]SAY: Mutant/ : HMPH!
+[03:58:34]SAY: Molerat/ : Squeek!
+[03:58:34]EMOTE: brahmin/ : <B>The brahmin</B> shakes its head.
+[03:58:34]SAY: Molerat/ : Squeek
+[03:58:36]SAY: Mutant/ : ARRRRR!
+[03:58:36]SAY: Molerat/ : Squeek
+[03:58:36]SAY: Molerat/ : Squeek!
+[03:58:36]SAY: Molerat/ : Squeek!
+[03:58:36]SAY: Molerat/ : Squeek!
+[03:58:36]SAY: Molerat/ : Squeek!
+[03:58:36]SAY: Molerat/ : Squeek, i say
+[03:58:36]SAY: Mutant/ : ARRRRR!
+[03:58:36]SAY: Mutant/ : NNNNNGH!
+[03:58:36]SAY: Molerat/ : Squeek
+[03:58:36]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:38]SAY: Molerat/ : Squeek!
+[03:58:38]SAY: Molerat/ : Squeek!
+[03:58:38]SAY: Molerat/ : Squeek
+[03:58:38]SAY: Molerat/ : Squeek, i say
+[03:58:38]SAY: Molerat/ : Squeek
+[03:58:38]SAY: Molerat/ : Squeek
+[03:58:38]SAY: Molerat/ : Squeek
+[03:58:38]SAY: Molerat/ : Squeek
+[03:58:40]SAY: Molerat/ : Squeek
+[03:58:40]SAY: Molerat/ : Squeek!
+[03:58:40]SAY: Molerat/ : Squeek
+[03:58:40]SAY: Molerat/ : Squeek
+[03:58:40]SAY: Molerat/ : Squeek!
+[03:58:40]SAY: Mutant/ : HMPH!
+[03:58:40]SAY: Mutant/ : ARGH!
+[03:58:40]SAY: Molerat/ : Squeek
+[03:58:42]SAY: Molerat/ : Squeek!
+[03:58:42]SAY: Molerat/ : Squeek
+[03:58:42]SAY: Molerat/ : Squeek!
+[03:58:42]SAY: Mutant/ : HMPH!
+[03:58:42]SAY: Molerat/ : Squeek
+[03:58:42]SAY: Mutant/ : ARRRRR!
+[03:58:42]SAY: Molerat/ : Squeek!
+[03:58:42]SAY: Molerat/ : Squeek!
+[03:58:42]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[03:58:43]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:44]SAY: Molerat/ : Squeek, i say
+[03:58:44]SAY: Molerat/ : Squeek, i say
+[03:58:44]SAY: Molerat/ : Squeek!
+[03:58:44]SAY: Molerat/ : Squeek!
+[03:58:46]SAY: Molerat/ : Squeek
+[03:58:46]SAY: Molerat/ : Squeek!
+[03:58:46]SAY: Molerat/ : Squeek!
+[03:58:46]SAY: Molerat/ : Squeek
+[03:58:46]SAY: Molerat/ : Squeek!
+[03:58:46]SAY: Molerat/ : Squeek!
+[03:58:46]SAY: Molerat/ : Squeek
+[03:58:46]EMOTE: brahmin/ : <B>The brahmin</B> brays.
+[03:58:48]SAY: Mutant/ : ARGH!
+[03:58:48]SAY: Molerat/ : Squeek
+[03:58:48]SAY: Molerat/ : Squeek
+[03:58:48]SAY: Molerat/ : Squeek!
+[03:58:48]SAY: Mutant/ : ARGH!
+[03:58:48]SAY: Molerat/ : Squeek!
+[03:58:50]SAY: Molerat/ : Squeek!
+[03:58:50]SAY: Molerat/ : Squeek
+[03:58:50]SAY: Mutant/ : NNNNNGH!
+[03:58:50]SAY: Mutant/ : ARRRRR!
+[03:58:50]SAY: Molerat/ : Squeek
+[03:58:50]SAY: Molerat/ : Squeek!
+[03:58:50]SAY: Molerat/ : Squeek!
+[03:58:50]SAY: Molerat/ : Squeek!
+[03:58:51]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek!
+[03:58:52]SAY: Molerat/ : Squeek!
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:52]SAY: Molerat/ : Squeek, i say
+[03:58:52]SAY: Molerat/ : Squeek
+[03:58:54]SAY: Molerat/ : Squeek
+[03:58:54]SAY: Mutant/ : GRRRRRR!
+[03:58:54]SAY: Molerat/ : Squeek
+[03:58:54]SAY: Molerat/ : Squeek!
+[03:58:54]SAY: Molerat/ : Squeek
+[03:58:54]SAY: Molerat/ : Squeek, i say
+[03:58:54]SAY: Molerat/ : Squeek!
+[03:58:54]SAY: Molerat/ : Squeek
+[03:58:54]SAY: Mutant/ : GRRRRRR!
+[03:58:54]SAY: Molerat/ : Squeek!
+[03:58:54]SAY: Molerat/ : Squeek
+[03:58:54]SAY: Molerat/ : Squeek!
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:56]SAY: Mutant/ : ARRRRR!
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:56]SAY: Molerat/ : Squeek
+[03:58:57]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:58:58]SAY: Molerat/ : Squeek!
+[03:58:58]SAY: Molerat/ : Squeek!
+[03:58:58]SAY: Mutant/ : HMPH!
+[03:58:58]SAY: Molerat/ : Squeek
+[03:58:58]SAY: Molerat/ : Squeek
+[03:58:58]SAY: Molerat/ : Squeek
+[03:58:58]SAY: Molerat/ : Squeek
+[03:58:58]SAY: Molerat/ : Squeek, i say
+[03:58:58]SAY: Molerat/ : Squeek
+[03:58:58]SAY: Mutant/ : ARRRRR!
+[03:59:00]SAY: Molerat/ : Squeek
+[03:59:00]SAY: Molerat/ : Squeek!
+[03:59:00]SAY: Molerat/ : Squeek
+[03:59:00]SAY: Mutant/ : NNNNNGH!
+[03:59:00]SAY: Molerat/ : Squeek!
+[03:59:00]SAY: Molerat/ : Squeek, i say
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek!
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Molerat/ : Squeek!
+[03:59:03]SAY: Molerat/ : Squeek
+[03:59:03]SAY: Mutant/ : ARRRRR!
+[03:59:03]SAY: Molerat/ : Squeek!
+[03:59:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:04]SAY: Molerat/ : Squeek, i say
+[03:59:04]SAY: Molerat/ : Squeek!
+[03:59:04]SAY: Molerat/ : Squeek
+[03:59:04]SAY: Molerat/ : Squeek
+[03:59:04]SAY: Molerat/ : Squeek!
+[03:59:04]SAY: Molerat/ : Squeek
+[03:59:04]SAY: Molerat/ : Squeek!
+[03:59:06]SAY: Molerat/ : Squeek
+[03:59:06]SAY: Molerat/ : Squeek
+[03:59:06]SAY: Molerat/ : Squeek, i say
+[03:59:06]SAY: Molerat/ : Squeek, i say
+[03:59:06]SAY: Molerat/ : Squeek!
+[03:59:06]SAY: Molerat/ : Squeek
+[03:59:06]SAY: Molerat/ : Squeek!
+[03:59:06]SAY: Molerat/ : Squeek!
+[03:59:06]SAY: Molerat/ : Squeek
+[03:59:08]SAY: Molerat/ : Squeek
+[03:59:08]SAY: Molerat/ : Squeek!
+[03:59:08]SAY: Molerat/ : Squeek
+[03:59:08]SAY: Mutant/ : ARRRRR!
+[03:59:08]SAY: Molerat/ : Squeek
+[03:59:08]SAY: Molerat/ : Squeek!
+[03:59:08]SAY: Molerat/ : Squeek!
+[03:59:10]SAY: Molerat/ : Squeek!
+[03:59:10]SAY: Molerat/ : Squeek, i say
+[03:59:10]SAY: Molerat/ : Squeek!
+[03:59:10]SAY: Molerat/ : Squeek
+[03:59:10]SAY: Molerat/ : Squeek!
+[03:59:11]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:12]SAY: Molerat/ : Squeek!
+[03:59:12]SAY: Molerat/ : Squeek, i say
+[03:59:12]SAY: Molerat/ : Squeek
+[03:59:12]SAY: Molerat/ : Squeek!
+[03:59:12]SAY: Molerat/ : Squeek
+[03:59:12]SAY: Molerat/ : Squeek!
+[03:59:12]SAY: Molerat/ : Squeek, i say
+[03:59:12]SAY: Molerat/ : Squeek
+[03:59:13]SAY: Molerat/ : Squeek!
+[03:59:13]SAY: Mutant/ : NNNNNGH!
+[03:59:13]SAY: Molerat/ : Squeek!
+[03:59:13]SAY: Molerat/ : Squeek!
+[03:59:14]SAY: Molerat/ : Squeek
+[03:59:14]SAY: Molerat/ : Squeek
+[03:59:15]SAY: Molerat/ : Squeek
+[03:59:15]SAY: Molerat/ : Squeek
+[03:59:15]SAY: Molerat/ : Squeek!
+[03:59:15]SAY: Molerat/ : Squeek!
+[03:59:15]SAY: Molerat/ : Squeek
+[03:59:15]SAY: Molerat/ : Squeek
+[03:59:15]SAY: Molerat/ : Squeek
+[03:59:15]SAY: Molerat/ : Squeek
+[03:59:15]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Mutant/ : GRRRRRR!
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek
+[03:59:17]SAY: Molerat/ : Squeek!
+[03:59:17]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[03:59:17]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 223,137,1 in Theatre
+[03:59:19]SAY: Molerat/ : Squeek
+[03:59:19]SAY: Molerat/ : Squeek!
+[03:59:19]SAY: Molerat/ : Squeek
+[03:59:19]SAY: Molerat/ : Squeek
+[03:59:19]SAY: Molerat/ : Squeek, i say
+[03:59:19]SAY: Molerat/ : Squeek
+[03:59:19]SAY: Molerat/ : Squeek!
+[03:59:19]SAY: Molerat/ : Squeek, i say
+[03:59:19]SAY: Molerat/ : Squeek
+[03:59:19]SAY: Molerat/ : Squeek
+[03:59:20]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:21]SAY: Molerat/ : Squeek
+[03:59:21]SAY: Molerat/ : Squeek
+[03:59:21]SAY: Molerat/ : Squeek!
+[03:59:21]SAY: Molerat/ : Squeek
+[03:59:21]SAY: Molerat/ : Squeek!
+[03:59:21]SAY: Molerat/ : Squeek
+[03:59:23]SAY: Molerat/ : Squeek
+[03:59:23]SAY: Molerat/ : Squeek!
+[03:59:23]SAY: Mutant/ : ARRRRR!
+[03:59:23]SAY: Molerat/ : Squeek!
+[03:59:23]SAY: Mutant/ : NNNNNGH!
+[03:59:23]SAY: Mutant/ : ARRRRR!
+[03:59:25]SAY: Molerat/ : Squeek!
+[03:59:25]SAY: Molerat/ : Squeek
+[03:59:25]SAY: Mutant/ : HMPH!
+[03:59:25]SAY: Molerat/ : Squeek
+[03:59:25]SAY: Molerat/ : Squeek!
+[03:59:25]SAY: Molerat/ : Squeek
+[03:59:27]SAY: Molerat/ : Squeek
+[03:59:27]SAY: Molerat/ : Squeek!
+[03:59:27]SAY: Molerat/ : Squeek, i say
+[03:59:27]SAY: Molerat/ : Squeek!
+[03:59:27]SAY: Mutant/ : NNNNNGH!
+[03:59:27]SAY: Molerat/ : Squeek
+[03:59:27]SAY: Molerat/ : Squeek!
+[03:59:27]SAY: Molerat/ : Squeek
+[03:59:27]SAY: Molerat/ : Squeek
+[03:59:28]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:29]SAY: Molerat/ : Squeek
+[03:59:29]SAY: Mutant/ : NNNNNGH!
+[03:59:29]SAY: Molerat/ : Squeek
+[03:59:29]SAY: Molerat/ : Squeek!
+[03:59:29]SAY: Molerat/ : Squeek
+[03:59:29]SAY: Molerat/ : Squeek!
+[03:59:29]SAY: Molerat/ : Squeek
+[03:59:29]SAY: Molerat/ : Squeek!
+[03:59:29]SAY: Molerat/ : Squeek
+[03:59:29]SAY: Molerat/ : Squeek
+[03:59:31]SAY: Molerat/ : Squeek
+[03:59:31]SAY: Molerat/ : Squeek
+[03:59:31]SAY: Mutant/ : GRRRRRR!
+[03:59:31]SAY: Molerat/ : Squeek
+[03:59:31]SAY: Molerat/ : Squeek
+[03:59:31]SAY: Molerat/ : Squeek!
+[03:59:31]SAY: Molerat/ : Squeek, i say
+[03:59:33]SAY: Molerat/ : Squeek!
+[03:59:33]SAY: Molerat/ : Squeek!
+[03:59:33]SAY: Molerat/ : Squeek!
+[03:59:33]SAY: Molerat/ : Squeek, i say
+[03:59:33]SAY: Mutant/ : NNNNNGH!
+[03:59:33]SAY: Mutant/ : ARRRRR!
+[03:59:33]SAY: Molerat/ : Squeek
+[03:59:33]SAY: Molerat/ : Squeek!
+[03:59:35]SAY: Molerat/ : Squeek
+[03:59:35]SAY: Molerat/ : Squeek!
+[03:59:35]SAY: Molerat/ : Squeek
+[03:59:35]SAY: Molerat/ : Squeek, i say
+[03:59:35]SAY: Molerat/ : Squeek!
+[03:59:35]SAY: Molerat/ : Squeek!
+[03:59:35]SAY: Molerat/ : Squeek
+[03:59:35]SAY: Molerat/ : Squeek
+[03:59:35]SAY: Molerat/ : Squeek
+[03:59:35]SAY: Molerat/ : Squeek!
+[03:59:35]SAY: mouse/ : Squeek?
+[03:59:36]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:37]SAY: Molerat/ : Squeek
+[03:59:37]SAY: Molerat/ : Squeek!
+[03:59:37]SAY: Molerat/ : Squeek
+[03:59:38]SAY: Molerat/ : Squeek!
+[03:59:38]SAY: Molerat/ : Squeek, i say
+[03:59:38]SAY: Molerat/ : Squeek, i say
+[03:59:38]SAY: Molerat/ : Squeek
+[03:59:38]SAY: Mutant/ : ARGH!
+[03:59:38]SAY: Mutant/ : ARGH!
+[03:59:38]SAY: Mutant/ : NNNNNGH!
+[03:59:38]SAY: Mutant/ : ARRRRR!
+[03:59:38]SAY: Molerat/ : Squeek!
+[03:59:39]SAY: Molerat/ : Squeek, i say
+[03:59:39]SAY: Molerat/ : Squeek
+[03:59:39]SAY: Molerat/ : Squeek, i say
+[03:59:39]SAY: Mutant/ : GRRRRRR!
+[03:59:39]SAY: Molerat/ : Squeek
+[03:59:39]SAY: Molerat/ : Squeek!
+[03:59:39]SAY: Molerat/ : Squeek
+[03:59:39]SAY: Mutant/ : HMPH!
+[03:59:39]SAY: Molerat/ : Squeek
+[03:59:39]SAY: Molerat/ : Squeek
+[03:59:39]SAY: Molerat/ : Squeek
+[03:59:41]SAY: Molerat/ : Squeek!
+[03:59:41]SAY: Molerat/ : Squeek!
+[03:59:41]SAY: Molerat/ : Squeek!
+[03:59:41]SAY: Molerat/ : Squeek, i say
+[03:59:43]SAY: Mutant/ : ARRRRR!
+[03:59:43]SAY: Molerat/ : Squeek!
+[03:59:43]SAY: Molerat/ : Squeek!
+[03:59:43]SAY: Molerat/ : Squeek
+[03:59:43]SAY: Mutant/ : HMPH!
+[03:59:43]SAY: Molerat/ : Squeek!
+[03:59:44]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:45]SAY: Molerat/ : Squeek
+[03:59:45]SAY: Molerat/ : Squeek
+[03:59:45]SAY: Molerat/ : Squeek, i say
+[03:59:45]SAY: Molerat/ : Squeek!
+[03:59:45]SAY: Mutant/ : HMPH!
+[03:59:45]SAY: Mutant/ : ARRRRR!
+[03:59:45]SAY: Molerat/ : Squeek, i say
+[03:59:45]SAY: Molerat/ : Squeek!
+[03:59:45]SAY: Molerat/ : Squeek!
+[03:59:47]SAY: Molerat/ : Squeek
+[03:59:47]SAY: Molerat/ : Squeek, i say
+[03:59:47]SAY: Molerat/ : Squeek
+[03:59:47]SAY: Mutant/ : NNNNNGH!
+[03:59:47]SAY: Molerat/ : Squeek!
+[03:59:47]SAY: Molerat/ : Squeek
+[03:59:47]SAY: Molerat/ : Squeek!
+[03:59:47]SAY: Molerat/ : Squeek!
+[03:59:48]SAY: Molerat/ : Squeek!
+[03:59:48]SAY: Molerat/ : Squeek!
+[03:59:48]SAY: Molerat/ : Squeek!
+[03:59:49]SAY: Molerat/ : Squeek
+[03:59:50]SAY: Molerat/ : Squeek!
+[03:59:50]SAY: Molerat/ : Squeek
+[03:59:50]SAY: Molerat/ : Squeek!
+[03:59:50]SAY: Molerat/ : Squeek!
+[03:59:50]SAY: Molerat/ : Squeek!
+[03:59:52]SAY: Molerat/ : Squeek
+[03:59:52]SAY: Molerat/ : Squeek, i say
+[03:59:52]SAY: Molerat/ : Squeek!
+[03:59:52]SAY: Molerat/ : Squeek!
+[03:59:52]SAY: Molerat/ : Squeek, i say
+[03:59:52]SAY: Molerat/ : Squeek
+[03:59:52]SAY: Molerat/ : Squeek
+[03:59:52]SAY: Molerat/ : Squeek!
+[03:59:52]SAY: Molerat/ : Squeek
+[03:59:52]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[03:59:54]SAY: Molerat/ : Squeek
+[03:59:54]SAY: Molerat/ : Squeek!
+[03:59:54]SAY: Molerat/ : Squeek!
+[03:59:54]SAY: Molerat/ : Squeek
+[03:59:54]SAY: Mutant/ : NNNNNGH!
+[03:59:54]SAY: Mutant/ : ARRRRR!
+[03:59:54]SAY: Molerat/ : Squeek
+[03:59:56]SAY: Molerat/ : Squeek, i say
+[03:59:56]SAY: Molerat/ : Squeek
+[03:59:56]SAY: Molerat/ : Squeek, i say
+[03:59:56]SAY: Molerat/ : Squeek!
+[03:59:56]SAY: Molerat/ : Squeek
+[03:59:56]SAY: Molerat/ : Squeek
+[03:59:56]SAY: Molerat/ : Squeek!
+[03:59:56]SAY: Mutant/ : HMPH!
+[03:59:56]SAY: Molerat/ : Squeek
+[03:59:58]SAY: Molerat/ : Squeek!
+[03:59:58]SAY: Molerat/ : Squeek
+[03:59:58]SAY: Molerat/ : Squeek, i say
+[03:59:58]SAY: Molerat/ : Squeek
+[03:59:58]SAY: Mutant/ : HMPH!
+[03:59:59]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:00]SAY: Molerat/ : Squeek
+[04:00:00]SAY: Molerat/ : Squeek!
+[04:00:00]SAY: Mutant/ : ARRRRR!
+[04:00:00]SAY: Molerat/ : Squeek
+[04:00:02]SAY: Molerat/ : Squeek, i say
+[04:00:02]SAY: Molerat/ : Squeek!
+[04:00:02]SAY: Molerat/ : Squeek
+[04:00:02]SAY: Molerat/ : Squeek!
+[04:00:02]SAY: Molerat/ : Squeek!
+[04:00:02]SAY: Mutant/ : NNNNNGH!
+[04:00:02]EMOTE: Cazador/ : <B>Cazador</B> gnashes at Griffin Whiteman.
+[04:00:02]SAY: Molerat/ : Squeek!
+[04:00:02]SAY: Molerat/ : Squeek, i say
+[04:00:02]SAY: Molerat/ : Squeek
+[04:00:02]SAY: Molerat/ : Squeek
+[04:00:04]SAY: Molerat/ : Squeek
+[04:00:04]SAY: Molerat/ : Squeek
+[04:00:04]SAY: Molerat/ : Squeek, i say
+[04:00:04]SAY: Molerat/ : Squeek
+[04:00:04]SAY: Mutant/ : GRRRRRR!
+[04:00:04]SAY: Molerat/ : Squeek
+[04:00:04]SAY: Molerat/ : Squeek!
+[04:00:04]SAY: Molerat/ : Squeek!
+[04:00:06]SAY: Molerat/ : Squeek!
+[04:00:06]SAY: Molerat/ : Squeek
+[04:00:06]SAY: Molerat/ : Squeek!
+[04:00:06]SAY: Molerat/ : Squeek, i say
+[04:00:06]SAY: Molerat/ : Squeek!
+[04:00:06]SAY: Molerat/ : Squeek
+[04:00:06]SAY: Molerat/ : Squeek!
+[04:00:06]SAY: Mutant/ : ARGH!
+[04:00:06]SAY: Molerat/ : Squeek
+[04:00:06]SAY: Molerat/ : Squeek!
+[04:00:06]SAY: Molerat/ : Squeek, i say
+[04:00:07]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:08]SAY: Molerat/ : Squeek, i say
+[04:00:08]SAY: Molerat/ : Squeek
+[04:00:08]SAY: Molerat/ : Squeek
+[04:00:08]SAY: Molerat/ : Squeek
+[04:00:08]SAY: Molerat/ : Squeek!
+[04:00:08]SAY: Molerat/ : Squeek!
+[04:00:08]SAY: Molerat/ : Squeek!
+[04:00:08]SAY: yaogai/ : Rawr!
+[04:00:08]SAY: Molerat/ : Squeek
+[04:00:10]SAY: Molerat/ : Squeek
+[04:00:10]SAY: Molerat/ : Squeek
+[04:00:10]SAY: Molerat/ : Squeek!
+[04:00:10]SAY: Molerat/ : Squeek
+[04:00:10]SAY: Molerat/ : Squeek!
+[04:00:10]SAY: Molerat/ : Squeek
+[04:00:10]SAY: Molerat/ : Squeek, i say
+[04:00:10]SAY: Molerat/ : Squeek, i say
+[04:00:12]SAY: Molerat/ : Squeek
+[04:00:12]SAY: Molerat/ : Squeek!
+[04:00:12]SAY: Molerat/ : Squeek!
+[04:00:12]SAY: Molerat/ : Squeek, i say
+[04:00:12]SAY: Molerat/ : Squeek!
+[04:00:12]SAY: Molerat/ : Squeek!
+[04:00:12]SAY: Molerat/ : Squeek!
+[04:00:12]SAY: Molerat/ : Squeek!
+[04:00:12]SAY: Molerat/ : Squeek
+[04:00:12]SAY: Molerat/ : Squeek
+[04:00:12]SAY: Mutant/ : GRRRRRR!
+[04:00:12]SAY: Mutant/ : ARGH!
+[04:00:12]SAY: Molerat/ : Squeek
+[04:00:12]SAY: Molerat/ : Squeek
+[04:00:13]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Mutant/ : NNNNNGH!
+[04:00:14]SAY: Molerat/ : Squeek, i say
+[04:00:14]SAY: Molerat/ : Squeek!
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Molerat/ : Squeek, i say
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Mutant/ : ARGH!
+[04:00:14]SAY: Molerat/ : Squeek!
+[04:00:14]SAY: Molerat/ : Squeek
+[04:00:14]SAY: Molerat/ : Squeek!
+[04:00:16]SAY: Molerat/ : Squeek
+[04:00:16]SAY: Molerat/ : Squeek
+[04:00:16]SAY: Molerat/ : Squeek
+[04:00:16]SAY: Molerat/ : Squeek, i say
+[04:00:16]SAY: Molerat/ : Squeek
+[04:00:16]SAY: Molerat/ : Squeek
+[04:00:16]SAY: Molerat/ : Squeek!
+[04:00:16]SAY: Mutant/ : NNNNNGH!
+[04:00:16]EMOTE: brahmin/ : <B>The brahmin</B> shakes its head.
+[04:00:16]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek
+[04:00:18]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek
+[04:00:18]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek
+[04:00:18]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek!
+[04:00:18]SAY: Molerat/ : Squeek, i say
+[04:00:18]SAY: Molerat/ : Squeek
+[04:00:20]SAY: Molerat/ : Squeek
+[04:00:20]SAY: Molerat/ : Squeek!
+[04:00:20]SAY: Molerat/ : Squeek!
+[04:00:20]SAY: Molerat/ : Squeek
+[04:00:21]SAY: Molerat/ : Squeek!
+[04:00:21]SAY: Molerat/ : Squeek
+[04:00:21]SAY: Molerat/ : Squeek
+[04:00:21]SAY: Molerat/ : Squeek
+[04:00:21]SAY: Molerat/ : Squeek
+[04:00:21]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:23]SAY: Molerat/ : Squeek, i say
+[04:00:23]SAY: Molerat/ : Squeek
+[04:00:23]SAY: Molerat/ : Squeek, i say
+[04:00:23]SAY: Mutant/ : NNNNNGH!
+[04:00:25]SAY: Molerat/ : Squeek
+[04:00:25]SAY: Molerat/ : Squeek!
+[04:00:25]SAY: Molerat/ : Squeek!
+[04:00:25]SAY: Molerat/ : Squeek
+[04:00:25]SAY: Molerat/ : Squeek!
+[04:00:25]SAY: Molerat/ : Squeek
+[04:00:27]SAY: Mutant/ : HMPH!
+[04:00:28]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:29]SAY: Molerat/ : Squeek
+[04:00:29]SAY: Molerat/ : Squeek
+[04:00:29]SAY: Molerat/ : Squeek, i say
+[04:00:29]SAY: Mutant/ : NNNNNGH!
+[04:00:29]EMOTE: rad scorpion (564)/ : <B>The rad scorpion (564)</B> chitters
+[04:00:29]SAY: Molerat/ : Squeek
+[04:00:31]SAY: Molerat/ : Squeek
+[04:00:31]SAY: Molerat/ : Squeek
+[04:00:31]SAY: Molerat/ : Squeek!
+[04:00:31]SAY: Molerat/ : Squeek
+[04:00:31]SAY: Molerat/ : Squeek
+[04:00:31]SAY: Molerat/ : Squeek
+[04:00:31]SAY: Molerat/ : Squeek
+[04:00:33]SAY: Molerat/ : Squeek
+[04:00:33]SAY: Molerat/ : Squeek!
+[04:00:33]SAY: Molerat/ : Squeek
+[04:00:33]SAY: Molerat/ : Squeek
+[04:00:33]SAY: Mutant/ : ARGH!
+[04:00:33]SAY: Molerat/ : Squeek!
+[04:00:33]SAY: Molerat/ : Squeek
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek
+[04:00:35]SAY: Molerat/ : Squeek, i say
+[04:00:35]SAY: Molerat/ : Squeek!
+[04:00:35]SAY: Molerat/ : Squeek
+[04:00:36]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:37]SAY: Molerat/ : Squeek
+[04:00:37]SAY: Molerat/ : Squeek
+[04:00:37]SAY: Molerat/ : Squeek
+[04:00:37]SAY: Molerat/ : Squeek
+[04:00:37]SAY: Molerat/ : Squeek!
+[04:00:37]SAY: Molerat/ : Squeek
+[04:00:39]SAY: Molerat/ : Squeek
+[04:00:39]SAY: Molerat/ : Squeek, i say
+[04:00:39]SAY: Molerat/ : Squeek!
+[04:00:39]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek!
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek!
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:41]SAY: Molerat/ : Squeek
+[04:00:43]SAY: Molerat/ : Squeek
+[04:00:43]SAY: Molerat/ : Squeek!
+[04:00:43]SAY: Molerat/ : Squeek!
+[04:00:43]SAY: Molerat/ : Squeek
+[04:00:43]SAY: Mutant/ : HMPH!
+[04:00:43]SAY: Molerat/ : Squeek!
+[04:00:43]SAY: Molerat/ : Squeek!
+[04:00:43]SAY: Molerat/ : Squeek
+[04:00:43]SAY: Molerat/ : Squeek!
+[04:00:43]SAY: Mutant/ : ARRRRR!
+[04:00:43]SAY: Molerat/ : Squeek
+[04:00:43]EMOTE: brahmin/ : <B>The brahmin</B> shakes its head.
+[04:00:43]SAY: Molerat/ : Squeek!
+[04:00:44]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:45]SAY: Molerat/ : Squeek
+[04:00:45]SAY: Molerat/ : Squeek!
+[04:00:45]SAY: Molerat/ : Squeek!
+[04:00:45]SAY: Molerat/ : Squeek
+[04:00:45]SAY: Molerat/ : Squeek, i say
+[04:00:45]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[04:00:45]SAY: Molerat/ : Squeek
+[04:00:47]SAY: Mutant/ : ARGH!
+[04:00:47]SAY: Molerat/ : Squeek, i say
+[04:00:47]SAY: Molerat/ : Squeek, i say
+[04:00:47]SAY: Molerat/ : Squeek
+[04:00:47]SAY: Mutant/ : HMPH!
+[04:00:47]SAY: Mutant/ : ARRRRR!
+[04:00:47]SAY: Molerat/ : Squeek!
+[04:00:47]SAY: Molerat/ : Squeek
+[04:00:47]SAY: Molerat/ : Squeek!
+[04:00:47]SAY: Molerat/ : Squeek
+[04:00:49]SAY: Molerat/ : Squeek!
+[04:00:49]SAY: Molerat/ : Squeek
+[04:00:49]SAY: Molerat/ : Squeek, i say
+[04:00:49]SAY: Molerat/ : Squeek
+[04:00:49]SAY: Molerat/ : Squeek!
+[04:00:50]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:51]SAY: Molerat/ : Squeek, i say
+[04:00:51]SAY: Molerat/ : Squeek!
+[04:00:51]SAY: Molerat/ : Squeek, i say
+[04:00:51]SAY: Molerat/ : Squeek, i say
+[04:00:51]SAY: Molerat/ : Squeek, i say
+[04:00:51]SAY: Molerat/ : Squeek
+[04:00:51]SAY: Molerat/ : Squeek!
+[04:00:51]EMOTE: giant rad scorpion (747)/ : <B>The giant rad scorpion (747)</B> chitters
+[04:00:51]SAY: Molerat/ : Squeek!
+[04:00:53]SAY: Mutant/ : ARGH!
+[04:00:53]SAY: Molerat/ : Squeek
+[04:00:53]SAY: Molerat/ : Squeek, i say
+[04:00:53]SAY: Mutant/ : NNNNNGH!
+[04:00:55]SAY: Molerat/ : Squeek
+[04:00:55]SAY: Molerat/ : Squeek, i say
+[04:00:56]SAY: Molerat/ : Squeek!
+[04:00:56]SAY: Molerat/ : Squeek
+[04:00:56]SAY: Molerat/ : Squeek
+[04:00:56]SAY: Molerat/ : Squeek!
+[04:00:56]SAY: Molerat/ : Squeek
+[04:00:56]SAY: Mutant/ : NNNNNGH!
+[04:00:56]SAY: Molerat/ : Squeek
+[04:00:56]SAY: Molerat/ : Squeek
+[04:00:56]SAY: Medibot/ : Radar, put a mask on!
+[04:00:56]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:00:58]SAY: Molerat/ : Squeek
+[04:00:58]SAY: Molerat/ : Squeek
+[04:00:58]SAY: Molerat/ : Squeek
+[04:00:58]SAY: Molerat/ : Squeek, i say
+[04:00:58]SAY: Molerat/ : Squeek
+[04:01:00]SAY: Molerat/ : Squeek, i say
+[04:01:00]SAY: Molerat/ : Squeek
+[04:01:00]SAY: Molerat/ : Squeek
+[04:01:00]SAY: Molerat/ : Squeek!
+[04:01:00]SAY: Molerat/ : Squeek!
+[04:01:00]SAY: Molerat/ : Squeek!
+[04:01:00]SAY: Molerat/ : Squeek
+[04:01:00]SAY: Mutant/ : ARGH!
+[04:01:00]SAY: Molerat/ : Squeek
+[04:01:00]SAY: Molerat/ : Squeek!
+[04:01:00]SAY: Molerat/ : Squeek!
+[04:01:00]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[04:01:00]SAY: Molerat/ : Squeek
+[04:01:02]SAY: Molerat/ : Squeek!
+[04:01:02]SAY: Molerat/ : Squeek
+[04:01:02]SAY: Molerat/ : Squeek
+[04:01:02]SAY: Molerat/ : Squeek!
+[04:01:02]SAY: Molerat/ : Squeek, i say
+[04:01:02]SAY: Molerat/ : Squeek
+[04:01:02]SAY: Molerat/ : Squeek
+[04:01:02]SAY: Mutant/ : GRRRRRR!
+[04:01:02]SAY: Molerat/ : Squeek!
+[04:01:02]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:01:04]SAY: Molerat/ : Squeek!
+[04:01:04]SAY: Molerat/ : Squeek!
+[04:01:04]SAY: Molerat/ : Squeek
+[04:01:04]SAY: Molerat/ : Squeek!
+[04:01:04]SAY: Molerat/ : Squeek!
+[04:01:04]SAY: Molerat/ : Squeek!
+[04:01:04]SAY: Molerat/ : Squeek
+[04:01:04]SAY: Mutant/ : ARRRRR!
+[04:01:04]SAY: Molerat/ : Squeek!
+[04:01:04]SAY: Molerat/ : Squeek
+[04:01:06]SAY: Molerat/ : Squeek!
+[04:01:06]SAY: Molerat/ : Squeek, i say
+[04:01:06]SAY: Molerat/ : Squeek, i say
+[04:01:06]SAY: Molerat/ : Squeek
+[04:01:06]SAY: Molerat/ : Squeek!
+[04:01:06]SAY: Molerat/ : Squeek
+[04:01:06]SAY: Molerat/ : Squeek
+[04:01:06]SAY: Mutant/ : GRRRRRR!
+[04:01:06]SAY: Molerat/ : Squeek, i say
+[04:01:06]SAY: Molerat/ : Squeek!
+[04:01:08]SAY: Molerat/ : Squeek
+[04:01:08]SAY: Molerat/ : Squeek
+[04:01:08]SAY: Molerat/ : Squeek!
+[04:01:08]SAY: Molerat/ : Squeek
+[04:01:08]SAY: Molerat/ : Squeek
+[04:01:08]SAY: Molerat/ : Squeek
+[04:01:10]SAY: Molerat/ : Squeek, i say
+[04:01:10]SAY: Molerat/ : Squeek
+[04:01:10]SAY: Mutant/ : GRRRRRR!
+[04:01:10]SAY: Molerat/ : Squeek!
+[04:01:11]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:01:12]SAY: Molerat/ : Squeek!
+[04:01:12]SAY: Molerat/ : Squeek, i say
+[04:01:12]SAY: Molerat/ : Squeek
+[04:01:12]SAY: Molerat/ : Squeek
+[04:01:12]SAY: Molerat/ : Squeek, i say
+[04:01:12]SAY: Mutant/ : ARGH!
+[04:01:12]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Molerat/ : Squeek!
+[04:01:14]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Molerat/ : Squeek!
+[04:01:14]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Molerat/ : Squeek
+[04:01:14]SAY: Mutant/ : GRRRRRR!
+[04:01:14]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like dead flies.
+[04:01:16]SAY: Molerat/ : Squeek!
+[04:01:16]SAY: Molerat/ : Squeek
+[04:01:16]SAY: Molerat/ : Squeek
+[04:01:16]SAY: Molerat/ : Squeek
+[04:01:16]SAY: Molerat/ : Squeek, i say
+[04:01:16]SAY: Molerat/ : Squeek!
+[04:01:16]SAY: Molerat/ : Squeek!
+[04:01:16]SAY: Mutant/ : HMPH!
+[04:01:16]SAY: Molerat/ : Squeek
+[04:01:16]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek, i say
+[04:01:18]SAY: Molerat/ : Squeek!
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek
+[04:01:18]SAY: Molerat/ : Squeek!
+[04:01:18]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[04:01:18]EMOTE: giant rad scorpion (532)/ : <B>The giant rad scorpion (532)</B> chitters
+[04:01:19]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:01:20]SAY: Molerat/ : Squeek
+[04:01:20]SAY: Molerat/ : Squeek!
+[04:01:20]SAY: Mutant/ : ARGH!
+[04:01:20]SAY: Molerat/ : Squeek!
+[04:01:20]SAY: Molerat/ : Squeek
+[04:01:20]SAY: Molerat/ : Squeek
+[04:01:20]SAY: Molerat/ : Squeek
+[04:01:20]SAY: Molerat/ : Squeek, i say
+[04:01:20]SAY: Molerat/ : Squeek
+[04:01:20]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Molerat/ : Squeek!
+[04:01:22]SAY: Molerat/ : Squeek!
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Mutant/ : HMPH!
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Mutant/ : ARGH!
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Mutant/ : GRRRRRR!
+[04:01:22]SAY: Molerat/ : Squeek
+[04:01:22]SAY: Molerat/ : Squeek, i say
+[04:01:22]EMOTE: giant rad scorpion (713)/ : <B>The giant rad scorpion (713)</B> chitters
+[04:01:22]SAY: Molerat/ : Squeek, i say
+[04:01:24]SAY: Mutant/ : HMPH!
+[04:01:24]SAY: Molerat/ : Squeek
+[04:01:24]SAY: Molerat/ : Squeek
+[04:01:24]SAY: Molerat/ : Squeek
+[04:01:24]SAY: Molerat/ : Squeek
+[04:01:24]SAY: Molerat/ : Squeek!
+[04:01:24]SAY: Molerat/ : Squeek
+[04:01:24]SAY: Molerat/ : Squeek!
+[04:01:25]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:01:26]SAY: Molerat/ : Squeek
+[04:01:26]SAY: Molerat/ : Squeek
+[04:01:26]SAY: Molerat/ : Squeek!
+[04:01:26]SAY: Molerat/ : Squeek, i say
+[04:01:26]SAY: Molerat/ : Squeek!
+[04:01:26]SAY: Molerat/ : Squeek
+[04:01:26]SAY: Molerat/ : Squeek!
+[04:01:26]SAY: Molerat/ : Squeek
+[04:01:26]SAY: Mutant/ : NNNNNGH!
+[04:01:26]SAY: Molerat/ : Squeek
+[04:01:26]SAY: Molerat/ : Squeek!
+[04:01:26]EMOTE: giant spider (961)/ : <B>The giant spider (961)</B> chitters
+[04:01:28]SAY: Molerat/ : Squeek, i say
+[04:01:28]SAY: Molerat/ : Squeek
+[04:01:28]SAY: Molerat/ : Squeek, i say
+[04:01:28]SAY: Molerat/ : Squeek
+[04:01:28]SAY: Mutant/ : ARGH!
+[04:01:28]SAY: Mutant/ : HMPH!
+[04:01:28]SAY: Molerat/ : Squeek
+[04:01:28]SAY: Molerat/ : Squeek
+[04:01:28]SAY: Molerat/ : Squeek
+[04:01:30]SAY: Molerat/ : Squeek
+[04:01:30]SAY: Molerat/ : Squeek, i say
+[04:01:30]SAY: Molerat/ : Squeek
+[04:01:30]SAY: Mutant/ : ARGH!
+[04:01:30]SAY: Molerat/ : Squeek
+[04:01:32]SAY: Molerat/ : Squeek!
+[04:01:32]SAY: Molerat/ : Squeek!
+[04:01:32]SAY: Molerat/ : Squeek
+[04:01:32]SAY: Molerat/ : Squeek
+[04:01:32]SAY: Molerat/ : Squeek!
+[04:01:32]SAY: Molerat/ : Squeek!
+[04:01:32]SAY: Molerat/ : Squeek
+[04:01:32]SAY: Molerat/ : Squeek, i say
+[04:01:32]SAY: Molerat/ : Squeek
+[04:01:32]SAY: Molerat/ : Squeek!
+[04:01:33]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:01:35]SAY: Molerat/ : Squeek!
+[04:01:35]SAY: Molerat/ : Squeek
+[04:01:35]SAY: Molerat/ : Squeek!
+[04:01:35]SAY: Molerat/ : Squeek
+[04:01:35]SAY: Molerat/ : Squeek
+[04:01:35]SAY: Molerat/ : Squeek!
+[04:01:35]SAY: Molerat/ : Squeek!
+[04:01:35]SAY: Molerat/ : Squeek!
+[04:01:35]SAY: Molerat/ : Squeek
+[04:01:35]SAY: Molerat/ : Squeek, i say
+[04:01:35]SAY: Molerat/ : Squeek
+[04:01:35]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek, i say
+[04:01:37]SAY: Mutant/ : GRRRRRR!
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Mutant/ : NNNNNGH!
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek
+[04:01:37]SAY: Molerat/ : Squeek!
+[04:01:39]SAY: Molerat/ : Squeek, i say
+[04:01:39]SAY: Mutant/ : NNNNNGH!
+[04:01:39]SAY: Molerat/ : Squeek!
+[04:01:39]SAY: Molerat/ : Squeek!
+[04:01:39]SAY: Molerat/ : Squeek
+[04:01:39]SAY: Molerat/ : Squeek, i say
+[04:01:39]SAY: Molerat/ : Squeek, i say
+[04:01:41]SAY: Molerat/ : Squeek
+[04:01:41]SAY: Molerat/ : Squeek!
+[04:01:41]SAY: Molerat/ : Squeek
+[04:01:41]SAY: Molerat/ : Squeek
+[04:01:41]SAY: Molerat/ : Squeek
+[04:01:41]SAY: Molerat/ : Squeek!
+[04:01:41]SAY: Molerat/ : Squeek!
+[04:01:41]SAY: Molerat/ : Squeek, i say
+[04:01:41]SAY: Molerat/ : Squeek
+[04:01:41]SAY: Molerat/ : Squeek
+[04:01:41]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:01:43]SAY: Molerat/ : Squeek
+[04:01:43]SAY: Molerat/ : Squeek, i say
+[04:01:43]SAY: Molerat/ : Squeek!
+[04:01:43]SAY: Molerat/ : Squeek, i say
+[04:01:43]SAY: Molerat/ : Squeek!
+[04:01:44]ACCESS: Logout: PahomLancer[DC]/(Griffin Whiteman)
+
+
+Starting up. 04:13.22
+---------------------
+Adding game mode abduction (abduction) to configuration.
+Adding game mode blob (blob) to configuration.
+Adding game mode changeling (changeling) to configuration.
+Adding game mode traitor+changeling (traitorchan) to configuration.
+Adding game mode double agents (double_agents) to configuration.
+Adding game mode traitor (traitor) to configuration.
+Adding game mode cult (cult) to configuration.
+Adding game mode extended (extended) to configuration.
+Adding game mode gang war (gang) to configuration.
+Adding game mode hand of god (handofgod) to configuration.
+Adding game mode AI malfunction (malfunction) to configuration.
+Adding game mode meteor (meteor) to configuration.
+Adding game mode monkey (monkey) to configuration.
+Adding game mode nuclear emergency (nuclear) to configuration.
+Adding game mode revolution (revolution) to configuration.
+Adding game mode sandbox (sandbox) to configuration.
+Adding game mode shadowling (shadowling) to configuration.
+Adding game mode very ragin' bullshit mages (veryraginbullshitmages) to configuration.
+Adding game mode ragin' mages (raginmages) to configuration.
+Adding game mode wizard (wizard) to configuration.
+Saved mode is 'extended'
+Failed to connect to database in load_admin_ranks(). Reverting to legacy system.
+Database connection failed. Reverting to the legacy ban system.
+[04:13:22]ADMIN: Loading appearance_rank
+[04:13:22]ADMIN: appearance_keylist was empty
+[04:13:22]ADMIN: Loading Banlist
+[04:14:01]ACCESS: Login: PahomLancer/(PahomLancer) from 127.0.0.1-357177658 || BYOND v510
+[04:14:06]GAME: SQL ERROR obtaining jobbans. Error : [not connected]
+
+[04:14:22]ADMIN: PahomLancer has started the game.
+[04:14:25]ACCESS: Logout: *no key*/(PahomLancer)
+[04:14:25]ACCESS: Login: PahomLancer/(Griffin Whiteman) from 127.0.0.1-357177658 || BYOND v510
+[04:14:28]SAY: Molerat/ : Squeek
+[04:14:28]SAY: Molerat/ : Squeek, i say
+[04:14:28]SAY: Molerat/ : Squeek
+[04:14:28]SAY: Mutant/ : HMPH!
+[04:14:28]SAY: Molerat/ : Squeek
+[04:14:28]SAY: Molerat/ : Squeek
+[04:14:28]SAY: Mutant/ : ARRRRR!
+[04:14:28]SAY: Molerat/ : Squeek!
+[04:14:28]SAY: Molerat/ : Squeek!
+[04:14:28]SAY: Medibot/ : I knew it, I should&#39;ve been a plastic surgeon.
+[04:14:28]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:14:30]SAY: Molerat/ : Squeek
+[04:14:30]SAY: Molerat/ : Squeek
+[04:14:30]SAY: Molerat/ : Squeek!
+[04:14:30]SAY: Molerat/ : Squeek!
+[04:14:30]SAY: Mutant/ : ARGH!
+[04:14:30]SAY: Molerat/ : Squeek!
+[04:14:30]SAY: Medibot/ : Radar, put a mask on!
+[04:14:32]SAY: Molerat/ : Squeek
+[04:14:32]SAY: Mutant/ : NNNNNGH!
+[04:14:32]SAY: Molerat/ : Squeek
+[04:14:32]SAY: Molerat/ : Squeek!
+[04:14:32]SAY: Mutant/ : ARRRRR!
+[04:14:32]SAY: Mutant/ : ARGH!
+[04:14:32]SAY: Molerat/ : Squeek
+[04:14:32]SAY: Mutant/ : ARRRRR!
+[04:14:34]SAY: Molerat/ : Squeek!
+[04:14:34]SAY: Mutant/ : ARGH!
+[04:14:34]SAY: Mutant/ : GRRRRRR!
+[04:14:34]SAY: Mutant/ : GRRRRRR!
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Molerat/ : Squeek
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Molerat/ : Squeek
+[04:14:37]SAY: Mutant/ : ARGH!
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Mutant/ : HMPH!
+[04:14:37]SAY: Mutant/ : ARRRRR!
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Mutant/ : ARRRRR!
+[04:14:37]SAY: Molerat/ : Squeek!
+[04:14:37]SAY: Mutant/ : NNNNNGH!
+[04:14:37]SAY: Molerat/ : Squeek
+[04:14:38]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:14:38]SAY: Molerat/ : Squeek!
+[04:14:38]SAY: Molerat/ : Squeek!
+[04:14:38]SAY: Mutant/ : ARGH!
+[04:14:38]SAY: Mutant/ : ARRRRR!
+[04:14:38]SAY: Molerat/ : Squeek
+[04:14:38]SAY: Molerat/ : Squeek
+[04:14:40]SAY: Molerat/ : Squeek
+[04:14:40]SAY: Molerat/ : Squeek!
+[04:14:40]SAY: Molerat/ : Squeek!
+[04:14:40]SAY: Molerat/ : Squeek!
+[04:14:40]SAY: Mutant/ : NNNNNGH!
+[04:14:40]SAY: Mutant/ : NNNNNGH!
+[04:14:40]SAY: Molerat/ : Squeek
+[04:14:40]SAY: Molerat/ : Squeek
+[04:14:40]SAY: Molerat/ : Squeek, i say
+[04:14:40]SAY: Molerat/ : Squeek
+[04:14:40]SAY: Molerat/ : Squeek
+[04:14:40]SAY: Molerat/ : Squeek
+[04:14:42]SAY: Molerat/ : Squeek!
+[04:14:42]SAY: Molerat/ : Squeek
+[04:14:42]SAY: Molerat/ : Squeek!
+[04:14:42]SAY: Molerat/ : Squeek
+[04:14:42]SAY: Mutant/ : NNNNNGH!
+[04:14:43]SAY: Molerat/ : Squeek!
+[04:14:43]SAY: Molerat/ : Squeek, i say
+[04:14:44]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:14:45]SAY: Molerat/ : Squeek!
+[04:14:45]SAY: Molerat/ : Squeek
+[04:14:45]SAY: Molerat/ : Squeek
+[04:14:45]SAY: Molerat/ : Squeek!
+[04:14:45]SAY: Molerat/ : Squeek
+[04:14:45]SAY: Molerat/ : Squeek
+[04:14:45]SAY: Mutant/ : NNNNNGH!
+[04:14:45]SAY: Molerat/ : Squeek!
+[04:14:47]SAY: Molerat/ : Squeek
+[04:14:47]SAY: Molerat/ : Squeek
+[04:14:47]SAY: Mutant/ : GRRRRRR!
+[04:14:47]SAY: Molerat/ : Squeek!
+[04:14:47]SAY: Mutant/ : ARGH!
+[04:14:47]SAY: Mutant/ : ARGH!
+[04:14:47]SAY: Molerat/ : Squeek
+[04:14:47]SAY: Molerat/ : Squeek, i say
+[04:14:49]SAY: Molerat/ : Squeek!
+[04:14:49]SAY: Molerat/ : Squeek
+[04:14:49]SAY: Mutant/ : GRRRRRR!
+[04:14:49]SAY: Molerat/ : Squeek!
+[04:14:49]SAY: Molerat/ : Squeek, i say
+[04:14:49]SAY: Mutant/ : ARGH!
+[04:14:49]SAY: Molerat/ : Squeek!
+[04:14:49]SAY: Mutant/ : ARGH!
+[04:14:49]SAY: Molerat/ : Squeek!
+[04:14:49]SAY: Molerat/ : Squeek
+[04:14:49]SAY: Molerat/ : Squeek, i say
+[04:14:51]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:14:51]SAY: Molerat/ : Squeek!
+[04:14:51]SAY: Molerat/ : Squeek
+[04:14:51]SAY: Molerat/ : Squeek!
+[04:14:51]SAY: Molerat/ : Squeek
+[04:14:51]SAY: Molerat/ : Squeek, i say
+[04:14:51]SAY: Molerat/ : Squeek!
+[04:14:51]SAY: Molerat/ : Squeek, i say
+[04:14:51]SAY: Molerat/ : Squeek!
+[04:14:51]SAY: Molerat/ : Squeek!
+[04:14:51]SAY: Molerat/ : Squeek
+[04:14:51]SAY: Molerat/ : Squeek, i say
+[04:14:51]ADMIN: PahomLancer/(Griffin Whiteman) jumped to 73,72,1 in Custodial Closet
+[04:14:53]SAY: Mutant/ : ARGH!
+[04:14:53]SAY: Molerat/ : Squeek
+[04:14:53]SAY: Molerat/ : Squeek
+[04:14:53]SAY: Molerat/ : Squeek
+[04:14:53]SAY: Molerat/ : Squeek
+[04:14:53]SAY: Molerat/ : Squeek!
+[04:14:53]SAY: Molerat/ : Squeek, i say
+[04:14:53]SAY: Molerat/ : Squeek!
+[04:14:55]SAY: Molerat/ : Squeek!
+[04:14:55]SAY: Molerat/ : Squeek
+[04:14:55]SAY: Mutant/ : HMPH!
+[04:14:55]SAY: Molerat/ : Squeek!
+[04:14:55]SAY: Molerat/ : Squeek!
+[04:14:55]SAY: Molerat/ : Squeek
+[04:14:55]SAY: Molerat/ : Squeek
+[04:14:55]SAY: Mutant/ : ARGH!
+[04:14:55]SAY: Mutant/ : ARRRRR!
+[04:14:55]SAY: Mutant/ : HMPH!
+[04:14:55]SAY: Molerat/ : Squeek
+[04:14:55]SAY: Mutant/ : NNNNNGH!
+[04:14:55]SAY: Molerat/ : Squeek!
+[04:14:55]SAY: Molerat/ : Squeek
+[04:14:55]SAY: Molerat/ : Squeek!
+[04:14:55]EMOTE: Default Cyborg-561/ : <B>Default Cyborg-561</B> shudders violently for a moment, then becomes motionless, its eyes slowly darkening.
+[04:14:57]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:14:57]SAY: Molerat/ : Squeek, i say
+[04:14:57]SAY: Molerat/ : Squeek
+[04:14:57]SAY: Molerat/ : Squeek
+[04:14:57]SAY: Molerat/ : Squeek
+[04:14:57]SAY: Mutant/ : HMPH!
+[04:14:57]SAY: Molerat/ : Squeek
+[04:14:57]SAY: Molerat/ : Squeek, i say
+[04:14:57]SAY: Mutant/ : ARGH!
+[04:14:57]SAY: Molerat/ : Squeek!
+[04:14:57]SAY: Molerat/ : Squeek
+[04:14:57]SAY: Molerat/ : Squeek
+[04:14:59]SAY: Molerat/ : Squeek!
+[04:14:59]SAY: Mutant/ : GRRRRRR!
+[04:14:59]SAY: Mutant/ : HMPH!
+[04:14:59]SAY: Mutant/ : ARGH!
+[04:14:59]SAY: Mutant/ : HMPH!
+[04:14:59]SAY: Molerat/ : Squeek
+[04:15:01]SAY: Molerat/ : Squeek!
+[04:15:02]SAY: Molerat/ : Squeek!
+[04:15:02]SAY: Molerat/ : Squeek
+[04:15:02]SAY: Molerat/ : Squeek
+[04:15:02]SAY: Molerat/ : Squeek, i say
+[04:15:02]SAY: Molerat/ : Squeek!
+[04:15:02]SAY: Molerat/ : Squeek
+[04:15:02]SAY: Mutant/ : GRRRRRR!
+[04:15:02]SAY: Molerat/ : Squeek!
+[04:15:02]SAY: Medibot/ : Radar, put a mask on!
+[04:15:03]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:15:04]SAY: Molerat/ : Squeek!
+[04:15:04]SAY: Molerat/ : Squeek
+[04:15:04]SAY: Molerat/ : Squeek!
+[04:15:04]SAY: Molerat/ : Squeek
+[04:15:04]SAY: Mutant/ : HMPH!
+[04:15:04]SAY: Molerat/ : Squeek, i say
+[04:15:04]SAY: Molerat/ : Squeek!
+[04:15:04]SAY: Molerat/ : Squeek!
+[04:15:06]SAY: Molerat/ : Squeek, i say
+[04:15:06]SAY: Molerat/ : Squeek!
+[04:15:06]SAY: Mutant/ : ARGH!
+[04:15:06]SAY: Mutant/ : ARRRRR!
+[04:15:06]SAY: Molerat/ : Squeek
+[04:15:06]SAY: Mutant/ : HMPH!
+[04:15:06]SAY: Molerat/ : Squeek
+[04:15:06]SAY: brahmin/ : MOOOOOO
+[04:15:06]EMOTE: giant rad scorpion (332)/ : <B>The giant rad scorpion (332)</B> chitters
+[04:15:06]SAY: Medibot/ : What kind of medbay is this? Everyone&#39;s dropping like dead flies.
+[04:15:08]SAY: Molerat/ : Squeek!
+[04:15:08]SAY: Molerat/ : Squeek!
+[04:15:08]SAY: Molerat/ : Squeek!
+[04:15:08]SAY: Molerat/ : Squeek
+[04:15:08]SAY: Molerat/ : Squeek
+[04:15:08]SAY: Mutant/ : HMPH!
+[04:15:08]SAY: Molerat/ : Squeek
+[04:15:08]SAY: Mutant/ : HMPH!
+[04:15:08]SAY: Mutant/ : NNNNNGH!
+[04:15:10]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:15:10]SAY: Molerat/ : Squeek!
+[04:15:10]SAY: Molerat/ : Squeek!
+[04:15:10]SAY: Molerat/ : Squeek!
+[04:15:10]SAY: Molerat/ : Squeek!
+[04:15:12]SAY: Molerat/ : Squeek, i say
+[04:15:12]SAY: Mutant/ : NNNNNGH!
+[04:15:12]SAY: Molerat/ : Squeek
+[04:15:12]SAY: Molerat/ : Squeek!
+[04:15:14]SAY: Molerat/ : Squeek
+[04:15:14]SAY: Molerat/ : Squeek!
+[04:15:14]SAY: Molerat/ : Squeek
+[04:15:14]SAY: Mutant/ : HMPH!
+[04:15:14]SAY: Molerat/ : Squeek
+[04:15:14]SAY: Mutant/ : HMPH!
+[04:15:14]SAY: Mutant/ : GRRRRRR!
+[04:15:14]SAY: Molerat/ : Squeek
+[04:15:16]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:15:16]SAY: Molerat/ : Squeek, i say
+[04:15:16]SAY: Molerat/ : Squeek, i say
+[04:15:16]SAY: Molerat/ : Squeek!
+[04:15:16]SAY: Molerat/ : Squeek
+[04:15:16]SAY: Molerat/ : Squeek
+[04:15:16]SAY: Molerat/ : Squeek
+[04:15:16]SAY: Molerat/ : Squeek
+[04:15:16]SAY: Mutant/ : ARGH!
+[04:15:16]SAY: Molerat/ : Squeek
+[04:15:16]SAY: Molerat/ : Squeek
+[04:15:18]SAY: Molerat/ : Squeek!
+[04:15:18]SAY: Mutant/ : HMPH!
+[04:15:18]SAY: Molerat/ : Squeek
+[04:15:18]SAY: Molerat/ : Squeek
+[04:15:18]SAY: Mutant/ : GRRRRRR!
+[04:15:18]SAY: Molerat/ : Squeek!
+[04:15:18]SAY: Molerat/ : Squeek
+[04:15:18]SAY: Molerat/ : Squeek!
+[04:15:20]SAY: Molerat/ : Squeek
+[04:15:20]SAY: Molerat/ : Squeek!
+[04:15:20]SAY: Molerat/ : Squeek
+[04:15:20]SAY: Molerat/ : Squeek
+[04:15:20]SAY: Molerat/ : Squeek!
+[04:15:20]SAY: Molerat/ : Squeek!
+[04:15:20]SAY: Molerat/ : Squeek!
+[04:15:20]SAY: Molerat/ : Squeek
+[04:15:20]SAY: Mutant/ : GRRRRRR!
+[04:15:20]SAY: Mutant/ : NNNNNGH!
+[04:15:20]SAY: Molerat/ : Squeek!
+[04:15:22]SAY: Molerat/ : Squeek!
+[04:15:22]SAY: Molerat/ : Squeek
+[04:15:22]SAY: Molerat/ : Squeek
+[04:15:22]SAY: Molerat/ : Squeek!
+[04:15:22]SAY: Molerat/ : Squeek!
+[04:15:22]SAY: Mutant/ : ARGH!
+[04:15:22]SAY: Molerat/ : Squeek
+[04:15:22]SAY: Molerat/ : Squeek!
+[04:15:23]SAY: Molerat/ : Squeek!
+[04:15:23]SAY: Molerat/ : Squeek!
+[04:15:24]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:15:24]SAY: Molerat/ : Squeek!
+[04:15:24]SAY: Molerat/ : Squeek
+[04:15:24]SAY: Molerat/ : Squeek
+[04:15:24]SAY: Molerat/ : Squeek!
+[04:15:25]SAY: Molerat/ : Squeek
+[04:15:25]SAY: Molerat/ : Squeek, i say
+[04:15:25]SAY: Molerat/ : Squeek
+[04:15:25]SAY: Molerat/ : Squeek
+[04:15:25]SAY: Mutant/ : ARGH!
+[04:15:25]SAY: Molerat/ : Squeek
+[04:15:25]SAY: Mutant/ : NNNNNGH!
+[04:15:25]SAY: Molerat/ : Squeek, i say
+[04:15:25]SAY: Molerat/ : Squeek
+[04:15:25]SAY: Molerat/ : Squeek
+[04:15:25]SAY: Molerat/ : Squeek!
+[04:15:26]SAY: Molerat/ : Squeek
+[04:15:26]SAY: Molerat/ : Squeek!
+[04:15:26]SAY: Molerat/ : Squeek
+[04:15:26]SAY: Molerat/ : Squeek
+[04:15:26]SAY: Molerat/ : Squeek, i say
+[04:15:26]SAY: Molerat/ : Squeek
+[04:15:26]SAY: Molerat/ : Squeek!
+[04:15:26]SAY: Molerat/ : Squeek!
+[04:15:26]SAY: Molerat/ : Squeek!
+[04:15:26]SAY: Molerat/ : Squeek!
+[04:15:28]SAY: Mutant/ : ARRRRR!
+[04:15:28]SAY: Mutant/ : ARRRRR!
+[04:15:28]SAY: Molerat/ : Squeek!
+[04:15:28]SAY: Molerat/ : Squeek
+[04:15:28]SAY: Molerat/ : Squeek!
+[04:15:28]SAY: Molerat/ : Squeek
+[04:15:28]SAY: Mutant/ : NNNNNGH!
+[04:15:28]SAY: Molerat/ : Squeek!
+[04:15:28]SAY: Molerat/ : Squeek!
+[04:15:31]SAY: Molerat/ : Squeek!
+[04:15:31]SAY: Molerat/ : Squeek!
+[04:15:31]SAY: Molerat/ : Squeek
+[04:15:31]SAY: Mutant/ : ARRRRR!
+[04:15:31]SAY: Molerat/ : Squeek
+[04:15:31]SAY: Molerat/ : Squeek, i say
+[04:15:31]SAY: Mutant/ : ARRRRR!
+[04:15:31]SAY: Molerat/ : Squeek!
+[04:15:31]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:15:33]SAY: Molerat/ : Squeek
+[04:15:33]SAY: Molerat/ : Squeek, i say
+[04:15:33]SAY: Molerat/ : Squeek
+[04:15:33]SAY: Mutant/ : HMPH!
+[04:15:33]SAY: Molerat/ : Squeek
+[04:15:33]SAY: Molerat/ : Squeek
+[04:15:33]SAY: Molerat/ : Squeek!
+[04:15:33]SAY: Molerat/ : Squeek!
+[04:15:33]SAY: Mutant/ : GRRRRRR!
+[04:15:33]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Mutant/ : NNNNNGH!
+[04:15:35]SAY: Molerat/ : Squeek
+[04:15:35]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Molerat/ : Squeek!
+[04:15:35]SAY: Molerat/ : Squeek, i say
+[04:15:35]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek, i say
+[04:15:37]SAY: Molerat/ : Squeek!
+[04:15:37]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek!
+[04:15:37]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek
+[04:15:37]SAY: Molerat/ : Squeek, i say
+[04:15:37]GAME: Radiation pulse with size (1, 4) and severity 40 in area Custodial Closet 
+[04:15:39]SAY: Molerat/ : Squeek!
+[04:15:39]SAY: Molerat/ : Squeek
+[04:15:39]SAY: Molerat/ : Squeek!
+[04:15:39]SAY: Mutant/ : NNNNNGH!
+[04:15:39]SAY: Mutant/ : HMPH!
+[04:15:39]SAY: Molerat/ : Squeek!
+[04:15:39]EMOTE: rad scorpion (767)/ : <B>The rad scorpion (767)</B> chitters
+[04:15:39]SAY: Molerat/ : Squeek
+[04:15:41]ACCESS: Logout: PahomLancer[DC]/(Griffin Whiteman)

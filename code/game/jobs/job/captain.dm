@@ -60,6 +60,7 @@ Captain
 /*
 Head of Personnel
 */
+/*
 /datum/job/hop
 	title = "Head of Personnel"
 	flag = HOP
@@ -108,3 +109,5 @@ Head of Personnel
 		return
 
 	announce_head(H, list("Supply", "Service"))
+
+*/

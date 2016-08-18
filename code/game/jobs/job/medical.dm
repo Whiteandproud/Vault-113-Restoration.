@@ -57,10 +57,10 @@ Medical Doctor
 	department_head = list("Chief Medical Officer")
 	department_flag = MEDSCI
 	faction = "Station"
-	total_positions = 5
-	spawn_positions = 3
+	total_positions = 6
+	spawn_positions = 6
 	supervisors = "the chief medical officer"
-	selection_color = "#ffeef0"
+	selection_color = "#ccccff"
 
 	outfit = /datum/outfit/job/doctor
 
@@ -84,6 +84,7 @@ Medical Doctor
 /*
 Chemist
 */
+/*
 /datum/job/chemist
 	title = "Chemist"
 	flag = CHEMIST
@@ -110,6 +111,7 @@ Chemist
 	//shoes = /obj/item/clothing/shoes/sneakers/white
 	suit =  /obj/item/clothing/suit/toggle/labcoat/chemist
 
+*/
 /*
 Geneticist
 */

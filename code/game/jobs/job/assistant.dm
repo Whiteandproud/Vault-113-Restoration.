@@ -2,14 +2,14 @@
 Assistant
 */
 /datum/job/assistant
-	title = "Assistant"
+	title = "Vault dweller"
 	flag = ASSISTANT
 	department_flag = CIVILIAN
 	faction = "Station"
 	total_positions = -1
 	spawn_positions = -1
 	supervisors = "absolutely everyone"
-	selection_color = "#dddddd"
+	selection_color = "#ccccff"
 	access = list()			//See /datum/job/assistant/get_access()
 	minimal_access = list()	//See /datum/job/assistant/get_access()
 	outfit = /datum/outfit/job/assistant
@@ -30,7 +30,7 @@ Assistant
 
 
 /datum/outfit/job/assistant
-	name = "Assistant"
+	name = "Vault dweller"
 
 /datum/outfit/job/assistant/pre_equip(mob/living/carbon/human/H)
 	..()
