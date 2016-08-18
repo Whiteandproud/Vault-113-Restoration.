@@ -84,7 +84,7 @@
 /obj/structure/flora/grass/wasteland/New()
 	..()
 	icon = 'icons/obj/flora/wasteland.dmi'
-	icon_state = "tall_grass_[rand(1, 4)]"
+	icon_state = "tall_grass_[rand(1, 12)]"
 
 //glowshroom
 /obj/structure/flora/mushroom/New()
@@ -97,10 +97,11 @@
 //glowshroom
 /obj/structure/flora/cactus/New()
 	..()
+	anchored = 1
 	density = 1
 	name = "cactus"
 	icon = 'icons/obj/flora/wasteland.dmi'
-	icon_state = "barrel_cactus_fruit"
+	icon_state = "cactus_[rand(1, 4)]"
 
 //bushes
 /obj/structure/flora/bush
