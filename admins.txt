@@ -17,3 +17,4 @@ Saeptua = Elder
 Adhesive = Sentinel
 DreadedReborn = Sentinel
 AncientV25 = Sentinel
+Dyne667 = Sentinel
