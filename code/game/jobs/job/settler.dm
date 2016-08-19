@@ -39,7 +39,8 @@ Settler
 		back = /obj/item/weapon/storage/backpack
 		backpack = /obj/item/weapon/storage/backpack
 		satchel = /obj/item/weapon/storage/backpack/satchel_norm
-		backpack_contents = pick(list(/obj/item/device/analyzer/plant_analyzer = 1), \
-			list(/obj/item/stack/cable_coil = 1), \
-			list(/obj/item/stack/sheet/mineral/wood = 1), \
-			list(/obj/item/stack/sheet/mineral/sandstone = 1))
+		backpack_contents = list(/obj/item/device/analyzer/plant_analyzer = 1, \
+			/obj/item/stack/cable_coil = 1, \
+			/obj/item/stack/sheet/mineral/wood = 5, \
+			/obj/item/stack/sheet/mineral/sandstone = 5, \
+			/obj/item/weapon/reagent_containers/food/drinks/flask/survival=1)

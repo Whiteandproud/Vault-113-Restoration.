@@ -33,6 +33,7 @@ Wastelandmedic
 	backpack_contents = list(/obj/item/weapon/reagent_containers/pill/patch/stimpak=3, \
 	/obj/item/weapon/reagent_containers/pill/patch/radaway=2, \
 	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/weapon/reagent_containers/food/drinks/flask/survival=1, \
 	/obj/item/stack/coin/coins = 1)
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses

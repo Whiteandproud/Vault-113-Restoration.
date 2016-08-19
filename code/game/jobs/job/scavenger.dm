@@ -42,5 +42,6 @@ Scavenger
 	backpack_contents = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola = 2,\
 		/obj/item/weapon/reagent_containers/food/snacks/beans = 2,\
 		/obj/item/weapon/storage/wallet=1, \
+		/obj/item/weapon/reagent_containers/food/drinks/flask/survival=1, \
 		/obj/item/stack/coin/bag = 1)
 

@@ -222,6 +222,14 @@
 	materials = list(MAT_SILVER=500)
 	volume = 60
 
+/obj/item/weapon/reagent_containers/food/drinks/flask/survival
+	name = "metal flask"
+	desc = "A metal flask with water, useful in waste's."
+	icon_state = "flask"
+	materials = list(MAT_SILVER=500)
+	volume = 60
+	list_reagents = list("water" = 30, "silver_sulfadiazine" = 20, "charcoal" = 10)
+
 /obj/item/weapon/reagent_containers/food/drinks/flask/det
 	name = "detective's flask"
 	desc = "The detective's only true friend."

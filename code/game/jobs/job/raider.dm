@@ -31,10 +31,10 @@ Raider
 		/obj/item/clothing/suit/armor/f13/bmetalarmor,\
 		/obj/item/clothing/suit/armor/f13/yankee)
 	head = /obj/item/clothing/head/helmet/f13/supaflyhelmet
-	suit_store = /obj/item/weapon/gun/projectile/revolver/doublebarrel/improvised
 	backpack_contents = list(/obj/item/weapon/restraints/handcuffs=1,\
 	/obj/item/weapon/pipe=1, \
 	/obj/item/weapon/storage/wallet=1, \
+	/obj/item/weapon/reagent_containers/food/drinks/flask/survival=1, \
 	/obj/item/stack/coin/coins = 2)
 	ears = /obj/item/clothing/ears/raider_mark
 	back = /obj/item/weapon/storage/backpack
@@ -42,5 +42,3 @@ Raider
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses
-	if (prob(80))
-		l_hand = pick(/obj/item/weapon/hatchet)

@@ -53,7 +53,7 @@
 	list_reagents = list("styptic_powder" = 60, "silver_sulfadiazine" = 60)
 	icon = 'icons/obj/syringe.dmi'
 	item_state = "syringe_15"
-	icon_state = "superstim"
+	icon_state = "superstim_15"
 
 
 /obj/item/weapon/reagent_containers/pill/patch/radaway

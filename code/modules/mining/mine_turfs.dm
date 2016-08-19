@@ -529,6 +529,17 @@ var/global/list/rockTurfEdgeCache
 /turf/simulated/floor/plating/asteroid/snow/airless
 	//temperature = TCMB
 
+/turf/simulated/floor/plating/asteroid/desert
+	name = "desert"
+	desc = "Looks hot."
+	icon = 'icons/turf/floors.dmi'
+	baseturf = /turf/simulated/floor/plating/asteroid/desert
+	icon_state = "wasteland27"
+	icon_plating = "wasteland27"
+	temperature = 370
+	slowdown = 2
+	environment_type = "desert"
+
 /turf/simulated/floor/plating/asteroid/New()
 	var/proper_name = name
 	..()
