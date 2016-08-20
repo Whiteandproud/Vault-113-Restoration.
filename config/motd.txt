@@ -2,8 +2,7 @@
 
 <h1>Welcome to Fallout 13</h1>
 
-<i><b>The development is on early Alpha stage, so don't expect the full size wasteland or lots of other post-nuclear miracles you dream of.
-More info at our <a href="http://forum.ss13.ru/index.php?showtopic=15015&st=0">devblog</a> and <a href="http://forum.ss13.ru/index.php?showtopic=15035">site</a></b></i> .
+<i><b>The development is on early Alpha stage, so don't expect the full size wasteland or lots of other post-nuclear miracles you dream of.</a></b></i>
 
-<i>The server is running a <a href="https://github.com/PahomLancer/Vault-113-Restoration.">Fallout 13 Git build</a>, based off /tg/ Station 13.</i>
+<i>The server is running a <a href="https://github.com/Whiteandproud/Vault-113-Restoration.">Modified Fallout 13 Git build</a>, based off /tg/ Station 13.</i>
 <i>Enjoy the results of our work, and be sure to support us.</i>
