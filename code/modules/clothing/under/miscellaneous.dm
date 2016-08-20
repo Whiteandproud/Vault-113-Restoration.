@@ -293,7 +293,7 @@
 	item_state = "gladiator"
 	item_color = "gladiator"
 	body_parts_covered = CHEST|GROIN|ARMS
-	fitted = NO_FEMALE_UNIFORM
+	armor = list(melee = 20, bullet = 5, laser = 5, energy = 5, bomb = 5, bio = 0, rad = 0)
 	can_adjust = 0
 	burn_state = FIRE_PROOF
 

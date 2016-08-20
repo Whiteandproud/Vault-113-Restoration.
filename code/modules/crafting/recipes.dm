@@ -39,6 +39,57 @@
 	time = 30
 	category = CAT_WEAPON
 
+/datum/table_recipe/leatherarmor
+	name = "leather armor"
+	result = /obj/item/clothing/suit/armor/f13/leatherarmor
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 3,
+				/obj/item/stack/cable_coil = 5)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+/datum/table_recipe/metalarmor
+	name = "metal armor"
+	result = /obj/item/clothing/suit/armor/f13/bmetalarmor
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
+				/obj/item/stack/cable_coil = 5,
+				/obj/item/stack/sheet/metal = 5)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+/datum/table_recipe/Imetalarmor
+	name = "improved metal armor"
+	result = /obj/item/clothing/suit/armor/f13/ibmetalarmor
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
+				/obj/item/stack/cable_coil = 5,
+				/obj/item/stack/sheet/metal = 4,
+				/obj/item/stack/sheet/plasteel = 2)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+/datum/table_recipe/IImetalarmor
+	name = "upgrading metal armor"
+	result = /obj/item/clothing/suit/armor/f13/ibmetalarmor
+	reqs = list(/obj/item/clothing/suit/armor/f13/bmetalarmor = 1,
+				/obj/item/stack/cable_coil = 1,
+				/obj/item/stack/sheet/plasteel = 2)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+	/datum/table_recipe/gladiator
+	name = "gladiator clothing"
+	result = /obj/item/clothing/under/gladiator
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
+				/obj/item/stack/cable_coil = 6,
+				/obj/item/stack/sheet/metal = 2)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+
 /datum/table_recipe/lance2
 	name = "explosive lance (C4)"
 	result = /obj/item/weapon/twohanded/spear
@@ -104,7 +155,7 @@
 				/obj/item/stack/sheet/metal = 4)
 	time = 30
 	category= CAT_WEAPON
-/*
+
 /datum/table_recipe/ed209
 	name = "ED209"
 	result = /mob/living/simple_animal/bot/ed209
@@ -134,7 +185,7 @@
 	tools = list(/obj/item/weapon/weldingtool)
 	time = 60
 	category = CAT_ROBOT
-*/
+
 /datum/table_recipe/cleanbot
 	name = "Cleanbot"
 	result = /mob/living/simple_animal/bot/cleanbot
@@ -143,7 +194,7 @@
 				/obj/item/robot_parts/r_arm = 1)
 	time = 40
 	category = CAT_ROBOT
-/*
+
 /datum/table_recipe/floorbot
 	name = "Floorbot"
 	result = /mob/living/simple_animal/bot/floorbot
@@ -153,7 +204,7 @@
 				/obj/item/robot_parts/r_arm = 1)
 	time = 50
 	category = CAT_ROBOT
-*/
+
 /datum/table_recipe/medbot
 	name = "Medbot"
 	result = /mob/living/simple_animal/bot/medbot
@@ -163,7 +214,7 @@
 				/obj/item/robot_parts/r_arm = 1)
 	time = 80
 	category = CAT_ROBOT
-/*
+
 /datum/table_recipe/flamethrower
 	name = "Flamethrower"
 	result = /obj/item/weapon/flamethrower
@@ -175,7 +226,6 @@
 	tools = list(/obj/item/weapon/screwdriver)
 	time = 20
 	category = CAT_WEAPON
-*/
 /*
 /datum/table_recipe/meteorshot
 	name = "Meteorshot Shell"
@@ -325,59 +375,6 @@
 	parts = list(/obj/item/device/camera = 1)
 	category = CAT_MISC
 */
-
-/datum/table_recipe/leatherarmor
-	name = "leather armor"
-	result = /obj/item/clothing/suit/armor/f13/leatherarmor
-	reqs = list(/obj/item/stack/sheet/gekkonhide = 3,
-				/obj/item/stack/cable_coil = 5)
-	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
-	time = 120
-	category = CAT_ARMOR
-
-/datum/table_recipe/leatherhat
-	name = "leather hat"
-	result = /obj/item/clothing/head/lizard
-	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
-				/obj/item/stack/cable_coil = 2)
-	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
-	time = 40
-	category = CAT_ARMOR
-
-/datum/table_recipe/gauze
-	name = "Medical gauze"
-	result = /obj/item/stack/medical/gauze
-	reqs = list(/obj/item/clothing/under = 1)
-	time = 20
-	category = CAT_MED
-
-/datum/table_recipe/healpowder
-	name = "Healing powder"
-	result = /obj/item/weapon/reagent_containers/pill/patch/healpowder
-	reqs = list(/obj/item/weapon/reagent_containers/food/snacks/grown/broc = 1,
-				/obj/item/weapon/reagent_containers/food/snacks/grown/xander = 1)
-	time = 20
-	category = CAT_MED
-
-/datum/table_recipe/stimpak
-	name = "Stimpak"
-	result = /obj/item/weapon/reagent_containers/pill/patch/stimpak
-	reqs = list(/obj/item/weapon/reagent_containers/pill/patch/healpowder = 1,
-				/obj/item/weapon/reagent_containers/food/drinks/nukacola = 1)
-	tools = list(/obj/item/weapon/lighter, /obj/item/weapon/reagent_containers/glass/beaker)
-	time = 60
-	category = CAT_MED
-
-/datum/table_recipe/superstimpak
-	name = "Super Stimpak"
-	result = /obj/item/weapon/reagent_containers/pill/patch/supstimpak
-	reqs = list(/obj/item/weapon/reagent_containers/pill/patch/stimpak = 1,
-				/obj/item/stack/sheet/gekkonhide = 1,
-				/obj/item/stack/cable_coil = 5)
-	tools = list(/obj/item/weapon/lighter, /obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
-	time = 90
-	category = CAT_MED
-
 /datum/table_recipe/lizardhat
 	name = "Lizard Cloche Hat"
 	result = /obj/item/clothing/head/lizard
