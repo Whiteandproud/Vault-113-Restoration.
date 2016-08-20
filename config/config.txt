@@ -1,11 +1,11 @@
 ## Server name: This appears at the top of the screen in-game. Remove the # infront of SERVERNAME and replace 'tgstation' with the name of your choice
-#SERVERNAME Fallout 13
+#SERVERNAME First International Fallout 13 PahomLancer-edition
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-#STATIONNAME Wasteland
+#STATIONNAME Texas Wasteland
 
 # Lobby time: This is the amount of time between rounds that players have to setup their characters and be ready.
-LOBBY_COUNTDOWN 120
+LOBBY_COUNTDOWN 160
 
 # Round End Time: This is the amount of time after the round ends that players have to murder death kill each other.
 ROUND_END_COUNTDOWN 60
@@ -87,7 +87,7 @@ VOTE_PERIOD 600
 # DEFAULT_NO_VOTE
 
 ## disable abandon mob
-NORESPAWN
+#NORESPAWN
 
 ## disables calling del(src) on newmobs if they logout before spawnin in
 # DONT_DEL_NEWMOB
@@ -119,16 +119,16 @@ GUEST_BAN
 # SERVER ss13.example.com:2506
 
 ## forum address
-# FORUMURL http://wasteland.expert
+# FORUMURL http://www.fallss.esy.es/
 
 ## Wiki address
-# WIKIURL https://www.reddit.com/r/Fallout13/
+# WIKIURL http://www.fallss.esy.es/wiki/doku.php?id=start
 
 ##Rules address
-# RULESURL https://www.reddit.com/r/Fallout13/
+# RULESURL https://discordapp.com/channels/208155759698116608/208157701404884993
 
 ##Github address
-# GITHUBURL https://github.com/BartNixon/Fallout13
+# GITHUBURL https://github.com/PahomLancer/Vault-113-Restoration.
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
 # BANAPPEALS http://justanotherday.example.com

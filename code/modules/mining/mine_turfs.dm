@@ -529,6 +529,28 @@ var/global/list/rockTurfEdgeCache
 /turf/simulated/floor/plating/asteroid/snow/airless
 	//temperature = TCMB
 
+/turf/simulated/floor/plating/asteroid/desert
+	name = "desert"
+	desc = "Looks hot."
+	icon = 'icons/turf/floors3.dmi'
+	baseturf = /turf/simulated/floor/plating/asteroid/desert
+	icon_state = "desert"
+	icon_plating = "desert"
+	//temperature = 370
+	slowdown = 2
+	environment_type = "desert"
+
+/turf/simulated/floor/plating/asteroid/mountain
+	name = "mountain"
+	desc = "It's rocky floor."
+	icon = 'icons/turf/floors2.dmi'
+	baseturf = /turf/simulated/floor/plating/asteroid/mountain
+	icon_state = "mountain"
+	icon_plating = "mountain"
+	//temperature = 370
+	slowdown = 1
+	environment_type = "mountain"
+
 /turf/simulated/floor/plating/asteroid/New()
 	var/proper_name = name
 	..()
