@@ -70,6 +70,8 @@
 	..()
 
 /obj/item/weapon/gun/energy/can_shoot()
+	if(!power_supply)
+		return 0
 	var/obj/item/ammo_casing/energy/shot = ammo_type[select]
 	return power_supply.charge >= shot.e_cost
 
@@ -83,6 +85,8 @@
 	return
 
 /obj/item/weapon/gun/energy/process_chamber()
+	if(!power_supply)
+		return
 	if(chambered && !chambered.BB) //if BB is null, i.e the shot has been fired...
 		var/obj/item/ammo_casing/energy/shot = chambered
 		power_supply.use(shot.e_cost)//... drain the power_supply cell
@@ -103,7 +107,7 @@
 
 /obj/item/weapon/gun/energy/update_icon()
 	overlays.Cut()
-	var/ratio = Ceiling((power_supply.charge / power_supply.maxcharge) * 4)
+	var/ratio = (power_supply) ? Ceiling((power_supply.charge / power_supply.maxcharge) * 4) : 0
 	var/obj/item/ammo_casing/energy/shot = ammo_type[select]
 	var/iconState = "[icon_state]_charge"
 	var/itemState = null
@@ -114,7 +118,9 @@
 		iconState += "_[shot.select_name]"
 		if(itemState)
 			itemState += "[shot.select_name]"
-	if(power_supply.charge < shot.e_cost)
+	if(!power_supply)
+		overlays += "[icon_state]_empty"
+	else if(power_supply.charge < shot.e_cost)
 		overlays += "[icon_state]_empty"
 	else
 		if(!shaded_charge)
@@ -154,6 +160,8 @@
 		return (OXYLOSS)
 
 /obj/item/weapon/gun/energy/proc/robocharge()
+	if(!power_supply)
+		return
 	if(isrobot(src.loc))
 		var/mob/living/silicon/robot/R = src.loc
 		if(R && R.cell)
