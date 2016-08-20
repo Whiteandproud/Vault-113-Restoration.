@@ -344,6 +344,47 @@
 	time = 40
 	category = CAT_ARMOR
 
+/datum/table_recipe/metalarmor
+	name = "metal armor"
+	result = /obj/item/clothing/suit/armor/f13/bmetalarmor
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
+				/obj/item/stack/cable_coil = 5,
+				/obj/item/stack/sheet/metal = 5)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+/datum/table_recipe/Imetalarmor
+	name = "improved metal armor"
+	result = /obj/item/clothing/suit/armor/f13/ibmetalarmor
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
+				/obj/item/stack/cable_coil = 5,
+				/obj/item/stack/sheet/metal = 4,
+				/obj/item/stack/sheet/plasteel = 2)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+/datum/table_recipe/IImetalarmor
+	name = "upgrading metal armor"
+	result = /obj/item/clothing/suit/armor/f13/ibmetalarmor
+	reqs = list(/obj/item/clothing/suit/armor/f13/bmetalarmor = 1,
+				/obj/item/stack/cable_coil = 1,
+				/obj/item/stack/sheet/plasteel = 2)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
+/datum/table_recipe/gladiator
+	name = "gladiator clothing"
+	result = /obj/item/clothing/under/gladiator
+	reqs = list(/obj/item/stack/sheet/gekkonhide = 1,
+				/obj/item/stack/cable_coil = 6,
+				/obj/item/stack/sheet/metal = 2)
+	tools = list(/obj/item/weapon/screwdriver, /obj/item/weapon/wirecutters)
+	time = 120
+	category = CAT_ARMOR
+
 /datum/table_recipe/gauze
 	name = "Medical gauze"
 	result = /obj/item/stack/medical/gauze

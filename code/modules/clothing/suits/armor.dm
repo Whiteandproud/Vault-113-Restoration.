@@ -400,6 +400,18 @@
 	put_on_delay = 60
 	strip_delay = 60
 
+/obj/item/clothing/suit/armor/f13/ibmetalarmor
+	name = "metal armor mark 1"
+	desc = "A set of improved metal armor made from various bits of scrap metal and upgraded with plasteel. Will protect against bullets and dissipate lasers a bit better, still slowing you"
+	icon_state = "bmetalarmor"
+	item_state = "bmetalarmor"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
+	armor = list(melee = 60, bullet = 40, laser = 25, energy = 20, bomb = 20, bio = 0, rad = 5)
+	slowdown = 0.5
+	flags_inv = HIDEJUMPSUIT
+	put_on_delay = 60
+	strip_delay = 60
+
 /obj/item/clothing/suit/armor/f13/legrecruit
 	name = "legion recruit armor"
 	desc = "Legion recruit armor is a common light armor, supplied to recruit legionaries and to recruit decanus units. Like most Legion armor, it is made from repurposed sports equipment, consisting of a football player's protective shoulder and chest pads reinforced with additional leather padding and worn over a baseball catcher's vest."
@@ -467,7 +479,7 @@
 	item_state = "t45bpowerarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
 	armor = list(melee = 70, bullet = 50, laser = 50, energy = 50, bomb = 50, bio = 100, rad = 80)
-	slowdown = 3
+	slowdown = 2
 	flags_inv = HIDEJUMPSUIT
 	put_on_delay = 100
 	strip_delay = 100
@@ -479,7 +491,7 @@
 	item_state = "t45dpowerarmor"
 	body_parts_covered = CHEST|GROIN|LEGS|FEET|ARMS
 	armor = list(melee = 80, bullet = 60, laser = 60, energy = 60, bomb = 60, bio = 100, rad = 80)
-	slowdown = 2
+	slowdown = 1.5
 	flags = STOPSPRESSUREDMAGE
 	flags_inv = HIDEJUMPSUIT
 	cold_protection = CHEST|GROIN|LEGS|FEET|ARMS|HANDS
