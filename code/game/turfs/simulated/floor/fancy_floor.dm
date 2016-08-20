@@ -25,7 +25,7 @@
 	name = "Grass patch"
 	icon_state = "grass"
 	floor_tile = /obj/item/stack/tile/grass
-	broken_states = list("sand")
+	broken_states = list("wasteland1") //Nominee to change when some smart man decides to make a damaged state for concrete road
 
 /turf/simulated/floor/grass/New()
 	..()
