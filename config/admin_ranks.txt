@@ -27,14 +27,14 @@
 # +SPAWN (or +CREATE) = mob transformations, spawning of most atoms including mobs (high-risk atoms, e.g. blackholes, will require the +FUN flag too)
 # +EVERYTHING (or +HOST or +ALL) = Simply gives you everything without having to type every flag
 
-Apprentice
-Initiate		= +ADMIN
-Knight	                = +@
-Overseer		= +@ +SPAWN +REJUV +VAREDIT +BAN
-Paladin			= +@ +POSSESS +BUILDMODE +SERVER +FUN
-Sentinel        	= +@ +STEALTH +SOUNDS +DEBUG
-Elder   		= +EVERYTHING
+
+Trainee		= +ADMIN
+Recruit                = +@ +BAN
+Trooper		= +@ +SPAWN +REJUV +VAREDIT 
+Sergeant			= +@ +POSSESS +BUILDMODE +SERVER +FUN +SOUNDS +STEALTH
+Officer        	= +@ +DEBUG +RIGHTS
+Commandant  		= +EVERYTHING
 
 President		= +EVERYTHING
 
-Scribe			= +DEBUG +VAREDIT +SERVER +SPAWN
+Scientist			= +DEBUG +VAREDIT +SERVER +SPAWN +ADMIN
