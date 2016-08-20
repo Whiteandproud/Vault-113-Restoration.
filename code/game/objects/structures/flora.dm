@@ -84,7 +84,7 @@
 /obj/structure/flora/grass/wasteland/New()
 	..()
 	icon = 'icons/obj/flora/wasteland.dmi'
-	icon_state = "tall_grass_[rand(1, 16)]"
+	icon_state = "tall_grass_[rand(1, 14)]"
 
 //glowshroom
 /obj/structure/flora/mushroom/New()

@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 LAST_COMPILE_TIME: 1471557685
-DIR: _maps\map_files\generic _maps\map_files\TgStation code code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling\powers code\game\jobs code\game\jobs\job code\game\objects code\game\objects\items code\modules code\modules\crafting code\modules\food&drinks\recipes code\modules\food&drinks\recipes\tablecraft 
+DIR: _maps _maps\map_files _maps\map_files\generic _maps\map_files\TgStation code code\game code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling\powers code\game\jobs code\game\jobs\job code\game\objects code\game\objects\structures 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 510.1338
-WINDOW: code\modules\crafting\recipes.dm
-FILE: code\modules\crafting\recipes.dm
+WINDOW: code\game\objects\structures\flora.dm
+FILE: code\game\objects\structures\flora.dm
 */
 // END_INTERNALS
