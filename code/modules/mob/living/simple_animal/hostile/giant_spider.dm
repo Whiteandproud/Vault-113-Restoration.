@@ -4,8 +4,10 @@
 #define MOVING_TO_TARGET 3
 #define SPINNING_COCOON 4
 
+//since the radscorpions are reskinned giant_spider I had to comment out all of the things spiders do but scorpions don't
+
 /mob/living/simple_animal/hostile/poison
-	var/poison_per_bite = 5
+	var/poison_per_bite = 10
 	var/poison_type = "toxin"
 
 /mob/living/simple_animal/hostile/poison/AttackingTarget()
@@ -99,7 +101,7 @@
 			busy = 0
 			stop_automated_movement = 0
 
-/mob/living/simple_animal/hostile/poison/giant_spider/nurse/handle_automated_action()
+/*/mob/living/simple_animal/hostile/poison/giant_spider/nurse/handle_automated_action()
 	if(..())
 		var/list/can_see = view(src, 10)
 		if(!busy && prob(30))	//30% chance to stop wandering and do something
@@ -145,9 +147,9 @@
 
 	else
 		busy = 0
-		stop_automated_movement = 0
+		stop_automated_movement = 0 */
 
-/mob/living/simple_animal/hostile/poison/giant_spider/verb/Web()
+/*/mob/living/simple_animal/hostile/poison/giant_spider/verb/Web()
 	set name = "Lay Web"
 	set category = "Spider"
 	set desc = "Spread a sticky web to slow down prey."
@@ -223,9 +225,9 @@
 						C.icon_state = pick("cocoon_large1","cocoon_large2","cocoon_large3")
 		cocoon_target = null
 		busy = 0
-		stop_automated_movement = 0
+		stop_automated_movement = 0 */
 
-/mob/living/simple_animal/hostile/poison/giant_spider/nurse/verb/LayEggs()
+/*/mob/living/simple_animal/hostile/poison/giant_spider/nurse/verb/LayEggs()
 	set name = "Lay Eggs"
 	set category = "Spider"
 	set desc = "Lay a clutch of eggs, but you must wrap a creature for feeding first."
@@ -260,7 +262,7 @@
 		adjustBruteLoss(20)
 	else if(bodytemperature > maxbodytemp)
 		adjustBruteLoss(20)
-
+*/
 #undef SPINNING_WEB
 #undef LAYING_EGGS
 #undef MOVING_TO_TARGET
