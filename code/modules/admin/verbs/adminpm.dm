@@ -91,7 +91,6 @@
 		msg = sanitize(copytext(msg,1,MAX_MESSAGE_LEN))
 		if(!msg)	return
 
-	msg = emoji_parse(msg)
 	var/keywordparsedmsg = keywords_lookup(msg)
 
 	if(C.holder)

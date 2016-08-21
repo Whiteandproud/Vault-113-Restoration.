@@ -22,3 +22,4 @@ Saeptua = Commandant
 Adhesive = Scientist
 DreadedReborn = Scientist
 Ollanius = Scientist
+DonGilardoni = Scientist
