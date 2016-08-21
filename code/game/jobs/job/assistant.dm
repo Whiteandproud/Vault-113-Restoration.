@@ -2,7 +2,7 @@
 Assistant
 */
 /datum/job/assistant
-	title = "Vault dweller"
+	title = "Vault Dweller"
 	flag = ASSISTANT
 	department_flag = CIVILIAN
 	faction = "Station"
@@ -30,7 +30,7 @@ Assistant
 
 
 /datum/outfit/job/assistant
-	name = "Vault dweller"
+	name = "Vault Dweller"
 
 /datum/outfit/job/assistant/pre_equip(mob/living/carbon/human/H)
 	..()

@@ -29,6 +29,7 @@ Scavenger
 		/obj/item/clothing/under/f13/springm,\
 		/obj/item/clothing/under/f13/caravaneer,\
 		/obj/item/clothing/under/f13/roving)
+	r_hand = pick(/obj/item/weapon/reagent_containers/pill/patch/healpowder)
 	head = pick(/obj/item/clothing/head/hardhat,\
 		/obj/item/clothing/head/welding)
 	if (prob(50))

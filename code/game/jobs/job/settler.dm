@@ -29,6 +29,7 @@ Settler
 		/obj/item/clothing/under/f13/machinist,\
 		/obj/item/clothing/under/f13/lumberjack,\
 		/obj/item/clothing/under/f13/roving)
+	r_hand = pick(/obj/item/weapon/reagent_containers/pill/patch/healpowder)
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses
 	if (prob(80))

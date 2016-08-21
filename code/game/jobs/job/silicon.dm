@@ -26,7 +26,7 @@ AI
 Cyborg
 */
 /datum/job/cyborg
-	title = "Cyborg"
+	title = "Mister Gutsy"
 	flag = CYBORG
 	department_flag = ENGSEC
 	faction = "Station"
