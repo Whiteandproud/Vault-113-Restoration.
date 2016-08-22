@@ -231,6 +231,15 @@
 	other += inv_box
 
 	inv_box = new /obj/screen/inventory()
+	inv_box.name = "ears2"
+	inv_box.icon = ui_style
+	inv_box.icon_state = "ears"
+	inv_box.screen_loc = ui_ears
+	inv_box.slot_id = slot_ears
+	inv_box.layer = 19
+	other += inv_box
+
+	inv_box = new /obj/screen/inventory()
 	inv_box.name = "head"
 	inv_box.icon = ui_style
 	inv_box.icon_state = "head"

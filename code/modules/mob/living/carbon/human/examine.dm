@@ -236,6 +236,11 @@
 		else
 			msg += "[t_He] [t_is] quite chubby.\n"
 
+/*	if(hydration < HYDRATION_LEVEL_DEHYDRATED - 50)
+		msg += "[t_He] [t_is] severely dehydrated.\n"
+	else(hydration >= HYDRATION_LEVEL_HYDRATED)
+		msg += "[t_He] [t_is] has healthy amounts of hydration.\n"
+*/
 	if(pale)
 		msg += "[t_He] [t_has] pale skin.\n"
 

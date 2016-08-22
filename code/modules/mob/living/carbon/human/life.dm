@@ -288,6 +288,7 @@
 					location.add_vomit_floor(src, 1)
 
 				nutrition -= 20
+				hydration -= 20
 				adjustToxLoss(-3)
 
 				// make it so you can only puke so fast

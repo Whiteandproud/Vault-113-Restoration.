@@ -143,6 +143,22 @@ The box in your backpack has an oxygen tank and gas mask in it."
 	desc = "Some food would be to kill for right about now. The hunger pains make moving around a chore."
 	icon_state = "starving"
 
+/obj/screen/alert/slaked
+	name = "Slaked"
+	desc = "You shouldn't have drunk this much water."
+	icon_state = "slaked"
+
+/obj/screen/alert/dehydrated
+	name = "Dehydrated"
+	desc = "You feel like you need to drink water."
+	icon_state = "dehydrated"
+
+/obj/screen/alert/dangerouslydehydrated
+	name = "Dangerouslydehydrated"
+	desc = "All you see is water and probably last thing if you ever saw one."
+	icon_state = "dangerouslydehydrated"
+
+
 /obj/screen/alert/hot
 	name = "Too Hot"
 	desc = "You're flaming hot! Get somewhere cooler and take off any insulating clothing like a fire suit."

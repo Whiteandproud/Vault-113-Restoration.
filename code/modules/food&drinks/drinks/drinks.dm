@@ -153,13 +153,13 @@
 /obj/item/weapon/reagent_containers/food/drinks/mug/coco
 	name = "Dutch Hot Coco"
 	desc = "Made in Space South America."
-	list_reagents = list("hot_coco" = 30, "sugar" = 5)
+	list_reagents = list("hot_coco" = 30, "sugar" = 5, "hydration" = 50) //Don't forget to change this after testing
 
 /obj/item/weapon/reagent_containers/food/drinks/dry_ramen
 	name = "Cup Ramen"
 	desc = "Just add 10ml of water, self heats! A taste that reminds you of your school years."
 	icon_state = "ramen"
-	list_reagents = list("dry_ramen" = 30)
+	list_reagents = list("dry_ramen" = 30, "hydration" = -50)
 
 /obj/item/weapon/reagent_containers/food/drinks/beer
 	name = "Space Beer"

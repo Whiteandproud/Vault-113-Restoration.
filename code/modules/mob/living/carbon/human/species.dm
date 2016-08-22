@@ -34,6 +34,7 @@
 	var/hair_alpha = 255	// the alpha used by the hair. 255 is completely solid, 0 is transparent.
 	var/use_skintones = 0	// does it use skintones or not? (spoiler alert this is only used by humans)
 	var/need_nutrition = 1  //Does it need to eat food on a regular basis?
+	var/need_hydration = 1 	//Does it need to drink water on a regular basis?
 	var/exotic_blood = null	// If your race wants to bleed something other than bog standard blood, change this.
 	var/meat = /obj/item/weapon/reagent_containers/food/snacks/meat/slab/human //What the species drops on gibbing
 	var/list/no_equip = list()	// slots the race can't equip stuff to
@@ -646,13 +647,20 @@
 			hunger_rate = 3 * HUNGER_FACTOR
 		H.nutrition = max (0, H.nutrition - hunger_rate)
 
-
 	if (H.nutrition > NUTRITION_LEVEL_FULL)
 		if(H.overeatduration < 600) //capped so people don't take forever to unfat
 			H.overeatduration++
 	else
 		if(H.overeatduration > 1)
 			H.overeatduration -= 2 //doubled the unfat rate
+
+	if (H.hydration > HYDRATION_LEVEL_HYDRATED)
+		if(H.overhydrationduration < 400)
+			H.overhydrationduration++
+	else
+		if(H.overhydrationduration > 1)
+			H.overhydrationduration -= 2
+
 
 	//metabolism change
 	if(H.nutrition > NUTRITION_LEVEL_FAT)
@@ -791,6 +799,18 @@
 					icon_num = 0
 				if(icon_num)
 					H.healthdoll.overlays += image('icons/mob/screen_gen.dmi',"[L.name][icon_num]")
+
+	switch(H.hydration)
+		if(HYDRATION_LEVEL_HYDRATED to INFINITY)
+			H.throw_alert("hydration", /obj/screen/alert/slaked)
+		if(HYDRATION_LEVEL_DEHYDRATED to HYDRATION_LEVEL_HYDRATED)
+			H.clear_alert("hydration")
+		if(HYDRATION_LEVEL_DANGEROUSLYDEHYDRATED to HYDRATION_LEVEL_DEHYDRATED)
+			H.clear_alert("hydration", /obj/screen/alert/dehydrated)
+		else
+			H.throw_alert("hydration", /obj/screen/alert/dangerouslydehydrated)
+
+		return 1
 
 	switch(H.nutrition)
 		if(NUTRITION_LEVEL_FULL to INFINITY)

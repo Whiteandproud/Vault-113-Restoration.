@@ -585,7 +585,7 @@ var/const/GALOSHES_DONT_HELP = 4
 
 	add_abilities_to_panel()
 
-/mob/living/carbon/proc/vomit(var/lost_nutrition = 10, var/blood)
+/mob/living/carbon/proc/vomit(var/lost_nutrition = 10, var/blood, var/lost_hydration = 20)
 	if(src.is_muzzled())
 		src << "<span class='warning'>The muzzle prevents you from vomiting!</span>"
 		return 0
@@ -607,5 +607,6 @@ var/const/GALOSHES_DONT_HELP = 4
 			if(T)
 				T.add_vomit_floor(src)
 			nutrition -= lost_nutrition
+			hydration -= lost_hydration
 			adjustToxLoss(-0.5)
 	return 1
