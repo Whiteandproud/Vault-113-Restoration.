@@ -14,7 +14,7 @@ Format:
 endmap
 
 map tgstation2
-	friendlyname Box Station
+	friendlyname Wasteland
 	default
 	#voteweight 1.5
 	#minplayers 25

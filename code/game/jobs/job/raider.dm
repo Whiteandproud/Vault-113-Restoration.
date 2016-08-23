@@ -26,6 +26,7 @@ Raider
 	..()
 	uniform = pick(/obj/item/clothing/under/f13/mercadv,\
 		/obj/item/clothing/under/f13/merccharm)
+	r_hand = pick(/obj/item/weapon/reagent_containers/pill/patch/healpowder)
 	shoes = /obj/item/clothing/shoes/jackboots
 	suit = pick(/obj/item/clothing/suit/armor/f13/supafly,\
 		/obj/item/clothing/suit/armor/f13/bmetalarmor,\
@@ -42,5 +43,5 @@ Raider
 	satchel = /obj/item/weapon/storage/backpack/satchel_norm
 	if (prob(50))
 		glasses = /obj/item/clothing/glasses/sunglasses
-	if (prob(80))
-		l_hand = pick(/obj/item/weapon/hatchet)
+//	if (prob(80))
+//		l_hand = pick(/obj/item/weapon/hatchet)

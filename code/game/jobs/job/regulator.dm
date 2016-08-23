@@ -26,6 +26,7 @@ Regulator
 	..()
 	uniform = pick(/obj/item/clothing/under/f13/cowboyb,\
 		/obj/item/clothing/under/f13/cowboyg)
+	r_hand = pick(/obj/item/weapon/reagent_containers/pill/patch/healpowder)
 	shoes = /obj/item/clothing/shoes/workboots
 	suit = /obj/item/clothing/suit/armor/vest/det_suit
 	head = /obj/item/clothing/head/fluff/cowboy

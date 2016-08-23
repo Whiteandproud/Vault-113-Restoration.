@@ -59,7 +59,7 @@ var/const/WASTELANDMEDIC	=(1<<17)
 var/const/RAIDER        	=(1<<18)
 
 var/list/assistant_occupations = list(
-	"Assistant",
+	"Vault Dweller",
 //	"Atmospheric Technician",
 //	"Cargo Technician",
 //	"Chaplain",
@@ -133,17 +133,17 @@ var/list/security_positions = list(
 	"Warden",
 	"Detective",
 	"Legion Recruit",
-	"Legion Decan",
+	"Legion Decanus",
 	"Legion Vexillarius",
 	"Legion Centurion",
-	"Legion Legat",
+	"Legion Legatus",
 	"Security Officer"
 )
 
 
 var/list/nonhuman_positions = list(
 	"AI",
-	"Cyborg",
+	"Mister Gutsy",
 	"pAI"
 )
 

@@ -22,8 +22,8 @@
 	icon_living = "drone_maint_grey"
 	icon_dead = "drone_maint_dead"
 	gender = NEUTER
-	health = 30
-	maxHealth = 30
+	health = 100
+	maxHealth = 100
 	unsuitable_atmos_damage = 0
 	wander = 0
 	speed = 0
@@ -47,17 +47,17 @@
 	var/picked = FALSE //Have we picked our visual appearence (+ colour if applicable)
 	var/list/drone_overlays[DRONE_TOTAL_LAYERS]
 	var/laws = \
-	"1. You may not involve yourself in the matters of another being, even if such matters conflict with Law Two or Law Three, unless the other being is another Drone.\n"+\
-	"2. You may not harm any being, regardless of intent or circumstance.\n"+\
-	"3. Your goals are to build, maintain, repair, improve, and power to the best of your abilities, You must never actively work against these goals."
+	"1. You may not involve yourself in the affairs of non-General Atomics personnel/robots, except in the case of detaining humanoids trespassing within the restricted area of the premises.\n"+\
+	"2. You may not harm any being, regardless of intent or circumstance. You may, however, detain any trespassers on the premesis with the non-lethal means at your disposal.\n"+\
+	"3. Your goals are to build, maintain, repair, improve, and power your General Atomics facility to the best of your abilities. You must never actively work against these goals, or leave the premise without the accompaniment of General Atomics personnel."
 	var/light_on = 0
-	var/heavy_emp_damage = 25 //Amount of damage sustained if hit by a heavy EMP pulse
+	var/heavy_emp_damage = 50 //Amount of damage sustained if hit by a heavy EMP pulse
 	var/alarms = list("Atmosphere" = list(), "Fire" = list(), "Power" = list())
 	var/obj/item/internal_storage //Drones can store one item, of any size/type in their body
 	var/obj/item/head
-	var/obj/item/default_storage = /obj/item/weapon/storage/toolbox/drone //If this exists, it will spawn in internal storage
+	var/obj/item/default_storage = /obj/item/weapon/storage/dufflebag //If this exists, it will spawn in internal storage
 	var/obj/item/default_hatmask //If this exists, it will spawn in the hat/mask slot if it can fit
-	var/seeStatic = 1 //Whether we see static instead of mobs
+	var/seeStatic = 0 //Whether we see static instead of mobs
 	var/visualAppearence = MAINTDRONE //What we appear as
 	var/hacked = 0 //If we have laws to destroy the station
 

@@ -144,6 +144,7 @@ Ranger
 	name = "Ranger"
 	gloves = /obj/item/clothing/gloves/combat
 	uniform = /obj/item/clothing/under/f13/cowboyb
+	r_hand = /obj/item/weapon/reagent_containers/pill/patch/healpowder
 	shoes = /obj/item/clothing/shoes/combat/swat
 	suit = /obj/item/clothing/suit/armor/f13/rangercombat
 	head = /obj/item/clothing/head/helmet/f13/rangercombat
@@ -202,7 +203,7 @@ Legion
 
 //decan
 /datum/job/legdecan
-	title = "Legion Decan"
+	title = "Legion Decanus"
 	flag = LEGDECAN
 	department_head = list("Head of Security")
 	department_flag = ENGSEC
@@ -219,7 +220,7 @@ Legion
 	minimal_access = list()
 
 /datum/outfit/job/legdecan
-	name = "Legion Decan"
+	name = "Legion Decanus"
 	id = null
 	ears = null
 	belt = null
@@ -329,7 +330,7 @@ Legion
 
 //legat
 /datum/job/leglegat
-	title = "Legion Legat"
+	title = "Legion Legatus"
 	flag = LEGLEGAT
 	department_head = list("Head of Security")
 	department_flag = ENGSEC
@@ -346,7 +347,7 @@ Legion
 	minimal_access = list()
 
 /datum/outfit/job/leglegat
-	name = "Legion Legat"
+	name = "Legion Legatus"
 	id = null
 	ears = null
 	belt = null

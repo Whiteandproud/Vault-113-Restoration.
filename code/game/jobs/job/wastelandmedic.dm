@@ -2,7 +2,7 @@
 Wastelandmedic
 */
 /datum/job/wastelandmedic
-	title = "Wastelandmedic"
+	title = "Wasteland Medic"
 	flag = WASTELANDMEDIC
 	department_flag = CIVILIAN
 	faction = "Desert" //desert faction shall disable appearing as scavenger after readying
@@ -15,7 +15,7 @@ Wastelandmedic
 	outfit = /datum/outfit/job/wastelandmedic
 
 /datum/outfit/job/wastelandmedic
-	name = "Wastelandmedic"
+	name = "Wasteland Medic"
 	id = null
 	ears = null
 	belt = null
@@ -24,6 +24,7 @@ Wastelandmedic
 
 /datum/outfit/job/wastelandmedic/pre_equip(mob/living/carbon/human/H)
 	..()
+	r_hand = pick(/obj/item/weapon/reagent_containers/pill/patch/healpowder)
 	uniform = pick(/obj/item/clothing/under/f13/doctor)
 	mask = /obj/item/clothing/mask/surgical
 	gloves = /obj/item/clothing/gloves/color/white
