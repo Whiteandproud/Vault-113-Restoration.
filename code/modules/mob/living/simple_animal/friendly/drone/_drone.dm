@@ -55,7 +55,7 @@
 	var/alarms = list("Atmosphere" = list(), "Fire" = list(), "Power" = list())
 	var/obj/item/internal_storage //Drones can store one item, of any size/type in their body
 	var/obj/item/head
-	var/obj/item/default_storage = /obj/item/weapon/storage/dufflebag //If this exists, it will spawn in internal storage
+	var/obj/item/default_storage = /obj/item/weapon/storage/toolbox/dufflebag/drone //If this exists, it will spawn in internal storage
 	var/obj/item/default_hatmask //If this exists, it will spawn in the hat/mask slot if it can fit
 	var/seeStatic = 0 //Whether we see static instead of mobs
 	var/visualAppearence = MAINTDRONE //What we appear as
