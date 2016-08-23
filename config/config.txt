@@ -1,14 +1,14 @@
 ## Server name: This appears at the top of the screen in-game. Remove the # infront of SERVERNAME and replace 'tgstation' with the name of your choice
-#SERVERNAME Fallout 13
+#SERVERNAME Fallout 13 Stories
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
 #STATIONNAME Wasteland
 
 # Lobby time: This is the amount of time between rounds that players have to setup their characters and be ready.
-LOBBY_COUNTDOWN 120
+LOBBY_COUNTDOWN 360
 
 # Round End Time: This is the amount of time after the round ends that players have to murder death kill each other.
-ROUND_END_COUNTDOWN 60
+ROUND_END_COUNTDOWN 90
 
 ## Unhash this entry to have certain jobs require your account to be at least a certain number of days old to select. You can configure the exact age requirement for different jobs by editing
 ## the minimal_player_age variable in the files in folder /code/game/jobs/job/.. for the job you want to edit. Set minimal_player_age to 0 to disable age requirement for that job.
@@ -122,16 +122,16 @@ GUEST_BAN
 # FORUMURL http://vault113.com/index.php
 
 ## Wiki address
-# WIKIURL http://wiki.vault113.com/Main_Page
+# WIKIURL http://fallout.wikia.com/wiki/Fallout_Wiki
 
 ##Rules address
-# RULESURL https://www.reddit.com/r/Fallout13/
+# RULESURL http://vault113.com/showthread.php?tid=6
 
 ##Github address
 # GITHUBURL https://github.com/Whiteandproud/Vault-113-Restoration.
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-# BANAPPEALS http://justanotherday.example.com
+# BANAPPEALS http://vault113.com/discord
 
 ## In-game features
 ##Toggle for having jobs load up from the .txt
