@@ -105,3 +105,15 @@
 /obj/item/weapon/storage/toolbox/suicide_act(mob/user)
 	user.visible_message("<span class='suicide'>[user] robusts \himself with the toolbox! It looks like \he's trying to commit suicide..</span>")
 	return (BRUTELOSS)
+
+/obj/item/weapon/storage/toolbox/dufflebag/drone/New()
+	..()
+	new /obj/item/weapon/screwdriver(src)
+	new /obj/item/weapon/wrench(src)
+	new /obj/item/weapon/weldingtool(src)
+	new /obj/item/weapon/crowbar(src)
+	new /obj/item/stack/cable_coil(src,30,color)
+	new /obj/item/weapon/wirecutters(src)
+	new /obj/item/device/multitool(src)
+	icon_state = "duffle"
+	item_state = "duffle"
