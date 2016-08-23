@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 LAST_COMPILE_TIME: 1471735423
-DIR: _maps _maps\map_files _maps\map_files\generic code code\game\gamemodes code\game\gamemodes\abduction code\game\gamemodes\abduction\machinery code\game\jobs\job code\game\machinery code\game\machinery\embedded_controller code\game\objects 
+DIR: _maps _maps\map_files _maps\map_files\TgStation code code\game\gamemodes\abduction\machinery code\game\jobs code\game\jobs\job code\game\machinery code\game\machinery\embedded_controller code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\friendly code\modules\mob\living\simple_animal\friendly\drone 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 510.1347
-WINDOW: code\hub.dm;_maps\map_files\generic\z2.dmm
-FILE: _maps\map_files\generic\z2.dmm
+WINDOW: code\modules\mob\living\simple_animal\friendly\drone\_drone.dm
+FILE: code\modules\mob\living\simple_animal\friendly\drone\_drone.dm
 */
 // END_INTERNALS

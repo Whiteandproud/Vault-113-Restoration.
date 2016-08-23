@@ -18,6 +18,7 @@ JustAnotherGriefer = Trooper
 Magicbones = Sergeant
 Rovernic = Sergeant
 Saeptua = Commandant
+MacarioCR = Recruit
 
 Adhesive = Scientist
 DreadedReborn = Scientist
