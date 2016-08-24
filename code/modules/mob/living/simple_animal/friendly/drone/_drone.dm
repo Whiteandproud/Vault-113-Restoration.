@@ -47,7 +47,7 @@
 	var/picked = FALSE //Have we picked our visual appearence (+ colour if applicable)
 	var/list/drone_overlays[DRONE_TOTAL_LAYERS]
 	var/laws = \
-	"1. You may not involve yourself in the affairs of non-General Atomics personnel/robots, except in the case of detaining humanoids trespassing within the restricted area of the premises.\n"+\
+	"1. You may not involve yourself in the affairs of non-General Atomics personnel/robots, except in the case of detaining non-General Atomics personnel trespassing within the restricted area of the premises.\n"+\
 	"2. You may not harm any being, regardless of intent or circumstance. You may, however, detain any trespassers on the premesis with the non-lethal means at your disposal.\n"+\
 	"3. Your goals are to build, maintain, repair, improve, and power your General Atomics facility to the best of your abilities. You must never actively work against these goals, or leave the premise without the accompaniment of General Atomics personnel."
 	var/light_on = 0
@@ -55,7 +55,7 @@
 	var/alarms = list("Atmosphere" = list(), "Fire" = list(), "Power" = list())
 	var/obj/item/internal_storage //Drones can store one item, of any size/type in their body
 	var/obj/item/head
-	var/obj/item/default_storage = /obj/item/weapon/storage/dufflebag //If this exists, it will spawn in internal storage
+	var/obj/item/default_storage = /obj/item/weapon/storage/toolbox/dufflebag/drone //If this exists, it will spawn in internal storage
 	var/obj/item/default_hatmask //If this exists, it will spawn in the hat/mask slot if it can fit
 	var/seeStatic = 0 //Whether we see static instead of mobs
 	var/visualAppearence = MAINTDRONE //What we appear as
