@@ -418,6 +418,14 @@
 	parts = list(/obj/item/device/camera = 1)
 	category = CAT_MISC
 */
+/datum/table_recipe/rag
+	name = "damp rag"
+	result = obj/item/weapon/reagent_containers/glass/rag
+	reqs = list(obj/item/stack/medical/gauze/improvised = 2
+	tools = list(/obj/item/weapon/reagent_containers/food/drinks/nukacola
+	time = 50
+	category = CAT_MISC
+
 /*
 /datum/table_recipe/lizardhat
 	name = "Lizard Cloche Hat"
